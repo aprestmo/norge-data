@@ -1,0 +1,62 @@
+[
+  {
+    "fylkesnummer": 3,
+    "fylkesnavn": "Oslo"
+  },
+  {
+    "fylkesnummer": 11,
+    "fylkesnavn": "Rogaland"
+  },
+  {
+    "fylkesnummer": 15,
+    "fylkesnavn": "M?re og Romsdal"
+  },
+  {
+    "fylkesnummer": 18,
+    "fylkesnavn": "Nordland"
+  },
+  {
+    "fylkesnummer": 31,
+    "fylkesnavn": "?stfold"
+  },
+  {
+    "fylkesnummer": 32,
+    "fylkesnavn": "Akershus"
+  },
+  {
+    "fylkesnummer": 33,
+    "fylkesnavn": "Buskerud"
+  },
+  {
+    "fylkesnummer": 34,
+    "fylkesnavn": "Innlandet"
+  },
+  {
+    "fylkesnummer": 39,
+    "fylkesnavn": "Vestfold"
+  },
+  {
+    "fylkesnummer": 40,
+    "fylkesnavn": "Telemark"
+  },
+  {
+    "fylkesnummer": 42,
+    "fylkesnavn": "Agder"
+  },
+  {
+    "fylkesnummer": 46,
+    "fylkesnavn": "Vestland"
+  },
+  {
+    "fylkesnummer": 50,
+    "fylkesnavn": "Tr?ndelag"
+  },
+  {
+    "fylkesnummer": 55,
+    "fylkesnavn": "Troms"
+  },
+  {
+    "fylkesnummer": 56,
+    "fylkesnavn": "Finnmark"
+  }
+]

@@ -2,1786 +2,2500 @@
   {
     "k_id": "0301",
     "k_name": "Oslo",
-    "k_name_no": "Oslo"
+    "k_name_nb": "Oslo",
+    "adm_center": "Oslo",
+    "language": "Oslo"
   },
   {
     "k_id": "1101",
     "k_name": "Eigersund",
-    "k_name_no": "Eigersund"
+    "k_name_nb": "Eigersund",
+    "adm_center": "Eigersund",
+    "language": "Egersund"
   },
   {
     "k_id": "1103",
     "k_name": "Stavanger",
-    "k_name_no": "Stavanger"
+    "k_name_nb": "Stavanger",
+    "adm_center": "Stavanger",
+    "language": "Stavanger"
   },
   {
     "k_id": "1106",
     "k_name": "Haugesund",
-    "k_name_no": "Haugesund"
+    "k_name_nb": "Haugesund",
+    "adm_center": "Haugesund",
+    "language": "Haugesund"
   },
   {
     "k_id": "1108",
     "k_name": "Sandnes",
-    "k_name_no": "Sandnes"
+    "k_name_nb": "Sandnes",
+    "adm_center": "Sandnes",
+    "language": "Sandnes"
   },
   {
     "k_id": "1111",
     "k_name": "Sokndal",
-    "k_name_no": "Sokndal"
+    "k_name_nb": "Sokndal",
+    "adm_center": "Sokndal",
+    "language": "Hauge"
   },
   {
     "k_id": "1112",
     "k_name": "Lund",
-    "k_name_no": "Lund"
+    "k_name_nb": "Lund",
+    "adm_center": "Lund",
+    "language": "Moi"
   },
   {
     "k_id": "1114",
     "k_name": "Bjerkreim",
-    "k_name_no": "Bjerkreim"
+    "k_name_nb": "Bjerkreim",
+    "adm_center": "Bjerkreim",
+    "language": "Vikeså"
   },
   {
     "k_id": "1119",
     "k_name": "Hå",
-    "k_name_no": "Hå"
+    "k_name_nb": "Hå",
+    "adm_center": "Hå",
+    "language": "Varhaug"
   },
   {
     "k_id": "1120",
     "k_name": "Klepp",
-    "k_name_no": "Klepp"
+    "k_name_nb": "Klepp",
+    "adm_center": "Klepp",
+    "language": "Kleppe"
   },
   {
     "k_id": "1121",
     "k_name": "Time",
-    "k_name_no": "Time"
+    "k_name_nb": "Time",
+    "adm_center": "Time",
+    "language": "Bryne"
   },
   {
     "k_id": "1122",
     "k_name": "Gjesdal",
-    "k_name_no": "Gjesdal"
+    "k_name_nb": "Gjesdal",
+    "adm_center": "Gjesdal",
+    "language": "Ålgård"
   },
   {
     "k_id": "1124",
     "k_name": "Sola",
-    "k_name_no": "Sola"
+    "k_name_nb": "Sola",
+    "adm_center": "Sola",
+    "language": "Solakrossen"
   },
   {
     "k_id": "1127",
     "k_name": "Randaberg",
-    "k_name_no": "Randaberg"
+    "k_name_nb": "Randaberg",
+    "adm_center": "Randaberg",
+    "language": "Randaberg"
   },
   {
     "k_id": "1130",
     "k_name": "Strand",
-    "k_name_no": "Strand"
+    "k_name_nb": "Strand",
+    "adm_center": "Strand",
+    "language": "Jørpeland"
   },
   {
     "k_id": "1133",
     "k_name": "Hjelmeland",
-    "k_name_no": "Hjelmeland"
+    "k_name_nb": "Hjelmeland",
+    "adm_center": "Hjelmeland",
+    "language": "Hjelmelandsvågen"
   },
   {
     "k_id": "1134",
     "k_name": "Suldal",
-    "k_name_no": "Suldal"
+    "k_name_nb": "Suldal",
+    "adm_center": "Suldal",
+    "language": "Sand"
   },
   {
     "k_id": "1135",
     "k_name": "Sauda",
-    "k_name_no": "Sauda"
+    "k_name_nb": "Sauda",
+    "adm_center": "Sauda",
+    "language": "Sauda"
   },
   {
     "k_id": "1144",
     "k_name": "Kvitsøy",
-    "k_name_no": "Kvitsøy"
+    "k_name_nb": "Kvitsøy",
+    "adm_center": "Kvitsøy",
+    "language": "Ydstebøhavn"
   },
   {
     "k_id": "1145",
     "k_name": "Bokn",
-    "k_name_no": "Bokn"
+    "k_name_nb": "Bokn",
+    "adm_center": "Bokn",
+    "language": "Føresvik"
   },
   {
     "k_id": "1146",
     "k_name": "Tysvær",
-    "k_name_no": "Tysvær"
+    "k_name_nb": "Tysvær",
+    "adm_center": "Tysvær",
+    "language": "Aksdal"
   },
   {
     "k_id": "1149",
     "k_name": "Karmøy",
-    "k_name_no": "Karmøy"
+    "k_name_nb": "Karmøy",
+    "adm_center": "Karmøy",
+    "language": "Kopervik"
   },
   {
     "k_id": "1151",
     "k_name": "Utsira",
-    "k_name_no": "Utsira"
+    "k_name_nb": "Utsira",
+    "adm_center": "Utsira",
+    "language": "Utsira"
   },
   {
     "k_id": "1160",
     "k_name": "Vindafjord",
-    "k_name_no": "Vindafjord"
+    "k_name_nb": "Vindafjord",
+    "adm_center": "Vindafjord",
+    "language": "Ølensjøen"
   },
   {
     "k_id": "1505",
     "k_name": "Kristiansund",
-    "k_name_no": "Kristiansund"
+    "k_name_nb": "Kristiansund",
+    "adm_center": "Kristiansund",
+    "language": "Kristiansund"
   },
   {
     "k_id": "1506",
     "k_name": "Molde",
-    "k_name_no": "Molde"
+    "k_name_nb": "Molde",
+    "adm_center": "Molde",
+    "language": "Molde"
   },
   {
     "k_id": "1508",
     "k_name": "Ålesund",
-    "k_name_no": "Ålesund"
+    "k_name_nb": "Ålesund",
+    "adm_center": "Ålesund",
+    "language": "Ålesund"
   },
   {
     "k_id": "1511",
     "k_name": "Vanylven",
-    "k_name_no": "Vanylven"
+    "k_name_nb": "Vanylven",
+    "adm_center": "Vanylven",
+    "language": "Fiskåbygd"
   },
   {
     "k_id": "1514",
     "k_name": "Sande",
-    "k_name_no": "Sande"
+    "k_name_nb": "Sande",
+    "adm_center": "Sande",
+    "language": "Larsnes"
   },
   {
     "k_id": "1515",
     "k_name": "Herøy",
-    "k_name_no": "Herøy"
+    "k_name_nb": "Herøy",
+    "adm_center": "Herøy",
+    "language": "Fosnavåg"
   },
   {
     "k_id": "1516",
     "k_name": "Ulstein",
-    "k_name_no": "Ulstein"
+    "k_name_nb": "Ulstein",
+    "adm_center": "Ulstein",
+    "language": "Ulsteinvik"
   },
   {
     "k_id": "1517",
     "k_name": "Hareid",
-    "k_name_no": "Hareid"
+    "k_name_nb": "Hareid",
+    "adm_center": "Hareid",
+    "language": "Hareid"
   },
   {
     "k_id": "1520",
     "k_name": "Ørsta",
-    "k_name_no": "Ørsta"
+    "k_name_nb": "Ørsta",
+    "adm_center": "Ørsta",
+    "language": "Ørsta"
   },
   {
     "k_id": "1525",
     "k_name": "Stranda",
-    "k_name_no": "Stranda"
+    "k_name_nb": "Stranda",
+    "adm_center": "Stranda",
+    "language": "Stranda"
   },
   {
     "k_id": "1528",
     "k_name": "Sykkylven",
-    "k_name_no": "Sykkylven"
+    "k_name_nb": "Sykkylven",
+    "adm_center": "Sykkylven",
+    "language": "Aure"
   },
   {
     "k_id": "1531",
     "k_name": "Sula",
-    "k_name_no": "Sula"
+    "k_name_nb": "Sula",
+    "adm_center": "Sula",
+    "language": "Langevåg"
   },
   {
     "k_id": "1532",
     "k_name": "Giske",
-    "k_name_no": "Giske"
+    "k_name_nb": "Giske",
+    "adm_center": "Giske",
+    "language": "Valderøya"
   },
   {
     "k_id": "1535",
     "k_name": "Vestnes",
-    "k_name_no": "Vestnes"
+    "k_name_nb": "Vestnes",
+    "adm_center": "Vestnes",
+    "language": "Vestnes"
   },
   {
     "k_id": "1539",
     "k_name": "Rauma",
-    "k_name_no": "Rauma"
+    "k_name_nb": "Rauma",
+    "adm_center": "Rauma",
+    "language": "Åndalsnes"
   },
   {
     "k_id": "1547",
     "k_name": "Aukra",
-    "k_name_no": "Aukra"
+    "k_name_nb": "Aukra",
+    "adm_center": "Aukra",
+    "language": "Falkhytta"
   },
   {
     "k_id": "1554",
     "k_name": "Averøy",
-    "k_name_no": "Averøy"
+    "k_name_nb": "Averøy",
+    "adm_center": "Averøy",
+    "language": "Bruhagen"
   },
   {
     "k_id": "1557",
     "k_name": "Gjemnes",
-    "k_name_no": "Gjemnes"
+    "k_name_nb": "Gjemnes",
+    "adm_center": "Gjemnes",
+    "language": "Batnfjordsøra"
   },
   {
     "k_id": "1560",
     "k_name": "Tingvoll",
-    "k_name_no": "Tingvoll"
+    "k_name_nb": "Tingvoll",
+    "adm_center": "Tingvoll",
+    "language": "Tingvoll"
   },
   {
     "k_id": "1563",
     "k_name": "Sunndal",
-    "k_name_no": "Sunndal"
+    "k_name_nb": "Sunndal",
+    "adm_center": "Sunndal",
+    "language": "Sunndalsøra"
   },
   {
     "k_id": "1566",
     "k_name": "Surnadal",
-    "k_name_no": "Surnadal"
+    "k_name_nb": "Surnadal",
+    "adm_center": "Surnadal",
+    "language": "Skei"
   },
   {
     "k_id": "1573",
     "k_name": "Smøla",
-    "k_name_no": "Smøla"
+    "k_name_nb": "Smøla",
+    "adm_center": "Smøla",
+    "language": "Hopen"
   },
   {
     "k_id": "1576",
     "k_name": "Aure",
-    "k_name_no": "Aure"
+    "k_name_nb": "Aure",
+    "adm_center": "Aure",
+    "language": "Aure"
   },
   {
     "k_id": "1577",
     "k_name": "Volda",
-    "k_name_no": "Volda"
+    "k_name_nb": "Volda",
+    "adm_center": "Volda",
+    "language": "Volda"
   },
   {
     "k_id": "1578",
     "k_name": "Fjord",
-    "k_name_no": "Fjord"
+    "k_name_nb": "Fjord",
+    "adm_center": "Fjord",
+    "language": "Sylte"
   },
   {
     "k_id": "1579",
     "k_name": "Hustadvika",
-    "k_name_no": "Hustadvika"
+    "k_name_nb": "Hustadvika",
+    "adm_center": "Hustadvika",
+    "language": "Elnesvågen"
   },
   {
     "k_id": "1580",
     "k_name": "Haram",
-    "k_name_no": "Haram"
+    "k_name_nb": "Haram",
+    "adm_center": "Haram",
+    "language": "Brattvåg"
   },
   {
     "k_id": "1804",
     "k_name": "Bodø",
-    "k_name_no": "Bodø"
+    "k_name_nb": "Bodø",
+    "adm_center": "Bodø",
+    "language": "Bodø"
   },
   {
     "k_id": "1806",
     "k_name": "Narvik",
-    "k_name_no": "Narvik"
+    "k_name_nb": "Narvik",
+    "adm_center": "Narvik",
+    "language": "Narvik"
   },
   {
     "k_id": "1811",
     "k_name": "Bindal",
-    "k_name_no": "Bindal"
+    "k_name_nb": "Bindal",
+    "adm_center": "Bindal",
+    "language": "Terråk"
   },
   {
     "k_id": "1812",
     "k_name": "Sømna",
-    "k_name_no": "Sømna"
+    "k_name_nb": "Sømna",
+    "adm_center": "Sømna",
+    "language": "Vik"
   },
   {
     "k_id": "1813",
     "k_name": "Brønnøy",
-    "k_name_no": "Brønnøy"
+    "k_name_nb": "Brønnøy",
+    "adm_center": "Brønnøy",
+    "language": "Brønnøysund"
   },
   {
     "k_id": "1815",
     "k_name": "Vega",
-    "k_name_no": "Vega"
+    "k_name_nb": "Vega",
+    "adm_center": "Vega",
+    "language": "Gladstad"
   },
   {
     "k_id": "1816",
     "k_name": "Vevelstad",
-    "k_name_no": "Vevelstad"
+    "k_name_nb": "Vevelstad",
+    "adm_center": "Vevelstad",
+    "language": "Vevelstad"
   },
   {
     "k_id": "1818",
     "k_name": "Herøy",
-    "k_name_no": "Herøy"
+    "k_name_nb": "Herøy",
+    "adm_center": "Herøy",
+    "language": "Silvalen"
   },
   {
     "k_id": "1820",
     "k_name": "Alstahaug",
-    "k_name_no": "Alstahaug"
+    "k_name_nb": "Alstahaug",
+    "adm_center": "Alstahaug",
+    "language": "Sandnessjøen"
   },
   {
     "k_id": "1822",
     "k_name": "Leirfjord",
-    "k_name_no": "Leirfjord"
+    "k_name_nb": "Leirfjord",
+    "adm_center": "Leirfjord",
+    "language": "Leland"
   },
   {
     "k_id": "1824",
     "k_name": "Vefsn",
-    "k_name_no": "Vefsn"
+    "k_name_nb": "Vefsn",
+    "adm_center": "Vefsn",
+    "language": "Mosjøen"
   },
   {
     "k_id": "1825",
     "k_name": "Grane",
-    "k_name_no": "Grane"
+    "k_name_nb": "Grane",
+    "adm_center": "Grane",
+    "language": "Trofors"
   },
   {
     "k_id": "1826",
     "k_name": "Aarborte",
-    "k_name_no": "Hattfjelldal"
+    "k_name_nb": "Hattfjelldal",
+    "adm_center": "Hattfjelldal",
+    "language": "Hattfjelldal"
   },
   {
     "k_id": "1827",
     "k_name": "Dønna",
-    "k_name_no": "Dønna"
+    "k_name_nb": "Dønna",
+    "adm_center": "Dønna",
+    "language": "Solfjellsjøen"
   },
   {
     "k_id": "1828",
     "k_name": "Nesna",
-    "k_name_no": "Nesna"
+    "k_name_nb": "Nesna",
+    "adm_center": "Nesna",
+    "language": "Nesna"
   },
   {
     "k_id": "1832",
     "k_name": "Hemnes",
-    "k_name_no": "Hemnes"
+    "k_name_nb": "Hemnes",
+    "adm_center": "Hemnes",
+    "language": "Korgen"
   },
   {
     "k_id": "1833",
     "k_name": "Rana",
-    "k_name_no": "Rana"
+    "k_name_nb": "Rana",
+    "adm_center": "Rana",
+    "language": "Mo i Rana"
   },
   {
     "k_id": "1834",
     "k_name": "Lurøy",
-    "k_name_no": "Lurøy"
+    "k_name_nb": "Lurøy",
+    "adm_center": "Lurøy",
+    "language": "Lurøy"
   },
   {
     "k_id": "1835",
     "k_name": "Træna",
-    "k_name_no": "Træna"
+    "k_name_nb": "Træna",
+    "adm_center": "Træna",
+    "language": "Husøya"
   },
   {
     "k_id": "1836",
     "k_name": "Rødøy",
-    "k_name_no": "Rødøy"
+    "k_name_nb": "Rødøy",
+    "adm_center": "Rødøy",
+    "language": "Vågaholmen"
   },
   {
     "k_id": "1837",
     "k_name": "Meløy",
-    "k_name_no": "Meløy"
+    "k_name_nb": "Meløy",
+    "adm_center": "Meløy",
+    "language": "Ørnes"
   },
   {
     "k_id": "1838",
     "k_name": "Gildeskål",
-    "k_name_no": "Gildeskål"
+    "k_name_nb": "Gildeskål",
+    "adm_center": "Gildeskål",
+    "language": "Inndyr"
   },
   {
     "k_id": "1839",
     "k_name": "Beiarn",
-    "k_name_no": "Beiarn"
+    "k_name_nb": "Beiarn",
+    "adm_center": "Beiarn",
+    "language": "Moldjord"
   },
   {
     "k_id": "1840",
     "k_name": "Saltdal",
-    "k_name_no": "Saltdal"
+    "k_name_nb": "Saltdal",
+    "adm_center": "Saltdal",
+    "language": "Rognan"
   },
   {
     "k_id": "1841",
     "k_name": "Fauske",
-    "k_name_no": "Fauske"
+    "k_name_nb": "Fauske",
+    "adm_center": "Fauske",
+    "language": "Fauske"
   },
   {
     "k_id": "1845",
     "k_name": "Sørfold",
-    "k_name_no": "Sørfold"
+    "k_name_nb": "Sørfold",
+    "adm_center": "Sørfold",
+    "language": "Straumen"
   },
   {
     "k_id": "1848",
     "k_name": "Steigen",
-    "k_name_no": "Steigen"
+    "k_name_nb": "Steigen",
+    "adm_center": "Steigen",
+    "language": "Leinesfjord"
   },
   {
     "k_id": "1851",
     "k_name": "Lødingen",
-    "k_name_no": "Lødingen"
+    "k_name_nb": "Lødingen",
+    "adm_center": "Lødingen",
+    "language": "Lødingen"
   },
   {
     "k_id": "1853",
     "k_name": "Evenes",
-    "k_name_no": "Evenes"
+    "k_name_nb": "Evenes",
+    "adm_center": "Evenes",
+    "language": "Bogen"
   },
   {
     "k_id": "1856",
     "k_name": "Røst",
-    "k_name_no": "Røst"
+    "k_name_nb": "Røst",
+    "adm_center": "Røst",
+    "language": "Røstlandet"
   },
   {
     "k_id": "1857",
     "k_name": "Værøy",
-    "k_name_no": "Værøy"
+    "k_name_nb": "Værøy",
+    "adm_center": "Værøy",
+    "language": "Sørland"
   },
   {
     "k_id": "1859",
     "k_name": "Flakstad",
-    "k_name_no": "Flakstad"
+    "k_name_nb": "Flakstad",
+    "adm_center": "Flakstad",
+    "language": "Ramberg"
   },
   {
     "k_id": "1860",
     "k_name": "Vestvågøy",
-    "k_name_no": "Vestvågøy"
+    "k_name_nb": "Vestvågøy",
+    "adm_center": "Vestvågøy",
+    "language": "Leknes"
   },
   {
     "k_id": "1865",
     "k_name": "Vågan",
-    "k_name_no": "Vågan"
+    "k_name_nb": "Vågan",
+    "adm_center": "Vågan",
+    "language": "Svolvær"
   },
   {
     "k_id": "1866",
     "k_name": "Hadsel",
-    "k_name_no": "Hadsel"
+    "k_name_nb": "Hadsel",
+    "adm_center": "Hadsel",
+    "language": "Stokmarknes"
   },
   {
     "k_id": "1867",
     "k_name": "Bø",
-    "k_name_no": "Bø"
+    "k_name_nb": "Bø",
+    "adm_center": "Bø",
+    "language": "Straume"
   },
   {
     "k_id": "1868",
     "k_name": "Øksnes",
-    "k_name_no": "Øksnes"
+    "k_name_nb": "Øksnes",
+    "adm_center": "Øksnes",
+    "language": "Myre"
   },
   {
     "k_id": "1870",
     "k_name": "Sortland",
-    "k_name_no": "Sortland"
+    "k_name_nb": "Sortland",
+    "adm_center": "Sortland",
+    "language": "Sortland"
   },
   {
     "k_id": "1871",
     "k_name": "Andøy",
-    "k_name_no": "Andøy"
+    "k_name_nb": "Andøy",
+    "adm_center": "Andøy",
+    "language": "Andenes"
   },
   {
     "k_id": "1874",
     "k_name": "Moskenes",
-    "k_name_no": "Moskenes"
+    "k_name_nb": "Moskenes",
+    "adm_center": "Moskenes",
+    "language": "Reine"
   },
   {
     "k_id": "1875",
     "k_name": "Hábmer",
-    "k_name_no": "Hamarøy"
+    "k_name_nb": "Hamarøy",
+    "adm_center": "Hamarøy",
+    "language": "Oppeid"
   },
   {
     "k_id": "3101",
     "k_name": "Halden",
-    "k_name_no": "Halden"
+    "k_name_nb": "Halden",
+    "adm_center": "Halden",
+    "language": "Halden"
   },
   {
     "k_id": "3103",
     "k_name": "Moss",
-    "k_name_no": "Moss"
+    "k_name_nb": "Moss",
+    "adm_center": "Moss",
+    "language": "Moss"
   },
   {
     "k_id": "3105",
     "k_name": "Sarpsborg",
-    "k_name_no": "Sarpsborg"
+    "k_name_nb": "Sarpsborg",
+    "adm_center": "Sarpsborg",
+    "language": "Sarpsborg"
   },
   {
     "k_id": "3107",
     "k_name": "Fredrikstad",
-    "k_name_no": "Fredrikstad"
+    "k_name_nb": "Fredrikstad",
+    "adm_center": "Fredrikstad",
+    "language": "Fredrikstad"
   },
   {
     "k_id": "3110",
     "k_name": "Hvaler",
-    "k_name_no": "Hvaler"
+    "k_name_nb": "Hvaler",
+    "adm_center": "Hvaler",
+    "language": "Skjærhalden"
   },
   {
     "k_id": "3112",
     "k_name": "Råde",
-    "k_name_no": "Råde"
+    "k_name_nb": "Råde",
+    "adm_center": "Råde",
+    "language": "Karlshus"
   },
   {
     "k_id": "3114",
     "k_name": "Våler",
-    "k_name_no": "Våler"
+    "k_name_nb": "Våler",
+    "adm_center": "Våler",
+    "language": "Kirkebygden"
   },
   {
     "k_id": "3116",
     "k_name": "Skiptvet",
-    "k_name_no": "Skiptvet"
+    "k_name_nb": "Skiptvet",
+    "adm_center": "Skiptvet",
+    "language": "Meieribyen"
   },
   {
     "k_id": "3118",
     "k_name": "Indre Østfold",
-    "k_name_no": "Indre Østfold"
+    "k_name_nb": "Indre Østfold",
+    "adm_center": "Indre Østfold",
+    "language": "Askim"
   },
   {
     "k_id": "3120",
     "k_name": "Rakkestad",
-    "k_name_no": "Rakkestad"
+    "k_name_nb": "Rakkestad",
+    "adm_center": "Rakkestad",
+    "language": "Rakkestad"
   },
   {
     "k_id": "3122",
     "k_name": "Marker",
-    "k_name_no": "Marker"
+    "k_name_nb": "Marker",
+    "adm_center": "Marker",
+    "language": "Ørje"
   },
   {
     "k_id": "3124",
     "k_name": "Aremark",
-    "k_name_no": "Aremark"
+    "k_name_nb": "Aremark",
+    "adm_center": "Aremark",
+    "language": "Fossby"
   },
   {
     "k_id": "3201",
     "k_name": "Bærum",
-    "k_name_no": "Bærum"
+    "k_name_nb": "Bærum",
+    "adm_center": "Bærum",
+    "language": "Sandvika"
   },
   {
     "k_id": "3203",
     "k_name": "Asker",
-    "k_name_no": "Asker"
+    "k_name_nb": "Asker",
+    "adm_center": "Asker",
+    "language": "Asker"
   },
   {
     "k_id": "3205",
     "k_name": "Lillestrøm",
-    "k_name_no": "Lillestrøm"
+    "k_name_nb": "Lillestrøm",
+    "adm_center": "Lillestrøm",
+    "language": "Lillestrøm"
   },
   {
     "k_id": "3207",
     "k_name": "Nordre Follo",
-    "k_name_no": "Nordre Follo"
+    "k_name_nb": "Nordre Follo",
+    "adm_center": "Nordre Follo",
+    "language": "Ski"
   },
   {
     "k_id": "3209",
     "k_name": "Ullensaker",
-    "k_name_no": "Ullensaker"
+    "k_name_nb": "Ullensaker",
+    "adm_center": "Ullensaker",
+    "language": "Jessheim"
   },
   {
     "k_id": "3212",
     "k_name": "Nesodden",
-    "k_name_no": "Nesodden"
+    "k_name_nb": "Nesodden",
+    "adm_center": "Nesodden",
+    "language": "Nesoddtangen"
   },
   {
     "k_id": "3214",
     "k_name": "Frogn",
-    "k_name_no": "Frogn"
+    "k_name_nb": "Frogn",
+    "adm_center": "Frogn",
+    "language": "Drøbak"
   },
   {
     "k_id": "3216",
     "k_name": "Vestby",
-    "k_name_no": "Vestby"
+    "k_name_nb": "Vestby",
+    "adm_center": "Vestby",
+    "language": "Vestby"
   },
   {
     "k_id": "3218",
     "k_name": "Ås",
-    "k_name_no": "Ås"
+    "k_name_nb": "Ås",
+    "adm_center": "Ås",
+    "language": "Ås"
   },
   {
     "k_id": "3220",
     "k_name": "Enebakk",
-    "k_name_no": "Enebakk"
+    "k_name_nb": "Enebakk",
+    "adm_center": "Enebakk",
+    "language": "Kirkebygda"
   },
   {
     "k_id": "3222",
     "k_name": "Lørenskog",
-    "k_name_no": "Lørenskog"
+    "k_name_nb": "Lørenskog",
+    "adm_center": "Lørenskog",
+    "language": "Solheim"
   },
   {
     "k_id": "3224",
     "k_name": "Rælingen",
-    "k_name_no": "Rælingen"
+    "k_name_nb": "Rælingen",
+    "adm_center": "Rælingen",
+    "language": "Fjerdingby"
   },
   {
     "k_id": "3226",
     "k_name": "Aurskog-Høland",
-    "k_name_no": "Aurskog-Høland"
+    "k_name_nb": "Aurskog-Høland",
+    "adm_center": "Aurskog-Høland",
+    "language": "Bjørkelangen"
   },
   {
     "k_id": "3228",
     "k_name": "Nes",
-    "k_name_no": "Nes"
+    "k_name_nb": "Nes",
+    "adm_center": "Nes",
+    "language": "Årnes"
   },
   {
     "k_id": "3230",
     "k_name": "Gjerdrum",
-    "k_name_no": "Gjerdrum"
+    "k_name_nb": "Gjerdrum",
+    "adm_center": "Gjerdrum",
+    "language": "Ask"
   },
   {
     "k_id": "3232",
     "k_name": "Nittedal",
-    "k_name_no": "Nittedal"
+    "k_name_nb": "Nittedal",
+    "adm_center": "Nittedal",
+    "language": "Rotnes"
   },
   {
     "k_id": "3234",
     "k_name": "Lunner",
-    "k_name_no": "Lunner"
+    "k_name_nb": "Lunner",
+    "adm_center": "Lunner",
+    "language": "Roa"
   },
   {
     "k_id": "3236",
     "k_name": "Jevnaker",
-    "k_name_no": "Jevnaker"
+    "k_name_nb": "Jevnaker",
+    "adm_center": "Jevnaker",
+    "language": "Jevnaker"
   },
   {
     "k_id": "3238",
     "k_name": "Nannestad",
-    "k_name_no": "Nannestad"
+    "k_name_nb": "Nannestad",
+    "adm_center": "Nannestad",
+    "language": "Teigebyen"
   },
   {
     "k_id": "3240",
     "k_name": "Eidsvoll",
-    "k_name_no": "Eidsvoll"
+    "k_name_nb": "Eidsvoll",
+    "adm_center": "Eidsvoll",
+    "language": "Eidsvoll"
   },
   {
     "k_id": "3242",
     "k_name": "Hurdal",
-    "k_name_no": "Hurdal"
+    "k_name_nb": "Hurdal",
+    "adm_center": "Hurdal",
+    "language": "Hurdal"
   },
   {
     "k_id": "3301",
     "k_name": "Drammen",
-    "k_name_no": "Drammen"
+    "k_name_nb": "Drammen",
+    "adm_center": "Drammen",
+    "language": "Drammen"
   },
   {
     "k_id": "3303",
     "k_name": "Kongsberg",
-    "k_name_no": "Kongsberg"
+    "k_name_nb": "Kongsberg",
+    "adm_center": "Kongsberg",
+    "language": "Kongsberg"
   },
   {
     "k_id": "3305",
     "k_name": "Ringerike",
-    "k_name_no": "Ringerike"
+    "k_name_nb": "Ringerike",
+    "adm_center": "Ringerike",
+    "language": "Hønefoss"
   },
   {
     "k_id": "3310",
     "k_name": "Hole",
-    "k_name_no": "Hole"
+    "k_name_nb": "Hole",
+    "adm_center": "Hole",
+    "language": "Vik"
   },
   {
     "k_id": "3312",
     "k_name": "Lier",
-    "k_name_no": "Lier"
+    "k_name_nb": "Lier",
+    "adm_center": "Lier",
+    "language": "Lierbyen"
   },
   {
     "k_id": "3314",
     "k_name": "Øvre Eiker",
-    "k_name_no": "Øvre Eiker"
+    "k_name_nb": "Øvre Eiker",
+    "adm_center": "Øvre Eiker",
+    "language": "Hokksund"
   },
   {
     "k_id": "3316",
     "k_name": "Modum",
-    "k_name_no": "Modum"
+    "k_name_nb": "Modum",
+    "adm_center": "Modum",
+    "language": "Vikersund"
   },
   {
     "k_id": "3318",
     "k_name": "Krødsherad",
-    "k_name_no": "Krødsherad"
+    "k_name_nb": "Krødsherad",
+    "adm_center": "Krødsherad",
+    "language": "Noresund"
   },
   {
     "k_id": "3320",
     "k_name": "Flå",
-    "k_name_no": "Flå"
+    "k_name_nb": "Flå",
+    "adm_center": "Flå",
+    "language": "Flå"
   },
   {
     "k_id": "3322",
     "k_name": "Nesbyen",
-    "k_name_no": "Nesbyen"
+    "k_name_nb": "Nesbyen",
+    "adm_center": "Nesbyen",
+    "language": "Nesbyen"
   },
   {
     "k_id": "3324",
     "k_name": "Gol",
-    "k_name_no": "Gol"
+    "k_name_nb": "Gol",
+    "adm_center": "Gol",
+    "language": "Gol"
   },
   {
     "k_id": "3326",
     "k_name": "Hemsedal",
-    "k_name_no": "Hemsedal"
+    "k_name_nb": "Hemsedal",
+    "adm_center": "Hemsedal",
+    "language": "Trøim"
   },
   {
     "k_id": "3328",
     "k_name": "Ål",
-    "k_name_no": "Ål"
+    "k_name_nb": "Ål",
+    "adm_center": "Ål",
+    "language": "Ål"
   },
   {
     "k_id": "3330",
     "k_name": "Hol",
-    "k_name_no": "Hol"
+    "k_name_nb": "Hol",
+    "adm_center": "Hol",
+    "language": "Hol"
   },
   {
     "k_id": "3332",
     "k_name": "Sigdal",
-    "k_name_no": "Sigdal"
+    "k_name_nb": "Sigdal",
+    "adm_center": "Sigdal",
+    "language": "Prestfoss"
   },
   {
     "k_id": "3334",
     "k_name": "Flesberg",
-    "k_name_no": "Flesberg"
+    "k_name_nb": "Flesberg",
+    "adm_center": "Flesberg",
+    "language": "Lampeland"
   },
   {
     "k_id": "3336",
     "k_name": "Rollag",
-    "k_name_no": "Rollag"
+    "k_name_nb": "Rollag",
+    "adm_center": "Rollag",
+    "language": "Rollag"
   },
   {
     "k_id": "3338",
     "k_name": "Nore og Uvdal",
-    "k_name_no": "Nore og Uvdal"
+    "k_name_nb": "Nore og Uvdal",
+    "adm_center": "Nore og Uvdal",
+    "language": "Rødberg"
   },
   {
     "k_id": "3401",
     "k_name": "Kongsvinger",
-    "k_name_no": "Kongsvinger"
+    "k_name_nb": "Kongsvinger",
+    "adm_center": "Kongsvinger",
+    "language": "Kongsvinger"
   },
   {
     "k_id": "3403",
     "k_name": "Hamar",
-    "k_name_no": "Hamar"
+    "k_name_nb": "Hamar",
+    "adm_center": "Hamar",
+    "language": "Hamar"
   },
   {
     "k_id": "3405",
     "k_name": "Lillehammer",
-    "k_name_no": "Lillehammer"
+    "k_name_nb": "Lillehammer",
+    "adm_center": "Lillehammer",
+    "language": "Lillehammer"
   },
   {
     "k_id": "3407",
     "k_name": "Gjøvik",
-    "k_name_no": "Gjøvik"
+    "k_name_nb": "Gjøvik",
+    "adm_center": "Gjøvik",
+    "language": "Gjøvik"
   },
   {
     "k_id": "3411",
     "k_name": "Ringsaker",
-    "k_name_no": "Ringsaker"
+    "k_name_nb": "Ringsaker",
+    "adm_center": "Ringsaker",
+    "language": "Brumunddal"
   },
   {
     "k_id": "3412",
     "k_name": "Løten",
-    "k_name_no": "Løten"
+    "k_name_nb": "Løten",
+    "adm_center": "Løten",
+    "language": "Løten"
   },
   {
     "k_id": "3413",
     "k_name": "Stange",
-    "k_name_no": "Stange"
+    "k_name_nb": "Stange",
+    "adm_center": "Stange",
+    "language": "Stange"
   },
   {
     "k_id": "3414",
     "k_name": "Nord-Odal",
-    "k_name_no": "Nord-Odal"
+    "k_name_nb": "Nord-Odal",
+    "adm_center": "Nord-Odal",
+    "language": "Sand"
   },
   {
     "k_id": "3415",
     "k_name": "Sør-Odal",
-    "k_name_no": "Sør-Odal"
+    "k_name_nb": "Sør-Odal",
+    "adm_center": "Sør-Odal",
+    "language": "Skarnes"
   },
   {
     "k_id": "3416",
     "k_name": "Eidskog",
-    "k_name_no": "Eidskog"
+    "k_name_nb": "Eidskog",
+    "adm_center": "Eidskog",
+    "language": "Skotterud"
   },
   {
     "k_id": "3417",
     "k_name": "Grue",
-    "k_name_no": "Grue"
+    "k_name_nb": "Grue",
+    "adm_center": "Grue",
+    "language": "Kirkenær"
   },
   {
     "k_id": "3418",
     "k_name": "Åsnes",
-    "k_name_no": "Åsnes"
+    "k_name_nb": "Åsnes",
+    "adm_center": "Åsnes",
+    "language": "Flisa"
   },
   {
     "k_id": "3419",
     "k_name": "Våler",
-    "k_name_no": "Våler"
+    "k_name_nb": "Våler",
+    "adm_center": "Våler",
+    "language": "Våler"
   },
   {
     "k_id": "3420",
     "k_name": "Elverum",
-    "k_name_no": "Elverum"
+    "k_name_nb": "Elverum",
+    "adm_center": "Elverum",
+    "language": "Elverum"
   },
   {
     "k_id": "3421",
     "k_name": "Trysil",
-    "k_name_no": "Trysil"
+    "k_name_nb": "Trysil",
+    "adm_center": "Trysil",
+    "language": "Innbygda"
   },
   {
     "k_id": "3422",
     "k_name": "Åmot",
-    "k_name_no": "Åmot"
+    "k_name_nb": "Åmot",
+    "adm_center": "Åmot",
+    "language": "Rena"
   },
   {
     "k_id": "3423",
     "k_name": "Stor-Elvdal",
-    "k_name_no": "Stor-Elvdal"
+    "k_name_nb": "Stor-Elvdal",
+    "adm_center": "Stor-Elvdal",
+    "language": "Koppang"
   },
   {
     "k_id": "3424",
     "k_name": "Rendalen",
-    "k_name_no": "Rendalen"
+    "k_name_nb": "Rendalen",
+    "adm_center": "Rendalen",
+    "language": "Bergset"
   },
   {
     "k_id": "3425",
     "k_name": "Engerdal",
-    "k_name_no": "Engerdal"
+    "k_name_nb": "Engerdal",
+    "adm_center": "Engerdal",
+    "language": "Engerdal"
   },
   {
     "k_id": "3426",
     "k_name": "Tolga",
-    "k_name_no": "Tolga"
+    "k_name_nb": "Tolga",
+    "adm_center": "Tolga",
+    "language": "Tolga"
   },
   {
     "k_id": "3427",
     "k_name": "Tynset",
-    "k_name_no": "Tynset"
+    "k_name_nb": "Tynset",
+    "adm_center": "Tynset",
+    "language": "Tynset"
   },
   {
     "k_id": "3428",
     "k_name": "Alvdal",
-    "k_name_no": "Alvdal"
+    "k_name_nb": "Alvdal",
+    "adm_center": "Alvdal",
+    "language": "Alvdal"
   },
   {
     "k_id": "3429",
     "k_name": "Folldal",
-    "k_name_no": "Folldal"
+    "k_name_nb": "Folldal",
+    "adm_center": "Folldal",
+    "language": "Folldal"
   },
   {
     "k_id": "3430",
     "k_name": "Os",
-    "k_name_no": "Os"
+    "k_name_nb": "Os",
+    "adm_center": "Os",
+    "language": "Os"
   },
   {
     "k_id": "3431",
     "k_name": "Dovre",
-    "k_name_no": "Dovre"
+    "k_name_nb": "Dovre",
+    "adm_center": "Dovre",
+    "language": "Dovre"
   },
   {
     "k_id": "3432",
     "k_name": "Lesja",
-    "k_name_no": "Lesja"
+    "k_name_nb": "Lesja",
+    "adm_center": "Lesja",
+    "language": "Lesja"
   },
   {
     "k_id": "3433",
     "k_name": "Skjåk",
-    "k_name_no": "Skjåk"
+    "k_name_nb": "Skjåk",
+    "adm_center": "Skjåk",
+    "language": "Bismo"
   },
   {
     "k_id": "3434",
     "k_name": "Lom",
-    "k_name_no": "Lom"
+    "k_name_nb": "Lom",
+    "adm_center": "Lom",
+    "language": "Fossbergom"
   },
   {
     "k_id": "3435",
     "k_name": "Vågå",
-    "k_name_no": "Vågå"
+    "k_name_nb": "Vågå",
+    "adm_center": "Vågå",
+    "language": "Vågåmo"
   },
   {
     "k_id": "3436",
     "k_name": "Nord-Fron",
-    "k_name_no": "Nord-Fron"
+    "k_name_nb": "Nord-Fron",
+    "adm_center": "Nord-Fron",
+    "language": "Vinstra"
   },
   {
     "k_id": "3437",
     "k_name": "Sel",
-    "k_name_no": "Sel"
+    "k_name_nb": "Sel",
+    "adm_center": "Sel",
+    "language": "Otta"
   },
   {
     "k_id": "3438",
     "k_name": "Sør-Fron",
-    "k_name_no": "Sør-Fron"
+    "k_name_nb": "Sør-Fron",
+    "adm_center": "Sør-Fron",
+    "language": "Hundorp"
   },
   {
     "k_id": "3439",
     "k_name": "Ringebu",
-    "k_name_no": "Ringebu"
+    "k_name_nb": "Ringebu",
+    "adm_center": "Ringebu",
+    "language": "Vålebrua"
   },
   {
     "k_id": "3440",
     "k_name": "Øyer",
-    "k_name_no": "Øyer"
+    "k_name_nb": "Øyer",
+    "adm_center": "Øyer",
+    "language": "Tingberg"
   },
   {
     "k_id": "3441",
     "k_name": "Gausdal",
-    "k_name_no": "Gausdal"
+    "k_name_nb": "Gausdal",
+    "adm_center": "Gausdal",
+    "language": "Segalstad bru"
   },
   {
     "k_id": "3442",
     "k_name": "Østre Toten",
-    "k_name_no": "Østre Toten"
+    "k_name_nb": "Østre Toten",
+    "adm_center": "Østre Toten",
+    "language": "Lena"
   },
   {
     "k_id": "3443",
     "k_name": "Vestre Toten",
-    "k_name_no": "Vestre Toten"
+    "k_name_nb": "Vestre Toten",
+    "adm_center": "Vestre Toten",
+    "language": "Raufoss"
   },
   {
     "k_id": "3446",
     "k_name": "Gran",
-    "k_name_no": "Gran"
+    "k_name_nb": "Gran",
+    "adm_center": "Gran",
+    "language": "Jaren"
   },
   {
     "k_id": "3447",
     "k_name": "Søndre Land",
-    "k_name_no": "Søndre Land"
+    "k_name_nb": "Søndre Land",
+    "adm_center": "Søndre Land",
+    "language": "Hov"
   },
   {
     "k_id": "3448",
     "k_name": "Nordre Land",
-    "k_name_no": "Nordre Land"
+    "k_name_nb": "Nordre Land",
+    "adm_center": "Nordre Land",
+    "language": "Dokka"
   },
   {
     "k_id": "3449",
     "k_name": "Sør-Aurdal",
-    "k_name_no": "Sør-Aurdal"
+    "k_name_nb": "Sør-Aurdal",
+    "adm_center": "Sør-Aurdal",
+    "language": "Bagn"
   },
   {
     "k_id": "3450",
     "k_name": "Etnedal",
-    "k_name_no": "Etnedal"
+    "k_name_nb": "Etnedal",
+    "adm_center": "Etnedal",
+    "language": "Bruflat"
   },
   {
     "k_id": "3451",
     "k_name": "Nord-Aurdal",
-    "k_name_no": "Nord-Aurdal"
+    "k_name_nb": "Nord-Aurdal",
+    "adm_center": "Nord-Aurdal",
+    "language": "Fagernes"
   },
   {
     "k_id": "3452",
     "k_name": "Vestre Slidre",
-    "k_name_no": "Vestre Slidre"
+    "k_name_nb": "Vestre Slidre",
+    "adm_center": "Vestre Slidre",
+    "language": "Slidre"
   },
   {
     "k_id": "3453",
     "k_name": "Øystre Slidre",
-    "k_name_no": "Øystre Slidre"
+    "k_name_nb": "Øystre Slidre",
+    "adm_center": "Øystre Slidre",
+    "language": "Heggenes"
   },
   {
     "k_id": "3454",
     "k_name": "Vang",
-    "k_name_no": "Vang"
+    "k_name_nb": "Vang",
+    "adm_center": "Vang",
+    "language": "Vang"
   },
   {
     "k_id": "3901",
     "k_name": "Horten",
-    "k_name_no": "Horten"
+    "k_name_nb": "Horten",
+    "adm_center": "Horten",
+    "language": "Horten"
   },
   {
     "k_id": "3903",
     "k_name": "Holmestrand",
-    "k_name_no": "Holmestrand"
+    "k_name_nb": "Holmestrand",
+    "adm_center": "Holmestrand",
+    "language": "Holmestrand"
   },
   {
     "k_id": "3905",
     "k_name": "Tønsberg",
-    "k_name_no": "Tønsberg"
+    "k_name_nb": "Tønsberg",
+    "adm_center": "Tønsberg",
+    "language": "Tønsberg"
   },
   {
     "k_id": "3907",
     "k_name": "Sandefjord",
-    "k_name_no": "Sandefjord"
+    "k_name_nb": "Sandefjord",
+    "adm_center": "Sandefjord",
+    "language": "Sandefjord"
   },
   {
     "k_id": "3909",
     "k_name": "Larvik",
-    "k_name_no": "Larvik"
+    "k_name_nb": "Larvik",
+    "adm_center": "Larvik",
+    "language": "Larvik"
   },
   {
     "k_id": "3911",
     "k_name": "Færder",
-    "k_name_no": "Færder"
+    "k_name_nb": "Færder",
+    "adm_center": "Færder",
+    "language": "Borgheim"
   },
   {
     "k_id": "4001",
     "k_name": "Porsgrunn",
-    "k_name_no": "Porsgrunn"
+    "k_name_nb": "Porsgrunn",
+    "adm_center": "Porsgrunn",
+    "language": "Porsgrunn"
   },
   {
     "k_id": "4003",
     "k_name": "Skien",
-    "k_name_no": "Skien"
+    "k_name_nb": "Skien",
+    "adm_center": "Skien",
+    "language": "Skien"
   },
   {
     "k_id": "4005",
     "k_name": "Notodden",
-    "k_name_no": "Notodden"
+    "k_name_nb": "Notodden",
+    "adm_center": "Notodden",
+    "language": "Notodden"
   },
   {
     "k_id": "4010",
     "k_name": "Siljan",
-    "k_name_no": "Siljan"
+    "k_name_nb": "Siljan",
+    "adm_center": "Siljan",
+    "language": "Siljan"
   },
   {
     "k_id": "4012",
     "k_name": "Bamble",
-    "k_name_no": "Bamble"
+    "k_name_nb": "Bamble",
+    "adm_center": "Bamble",
+    "language": "Langesund"
   },
   {
     "k_id": "4014",
     "k_name": "Kragerø",
-    "k_name_no": "Kragerø"
+    "k_name_nb": "Kragerø",
+    "adm_center": "Kragerø",
+    "language": "Kragerø"
   },
   {
     "k_id": "4016",
     "k_name": "Drangedal",
-    "k_name_no": "Drangedal"
+    "k_name_nb": "Drangedal",
+    "adm_center": "Drangedal",
+    "language": "Prestestranda"
   },
   {
     "k_id": "4018",
     "k_name": "Nome",
-    "k_name_no": "Nome"
+    "k_name_nb": "Nome",
+    "adm_center": "Nome",
+    "language": "Ulefoss"
   },
   {
     "k_id": "4020",
     "k_name": "Midt-Telemark",
-    "k_name_no": "Midt-Telemark"
+    "k_name_nb": "Midt-Telemark",
+    "adm_center": "Midt-Telemark",
+    "language": "Bø"
   },
   {
     "k_id": "4022",
     "k_name": "Seljord",
-    "k_name_no": "Seljord"
+    "k_name_nb": "Seljord",
+    "adm_center": "Seljord",
+    "language": "Seljord"
   },
   {
     "k_id": "4024",
     "k_name": "Hjartdal",
-    "k_name_no": "Hjartdal"
+    "k_name_nb": "Hjartdal",
+    "adm_center": "Hjartdal",
+    "language": "Sauland"
   },
   {
     "k_id": "4026",
     "k_name": "Tinn",
-    "k_name_no": "Tinn"
+    "k_name_nb": "Tinn",
+    "adm_center": "Tinn",
+    "language": "Rjukan"
   },
   {
     "k_id": "4028",
     "k_name": "Kviteseid",
-    "k_name_no": "Kviteseid"
+    "k_name_nb": "Kviteseid",
+    "adm_center": "Kviteseid",
+    "language": "Kviteseid"
   },
   {
     "k_id": "4030",
     "k_name": "Nissedal",
-    "k_name_no": "Nissedal"
+    "k_name_nb": "Nissedal",
+    "adm_center": "Nissedal",
+    "language": "Treungen"
   },
   {
     "k_id": "4032",
     "k_name": "Fyresdal",
-    "k_name_no": "Fyresdal"
+    "k_name_nb": "Fyresdal",
+    "adm_center": "Fyresdal",
+    "language": "Folkestadbyen"
   },
   {
     "k_id": "4034",
     "k_name": "Tokke",
-    "k_name_no": "Tokke"
+    "k_name_nb": "Tokke",
+    "adm_center": "Tokke",
+    "language": "Dalen"
   },
   {
     "k_id": "4036",
     "k_name": "Vinje",
-    "k_name_no": "Vinje"
+    "k_name_nb": "Vinje",
+    "adm_center": "Vinje",
+    "language": "Åmot"
   },
   {
     "k_id": "4201",
     "k_name": "Risør",
-    "k_name_no": "Risør"
+    "k_name_nb": "Risør",
+    "adm_center": "Risør",
+    "language": "Risør"
   },
   {
     "k_id": "4202",
     "k_name": "Grimstad",
-    "k_name_no": "Grimstad"
+    "k_name_nb": "Grimstad",
+    "adm_center": "Grimstad",
+    "language": "Grimstad"
   },
   {
     "k_id": "4203",
     "k_name": "Arendal",
-    "k_name_no": "Arendal"
+    "k_name_nb": "Arendal",
+    "adm_center": "Arendal",
+    "language": "Arendal"
   },
   {
     "k_id": "4204",
     "k_name": "Kristiansand",
-    "k_name_no": "Kristiansand"
+    "k_name_nb": "Kristiansand",
+    "adm_center": "Kristiansand",
+    "language": "Kristiansand"
   },
   {
     "k_id": "4205",
     "k_name": "Lindesnes",
-    "k_name_no": "Lindesnes"
+    "k_name_nb": "Lindesnes",
+    "adm_center": "Lindesnes",
+    "language": "Mandal"
   },
   {
     "k_id": "4206",
     "k_name": "Farsund",
-    "k_name_no": "Farsund"
+    "k_name_nb": "Farsund",
+    "adm_center": "Farsund",
+    "language": "Farsund"
   },
   {
     "k_id": "4207",
     "k_name": "Flekkefjord",
-    "k_name_no": "Flekkefjord"
+    "k_name_nb": "Flekkefjord",
+    "adm_center": "Flekkefjord",
+    "language": "Flekkefjord"
   },
   {
     "k_id": "4211",
     "k_name": "Gjerstad",
-    "k_name_no": "Gjerstad"
+    "k_name_nb": "Gjerstad",
+    "adm_center": "Gjerstad",
+    "language": "Gjerstad"
   },
   {
     "k_id": "4212",
     "k_name": "Vegårshei",
-    "k_name_no": "Vegårshei"
+    "k_name_nb": "Vegårshei",
+    "adm_center": "Vegårshei",
+    "language": "Myra"
   },
   {
     "k_id": "4213",
     "k_name": "Tvedestrand",
-    "k_name_no": "Tvedestrand"
+    "k_name_nb": "Tvedestrand",
+    "adm_center": "Tvedestrand",
+    "language": "Tvedestrand"
   },
   {
     "k_id": "4214",
     "k_name": "Froland",
-    "k_name_no": "Froland"
+    "k_name_nb": "Froland",
+    "adm_center": "Froland",
+    "language": "Blakstad"
   },
   {
     "k_id": "4215",
     "k_name": "Lillesand",
-    "k_name_no": "Lillesand"
+    "k_name_nb": "Lillesand",
+    "adm_center": "Lillesand",
+    "language": "Lillesand"
   },
   {
     "k_id": "4216",
     "k_name": "Birkenes",
-    "k_name_no": "Birkenes"
+    "k_name_nb": "Birkenes",
+    "adm_center": "Birkenes",
+    "language": "Birkeland"
   },
   {
     "k_id": "4217",
     "k_name": "Åmli",
-    "k_name_no": "Åmli"
+    "k_name_nb": "Åmli",
+    "adm_center": "Åmli",
+    "language": "Åmli"
   },
   {
     "k_id": "4218",
     "k_name": "Iveland",
-    "k_name_no": "Iveland"
+    "k_name_nb": "Iveland",
+    "adm_center": "Iveland",
+    "language": "Birketveit"
   },
   {
     "k_id": "4219",
     "k_name": "Evje og Hornnes",
-    "k_name_no": "Evje og Hornnes"
+    "k_name_nb": "Evje og Hornnes",
+    "adm_center": "Evje og Hornnes",
+    "language": "Evje"
   },
   {
     "k_id": "4220",
     "k_name": "Bygland",
-    "k_name_no": "Bygland"
+    "k_name_nb": "Bygland",
+    "adm_center": "Bygland",
+    "language": "Bygland"
   },
   {
     "k_id": "4221",
     "k_name": "Valle",
-    "k_name_no": "Valle"
+    "k_name_nb": "Valle",
+    "adm_center": "Valle",
+    "language": "Valle"
   },
   {
     "k_id": "4222",
     "k_name": "Bykle",
-    "k_name_no": "Bykle"
+    "k_name_nb": "Bykle",
+    "adm_center": "Bykle",
+    "language": "Bykle"
   },
   {
     "k_id": "4223",
     "k_name": "Vennesla",
-    "k_name_no": "Vennesla"
+    "k_name_nb": "Vennesla",
+    "adm_center": "Vennesla",
+    "language": "Vennesla"
   },
   {
     "k_id": "4224",
     "k_name": "Åseral",
-    "k_name_no": "Åseral"
+    "k_name_nb": "Åseral",
+    "adm_center": "Åseral",
+    "language": "Kyrkjebygda"
   },
   {
     "k_id": "4225",
     "k_name": "Lyngdal",
-    "k_name_no": "Lyngdal"
+    "k_name_nb": "Lyngdal",
+    "adm_center": "Lyngdal",
+    "language": "Alleen"
   },
   {
     "k_id": "4226",
     "k_name": "Hægebostad",
-    "k_name_no": "Hægebostad"
+    "k_name_nb": "Hægebostad",
+    "adm_center": "Hægebostad",
+    "language": "Tingvatn"
   },
   {
     "k_id": "4227",
     "k_name": "Kvinesdal",
-    "k_name_no": "Kvinesdal"
+    "k_name_nb": "Kvinesdal",
+    "adm_center": "Kvinesdal",
+    "language": "Liknes"
   },
   {
     "k_id": "4228",
     "k_name": "Sirdal",
-    "k_name_no": "Sirdal"
+    "k_name_nb": "Sirdal",
+    "adm_center": "Sirdal",
+    "language": "Tonstad"
   },
   {
     "k_id": "4601",
     "k_name": "Bergen",
-    "k_name_no": "Bergen"
+    "k_name_nb": "Bergen",
+    "adm_center": "Bergen",
+    "language": "Bergen"
   },
   {
     "k_id": "4602",
     "k_name": "Kinn",
-    "k_name_no": "Kinn"
+    "k_name_nb": "Kinn",
+    "adm_center": "Kinn",
+    "language": "Florø"
   },
   {
     "k_id": "4611",
     "k_name": "Etne",
-    "k_name_no": "Etne"
+    "k_name_nb": "Etne",
+    "adm_center": "Etne",
+    "language": "Etnesjøen"
   },
   {
     "k_id": "4612",
     "k_name": "Sveio",
-    "k_name_no": "Sveio"
+    "k_name_nb": "Sveio",
+    "adm_center": "Sveio",
+    "language": "Sveio"
   },
   {
     "k_id": "4613",
     "k_name": "Bømlo",
-    "k_name_no": "Bømlo"
+    "k_name_nb": "Bømlo",
+    "adm_center": "Bømlo",
+    "language": "Svortland"
   },
   {
     "k_id": "4614",
     "k_name": "Stord",
-    "k_name_no": "Stord"
+    "k_name_nb": "Stord",
+    "adm_center": "Stord",
+    "language": "Leirvik"
   },
   {
     "k_id": "4615",
     "k_name": "Fitjar",
-    "k_name_no": "Fitjar"
+    "k_name_nb": "Fitjar",
+    "adm_center": "Fitjar",
+    "language": "Fitjar"
   },
   {
     "k_id": "4616",
     "k_name": "Tysnes",
-    "k_name_no": "Tysnes"
+    "k_name_nb": "Tysnes",
+    "adm_center": "Tysnes",
+    "language": "Uggdal"
   },
   {
     "k_id": "4617",
     "k_name": "Kvinnherad",
-    "k_name_no": "Kvinnherad"
+    "k_name_nb": "Kvinnherad",
+    "adm_center": "Kvinnherad",
+    "language": "Rosendal"
   },
   {
     "k_id": "4618",
     "k_name": "Ullensvang",
-    "k_name_no": "Ullensvang"
+    "k_name_nb": "Ullensvang",
+    "adm_center": "Ullensvang",
+    "language": "Kinsarvik"
   },
   {
     "k_id": "4619",
     "k_name": "Eidfjord",
-    "k_name_no": "Eidfjord"
+    "k_name_nb": "Eidfjord",
+    "adm_center": "Eidfjord",
+    "language": "Eidfjord"
   },
   {
     "k_id": "4620",
     "k_name": "Ulvik",
-    "k_name_no": "Ulvik"
+    "k_name_nb": "Ulvik",
+    "adm_center": "Ulvik",
+    "language": "Ulvik"
   },
   {
     "k_id": "4621",
     "k_name": "Voss",
-    "k_name_no": "Voss"
+    "k_name_nb": "Voss",
+    "adm_center": "Voss",
+    "language": "Vossevangen"
   },
   {
     "k_id": "4622",
     "k_name": "Kvam",
-    "k_name_no": "Kvam"
+    "k_name_nb": "Kvam",
+    "adm_center": "Kvam",
+    "language": "Norheimsund"
   },
   {
     "k_id": "4623",
     "k_name": "Samnanger",
-    "k_name_no": "Samnanger"
+    "k_name_nb": "Samnanger",
+    "adm_center": "Samnanger",
+    "language": "Tysse"
   },
   {
     "k_id": "4624",
     "k_name": "Bjørnafjorden",
-    "k_name_no": "Bjørnafjorden"
+    "k_name_nb": "Bjørnafjorden",
+    "adm_center": "Bjørnafjorden",
+    "language": "Osøyro"
   },
   {
     "k_id": "4625",
     "k_name": "Austevoll",
-    "k_name_no": "Austevoll"
+    "k_name_nb": "Austevoll",
+    "adm_center": "Austevoll",
+    "language": "Storebø"
   },
   {
     "k_id": "4626",
     "k_name": "Øygarden",
-    "k_name_no": "Øygarden"
+    "k_name_nb": "Øygarden",
+    "adm_center": "Øygarden",
+    "language": "Straume"
   },
   {
     "k_id": "4627",
     "k_name": "Askøy",
-    "k_name_no": "Askøy"
+    "k_name_nb": "Askøy",
+    "adm_center": "Askøy",
+    "language": "Kleppestø"
   },
   {
     "k_id": "4628",
     "k_name": "Vaksdal",
-    "k_name_no": "Vaksdal"
+    "k_name_nb": "Vaksdal",
+    "adm_center": "Vaksdal",
+    "language": "Dale"
   },
   {
     "k_id": "4629",
     "k_name": "Modalen",
-    "k_name_no": "Modalen"
+    "k_name_nb": "Modalen",
+    "adm_center": "Modalen",
+    "language": "Mo"
   },
   {
     "k_id": "4630",
     "k_name": "Osterøy",
-    "k_name_no": "Osterøy"
+    "k_name_nb": "Osterøy",
+    "adm_center": "Osterøy",
+    "language": "Lonevåg"
   },
   {
     "k_id": "4631",
     "k_name": "Alver",
-    "k_name_no": "Alver"
+    "k_name_nb": "Alver",
+    "adm_center": "Alver",
+    "language": "Knarvik"
   },
   {
     "k_id": "4632",
     "k_name": "Austrheim",
-    "k_name_no": "Austrheim"
+    "k_name_nb": "Austrheim",
+    "adm_center": "Austrheim",
+    "language": "Årås"
   },
   {
     "k_id": "4633",
     "k_name": "Fedje",
-    "k_name_no": "Fedje"
+    "k_name_nb": "Fedje",
+    "adm_center": "Fedje",
+    "language": "Fedje"
   },
   {
     "k_id": "4634",
     "k_name": "Masfjorden",
-    "k_name_no": "Masfjorden"
+    "k_name_nb": "Masfjorden",
+    "adm_center": "Masfjorden",
+    "language": "Masfjordnes"
   },
   {
     "k_id": "4635",
     "k_name": "Gulen",
-    "k_name_no": "Gulen"
+    "k_name_nb": "Gulen",
+    "adm_center": "Gulen",
+    "language": "Eivindvik"
   },
   {
     "k_id": "4636",
     "k_name": "Solund",
-    "k_name_no": "Solund"
+    "k_name_nb": "Solund",
+    "adm_center": "Solund",
+    "language": "Hardbakke"
   },
   {
     "k_id": "4637",
     "k_name": "Hyllestad",
-    "k_name_no": "Hyllestad"
+    "k_name_nb": "Hyllestad",
+    "adm_center": "Hyllestad",
+    "language": "Hyllestad"
   },
   {
     "k_id": "4638",
     "k_name": "Høyanger",
-    "k_name_no": "Høyanger"
+    "k_name_nb": "Høyanger",
+    "adm_center": "Høyanger",
+    "language": "Høyanger"
   },
   {
     "k_id": "4639",
     "k_name": "Vik",
-    "k_name_no": "Vik"
+    "k_name_nb": "Vik",
+    "adm_center": "Vik",
+    "language": "Vikøyri"
   },
   {
     "k_id": "4640",
     "k_name": "Sogndal",
-    "k_name_no": "Sogndal"
+    "k_name_nb": "Sogndal",
+    "adm_center": "Sogndal",
+    "language": "Sogndalsfjøra"
   },
   {
     "k_id": "4641",
     "k_name": "Aurland",
-    "k_name_no": "Aurland"
+    "k_name_nb": "Aurland",
+    "adm_center": "Aurland",
+    "language": "Aurlandsvangen"
   },
   {
     "k_id": "4642",
     "k_name": "Lærdal",
-    "k_name_no": "Lærdal"
+    "k_name_nb": "Lærdal",
+    "adm_center": "Lærdal",
+    "language": "Lærdalsøyri"
   },
   {
     "k_id": "4643",
     "k_name": "Årdal",
-    "k_name_no": "Årdal"
+    "k_name_nb": "Årdal",
+    "adm_center": "Årdal",
+    "language": "Årdalstangen"
   },
   {
     "k_id": "4644",
     "k_name": "Luster",
-    "k_name_no": "Luster"
+    "k_name_nb": "Luster",
+    "adm_center": "Luster",
+    "language": "Gaupne"
   },
   {
     "k_id": "4645",
     "k_name": "Askvoll",
-    "k_name_no": "Askvoll"
+    "k_name_nb": "Askvoll",
+    "adm_center": "Askvoll",
+    "language": "Askvoll"
   },
   {
     "k_id": "4646",
     "k_name": "Fjaler",
-    "k_name_no": "Fjaler"
+    "k_name_nb": "Fjaler",
+    "adm_center": "Fjaler",
+    "language": "Dale"
   },
   {
     "k_id": "4647",
     "k_name": "Sunnfjord",
-    "k_name_no": "Sunnfjord"
+    "k_name_nb": "Sunnfjord",
+    "adm_center": "Sunnfjord",
+    "language": "Førde"
   },
   {
     "k_id": "4648",
     "k_name": "Bremanger",
-    "k_name_no": "Bremanger"
+    "k_name_nb": "Bremanger",
+    "adm_center": "Bremanger",
+    "language": "Svelgen"
   },
   {
     "k_id": "4649",
     "k_name": "Stad",
-    "k_name_no": "Stad"
+    "k_name_nb": "Stad",
+    "adm_center": "Stad",
+    "language": "Nordfjordeid"
   },
   {
     "k_id": "4650",
     "k_name": "Gloppen",
-    "k_name_no": "Gloppen"
+    "k_name_nb": "Gloppen",
+    "adm_center": "Gloppen",
+    "language": "Sandane"
   },
   {
     "k_id": "4651",
     "k_name": "Stryn",
-    "k_name_no": "Stryn"
+    "k_name_nb": "Stryn",
+    "adm_center": "Stryn",
+    "language": "Stryn"
   },
   {
     "k_id": "5001",
     "k_name": "Trondheim",
-    "k_name_no": "Trondheim"
+    "k_name_nb": "Trondheim",
+    "adm_center": "Trondheim",
+    "language": "Trondheim"
   },
   {
     "k_id": "5006",
     "k_name": "Steinkjer",
-    "k_name_no": "Steinkjer"
+    "k_name_nb": "Steinkjer",
+    "adm_center": "Steinkjer",
+    "language": "Steinkjer"
   },
   {
     "k_id": "5007",
     "k_name": "Namsos",
-    "k_name_no": "Namsos"
+    "k_name_nb": "Namsos",
+    "adm_center": "Namsos",
+    "language": "Namsos"
   },
   {
     "k_id": "5014",
     "k_name": "Frøya",
-    "k_name_no": "Frøya"
+    "k_name_nb": "Frøya",
+    "adm_center": "Frøya",
+    "language": "Sistranda"
   },
   {
     "k_id": "5020",
     "k_name": "Osen",
-    "k_name_no": "Osen"
+    "k_name_nb": "Osen",
+    "adm_center": "Osen",
+    "language": "Steinsdalen"
   },
   {
     "k_id": "5021",
     "k_name": "Oppdal",
-    "k_name_no": "Oppdal"
+    "k_name_nb": "Oppdal",
+    "adm_center": "Oppdal",
+    "language": "Oppdal"
   },
   {
     "k_id": "5022",
     "k_name": "Rennebu",
-    "k_name_no": "Rennebu"
+    "k_name_nb": "Rennebu",
+    "adm_center": "Rennebu",
+    "language": "Berkåk"
   },
   {
     "k_id": "5025",
     "k_name": "Rosse",
-    "k_name_no": "Røros"
+    "k_name_nb": "Røros",
+    "adm_center": "Røros",
+    "language": "Røros"
   },
   {
     "k_id": "5026",
     "k_name": "Holtålen",
-    "k_name_no": "Holtålen"
+    "k_name_nb": "Holtålen",
+    "adm_center": "Holtålen",
+    "language": "Ålen"
   },
   {
     "k_id": "5027",
     "k_name": "Midtre Gauldal",
-    "k_name_no": "Midtre Gauldal"
+    "k_name_nb": "Midtre Gauldal",
+    "adm_center": "Midtre Gauldal",
+    "language": "Støren"
   },
   {
     "k_id": "5028",
     "k_name": "Melhus",
-    "k_name_no": "Melhus"
+    "k_name_nb": "Melhus",
+    "adm_center": "Melhus",
+    "language": "Melhus"
   },
   {
     "k_id": "5029",
     "k_name": "Skaun",
-    "k_name_no": "Skaun"
+    "k_name_nb": "Skaun",
+    "adm_center": "Skaun",
+    "language": "Børsa"
   },
   {
     "k_id": "5031",
     "k_name": "Malvik",
-    "k_name_no": "Malvik"
+    "k_name_nb": "Malvik",
+    "adm_center": "Malvik",
+    "language": "Hommelvik"
   },
   {
     "k_id": "5032",
     "k_name": "Selbu",
-    "k_name_no": "Selbu"
+    "k_name_nb": "Selbu",
+    "adm_center": "Selbu",
+    "language": "Mebond"
   },
   {
     "k_id": "5033",
     "k_name": "Tydal",
-    "k_name_no": "Tydal"
+    "k_name_nb": "Tydal",
+    "adm_center": "Tydal",
+    "language": "Ås"
   },
   {
     "k_id": "5034",
     "k_name": "Meråker",
-    "k_name_no": "Meråker"
+    "k_name_nb": "Meråker",
+    "adm_center": "Meråker",
+    "language": "Midtbygda"
   },
   {
     "k_id": "5035",
     "k_name": "Stjørdal",
-    "k_name_no": "Stjørdal"
+    "k_name_nb": "Stjørdal",
+    "adm_center": "Stjørdal",
+    "language": "Stjørdalshalsen"
   },
   {
     "k_id": "5036",
     "k_name": "Frosta",
-    "k_name_no": "Frosta"
+    "k_name_nb": "Frosta",
+    "adm_center": "Frosta",
+    "language": "Frosta"
   },
   {
     "k_id": "5037",
     "k_name": "Levanger",
-    "k_name_no": "Levanger"
+    "k_name_nb": "Levanger",
+    "adm_center": "Levanger",
+    "language": "Levanger"
   },
   {
     "k_id": "5038",
     "k_name": "Verdal",
-    "k_name_no": "Verdal"
+    "k_name_nb": "Verdal",
+    "adm_center": "Verdal",
+    "language": "Verdalsøra"
   },
   {
     "k_id": "5041",
     "k_name": "Snåase",
-    "k_name_no": "Snåsa"
+    "k_name_nb": "Snåsa",
+    "adm_center": "Snåsa",
+    "language": "Snåsa"
   },
   {
     "k_id": "5042",
     "k_name": "Lierne",
-    "k_name_no": "Lierne"
+    "k_name_nb": "Lierne",
+    "adm_center": "Lierne",
+    "language": "Lierne"
   },
   {
     "k_id": "5043",
     "k_name": "Raarvihke",
-    "k_name_no": "Røyrvik"
+    "k_name_nb": "Røyrvik",
+    "adm_center": "Røyrvik",
+    "language": "Røyrvik"
   },
   {
     "k_id": "5044",
     "k_name": "Namsskogan",
-    "k_name_no": "Namsskogan"
+    "k_name_nb": "Namsskogan",
+    "adm_center": "Namsskogan",
+    "language": "Namsskogan"
   },
   {
     "k_id": "5045",
     "k_name": "Grong",
-    "k_name_no": "Grong"
+    "k_name_nb": "Grong",
+    "adm_center": "Grong",
+    "language": "Grong"
   },
   {
     "k_id": "5046",
     "k_name": "Høylandet",
-    "k_name_no": "Høylandet"
+    "k_name_nb": "Høylandet",
+    "adm_center": "Høylandet",
+    "language": "Høylandet"
   },
   {
     "k_id": "5047",
     "k_name": "Overhalla",
-    "k_name_no": "Overhalla"
+    "k_name_nb": "Overhalla",
+    "adm_center": "Overhalla",
+    "language": "Ranemsletta"
   },
   {
     "k_id": "5049",
     "k_name": "Flatanger",
-    "k_name_no": "Flatanger"
+    "k_name_nb": "Flatanger",
+    "adm_center": "Flatanger",
+    "language": "Lauvsnes"
   },
   {
     "k_id": "5052",
     "k_name": "Leka",
-    "k_name_no": "Leka"
+    "k_name_nb": "Leka",
+    "adm_center": "Leka",
+    "language": "Leknes"
   },
   {
     "k_id": "5053",
     "k_name": "Inderøy",
-    "k_name_no": "Inderøy"
+    "k_name_nb": "Inderøy",
+    "adm_center": "Inderøy",
+    "language": "Straumen"
   },
   {
     "k_id": "5054",
     "k_name": "Indre Fosen",
-    "k_name_no": "Indre Fosen"
+    "k_name_nb": "Indre Fosen",
+    "adm_center": "Indre Fosen",
+    "language": "Årnset"
   },
   {
     "k_id": "5055",
     "k_name": "Heim",
-    "k_name_no": "Heim"
+    "k_name_nb": "Heim",
+    "adm_center": "Heim",
+    "language": "Kyrksæterøra"
   },
   {
     "k_id": "5056",
     "k_name": "Hitra",
-    "k_name_no": "Hitra"
+    "k_name_nb": "Hitra",
+    "adm_center": "Hitra",
+    "language": "Fillan"
   },
   {
     "k_id": "5057",
     "k_name": "Ørland",
-    "k_name_no": "Ørland"
+    "k_name_nb": "Ørland",
+    "adm_center": "Ørland",
+    "language": "Brekstad"
   },
   {
     "k_id": "5058",
     "k_name": "Åfjord",
-    "k_name_no": "Åfjord"
+    "k_name_nb": "Åfjord",
+    "adm_center": "Åfjord",
+    "language": "Årnes"
   },
   {
     "k_id": "5059",
     "k_name": "Orkland",
-    "k_name_no": "Orkland"
+    "k_name_nb": "Orkland",
+    "adm_center": "Orkland",
+    "language": "Orkanger"
   },
   {
     "k_id": "5060",
     "k_name": "Nærøysund",
-    "k_name_no": "Nærøysund"
+    "k_name_nb": "Nærøysund",
+    "adm_center": "Nærøysund",
+    "language": "Rørvik"
   },
   {
     "k_id": "5061",
     "k_name": "Rindal",
-    "k_name_no": "Rindal"
+    "k_name_nb": "Rindal",
+    "adm_center": "Rindal",
+    "language": "Rindal"
   },
   {
     "k_id": "5501",
     "k_name": "Tromsø",
-    "k_name_no": "Tromsø"
+    "k_name_nb": "Tromsø",
+    "adm_center": "Tromsø",
+    "language": "Tromsø"
   },
   {
     "k_id": "5503",
     "k_name": "Harstad",
-    "k_name_no": "Harstad"
+    "k_name_nb": "Harstad",
+    "adm_center": "Harstad",
+    "language": "Harstad"
   },
   {
     "k_id": "5510",
     "k_name": "Kvæfjord",
-    "k_name_no": "Kvæfjord"
+    "k_name_nb": "Kvæfjord",
+    "adm_center": "Kvæfjord",
+    "language": "Borkenes"
   },
   {
     "k_id": "5512",
     "k_name": "Dielddanuorri",
-    "k_name_no": "Tjeldsund"
+    "k_name_nb": "Tjeldsund",
+    "adm_center": "Tjeldsund",
+    "language": "Evenskjer"
   },
   {
     "k_id": "5514",
     "k_name": "Ibestad",
-    "k_name_no": "Ibestad"
+    "k_name_nb": "Ibestad",
+    "adm_center": "Ibestad",
+    "language": "Hamnvik"
   },
   {
     "k_id": "5516",
     "k_name": "Gratangen",
-    "k_name_no": "Gratangen"
+    "k_name_nb": "Gratangen",
+    "adm_center": "Gratangen",
+    "language": "Årstein"
   },
   {
     "k_id": "5518",
     "k_name": "Loabák",
-    "k_name_no": "Lavangen"
+    "k_name_nb": "Lavangen",
+    "adm_center": "Lavangen",
+    "language": "Tennevoll"
   },
   {
     "k_id": "5520",
     "k_name": "Bardu",
-    "k_name_no": "Bardu"
+    "k_name_nb": "Bardu",
+    "adm_center": "Bardu",
+    "language": "Setermoen"
   },
   {
     "k_id": "5522",
     "k_name": "Salangen",
-    "k_name_no": "Salangen"
+    "k_name_nb": "Salangen",
+    "adm_center": "Salangen",
+    "language": "Sjøvegan"
   },
   {
     "k_id": "5524",
     "k_name": "Målselv",
-    "k_name_no": "Målselv"
+    "k_name_nb": "Målselv",
+    "adm_center": "Målselv",
+    "language": "Moen"
   },
   {
     "k_id": "5526",
     "k_name": "Sørreisa",
-    "k_name_no": "Sørreisa"
+    "k_name_nb": "Sørreisa",
+    "adm_center": "Sørreisa",
+    "language": "Sørreisa"
   },
   {
     "k_id": "5528",
     "k_name": "Dyrøy",
-    "k_name_no": "Dyrøy"
+    "k_name_nb": "Dyrøy",
+    "adm_center": "Dyrøy",
+    "language": "Brøstadbotn"
   },
   {
     "k_id": "5530",
     "k_name": "Senja",
-    "k_name_no": "Senja"
+    "k_name_nb": "Senja",
+    "adm_center": "Senja",
+    "language": "Finnsnes"
   },
   {
     "k_id": "5532",
     "k_name": "Balsfjord",
-    "k_name_no": "Balsfjord"
+    "k_name_nb": "Balsfjord",
+    "adm_center": "Balsfjord",
+    "language": "Storsteinnes"
   },
   {
     "k_id": "5534",
     "k_name": "Karlsøy",
-    "k_name_no": "Karlsøy"
+    "k_name_nb": "Karlsøy",
+    "adm_center": "Karlsøy",
+    "language": "Hansnes"
   },
   {
     "k_id": "5536",
     "k_name": "Lyngen",
-    "k_name_no": "Lyngen"
+    "k_name_nb": "Lyngen",
+    "adm_center": "Lyngen",
+    "language": "Lyngseidet"
   },
   {
     "k_id": "5538",
     "k_name": "Storfjord",
-    "k_name_no": "Storfjord"
+    "k_name_nb": "Storfjord",
+    "adm_center": "Storfjord",
+    "language": "Hatteng"
   },
   {
     "k_id": "5540",
     "k_name": "Gáivuotna",
-    "k_name_no": "Kåfjord"
+    "k_name_nb": "Kåfjord",
+    "adm_center": "Kåfjord",
+    "language": "Olderdalen"
   },
   {
     "k_id": "5542",
     "k_name": "Skjervøy",
-    "k_name_no": "Skjervøy"
+    "k_name_nb": "Skjervøy",
+    "adm_center": "Skjervøy",
+    "language": "Skjervøy"
   },
   {
     "k_id": "5544",
     "k_name": "Nordreisa",
-    "k_name_no": "Nordreisa"
+    "k_name_nb": "Nordreisa",
+    "adm_center": "Nordreisa",
+    "language": "Storslett"
   },
   {
     "k_id": "5546",
     "k_name": "Kvænangen",
-    "k_name_no": "Kvænangen"
+    "k_name_nb": "Kvænangen",
+    "adm_center": "Kvænangen",
+    "language": "Burfjord"
   },
   {
     "k_id": "5601",
     "k_name": "Alta",
-    "k_name_no": "Alta"
+    "k_name_nb": "Alta",
+    "adm_center": "Alta",
+    "language": "Alta"
   },
   {
     "k_id": "5603",
     "k_name": "Hammerfest",
-    "k_name_no": "Hammerfest"
+    "k_name_nb": "Hammerfest",
+    "adm_center": "Hammerfest",
+    "language": "Hammerfest"
   },
   {
     "k_id": "5605",
     "k_name": "Sør-Varanger",
-    "k_name_no": "Sør-Varanger"
+    "k_name_nb": "Sør-Varanger",
+    "adm_center": "Sør-Varanger",
+    "language": "Kirkenes"
   },
   {
     "k_id": "5607",
     "k_name": "Vadsø",
-    "k_name_no": "Vadsø"
+    "k_name_nb": "Vadsø",
+    "adm_center": "Vadsø",
+    "language": "Vadsø"
   },
   {
     "k_id": "5610",
     "k_name": "Kárášjohka",
-    "k_name_no": "Karasjok"
+    "k_name_nb": "Karasjok",
+    "adm_center": "Karasjok",
+    "language": "Karasjok"
   },
   {
     "k_id": "5612",
     "k_name": "Guovdageaidnu",
-    "k_name_no": "Kautokeino"
+    "k_name_nb": "Kautokeino",
+    "adm_center": "Kautokeino",
+    "language": "Kautokeino"
   },
   {
     "k_id": "5614",
     "k_name": "Loppa",
-    "k_name_no": "Loppa"
+    "k_name_nb": "Loppa",
+    "adm_center": "Loppa",
+    "language": "Øksfjord"
   },
   {
     "k_id": "5616",
     "k_name": "Hasvik",
-    "k_name_no": "Hasvik"
+    "k_name_nb": "Hasvik",
+    "adm_center": "Hasvik",
+    "language": "Breivikbotn"
   },
   {
     "k_id": "5618",
     "k_name": "Måsøy",
-    "k_name_no": "Måsøy"
+    "k_name_nb": "Måsøy",
+    "adm_center": "Måsøy",
+    "language": "Havøysund"
   },
   {
     "k_id": "5620",
     "k_name": "Nordkapp",
-    "k_name_no": "Nordkapp"
+    "k_name_nb": "Nordkapp",
+    "adm_center": "Nordkapp",
+    "language": "Honningsvåg"
   },
   {
     "k_id": "5622",
     "k_name": "Porsanger",
-    "k_name_no": "Porsanger"
+    "k_name_nb": "Porsanger",
+    "adm_center": "Porsanger",
+    "language": "Lakselv"
   },
   {
     "k_id": "5624",
     "k_name": "Lebesby",
-    "k_name_no": "Lebesby"
+    "k_name_nb": "Lebesby",
+    "adm_center": "Lebesby",
+    "language": "Kjøllefjord"
   },
   {
     "k_id": "5626",
     "k_name": "Gamvik",
-    "k_name_no": "Gamvik"
+    "k_name_nb": "Gamvik",
+    "adm_center": "Gamvik",
+    "language": "Mehamn"
   },
   {
     "k_id": "5628",
     "k_name": "Deatnu",
-    "k_name_no": "Tana"
+    "k_name_nb": "Tana",
+    "adm_center": "Tana",
+    "language": "Tana bru"
   },
   {
     "k_id": "5630",
     "k_name": "Berlevåg",
-    "k_name_no": "Berlevåg"
+    "k_name_nb": "Berlevåg",
+    "adm_center": "Berlevåg",
+    "language": "Berlevåg"
   },
   {
     "k_id": "5632",
     "k_name": "Båtsfjord",
-    "k_name_no": "Båtsfjord"
+    "k_name_nb": "Båtsfjord",
+    "adm_center": "Båtsfjord",
+    "language": "Båtsfjord"
   },
   {
     "k_id": "5634",
     "k_name": "Vardø",
-    "k_name_no": "Vardø"
+    "k_name_nb": "Vardø",
+    "adm_center": "Vardø",
+    "language": "Vardø"
   },
   {
     "k_id": "5636",
     "k_name": "Unjárga",
-    "k_name_no": "Nesseby"
+    "k_name_nb": "Nesseby",
+    "adm_center": "Nesseby",
+    "language": "Varangerbotn"
   }
 ]

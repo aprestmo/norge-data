@@ -1,62 +1,62 @@
 [
   {
-    "f_id": 3,
+    "f_id": "03",
     "f_name": "Oslo"
   },
   {
-    "f_id": 11,
+    "f_id": "11",
     "f_name": "Rogaland"
   },
   {
-    "f_id": 15,
+    "f_id": "15",
     "f_name": "Møre og Romsdal"
   },
   {
-    "f_id": 18,
+    "f_id": "18",
     "f_name": "Nordland"
   },
   {
-    "f_id": 31,
+    "f_id": "31",
     "f_name": "Østfold"
   },
   {
-    "f_id": 32,
+    "f_id": "32",
     "f_name": "Akershus"
   },
   {
-    "f_id": 33,
+    "f_id": "33",
     "f_name": "Buskerud"
   },
   {
-    "f_id": 34,
+    "f_id": "34",
     "f_name": "Innlandet"
   },
   {
-    "f_id": 39,
+    "f_id": "39",
     "f_name": "Vestfold"
   },
   {
-    "f_id": 40,
+    "f_id": "40",
     "f_name": "Telemark"
   },
   {
-    "f_id": 42,
+    "f_id": "42",
     "f_name": "Agder"
   },
   {
-    "f_id": 46,
+    "f_id": "46",
     "f_name": "Vestland"
   },
   {
-    "f_id": 50,
+    "f_id": "50",
     "f_name": "Trøndelag"
   },
   {
-    "f_id": 55,
+    "f_id": "55",
     "f_name": "Troms"
   },
   {
-    "f_id": 56,
+    "f_id": "56",
     "f_name": "Finnmark"
   }
 ]

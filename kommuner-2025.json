@@ -1,0 +1,77 @@
+[
+  {
+    "kommunenummer": 3,
+    "kommunenavn": "Oslo",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 11,
+    "kommunenavn": "Rogaland",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 15,
+    "kommunenavn": "M?re og Romsdal",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 18,
+    "kommunenavn": "Nordland",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 31,
+    "kommunenavn": "?stfold",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 32,
+    "kommunenavn": "Akershus",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 33,
+    "kommunenavn": "Buskerud",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 34,
+    "kommunenavn": "Innlandet",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 39,
+    "kommunenavn": "Vestfold",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 40,
+    "kommunenavn": "Telemark",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 42,
+    "kommunenavn": "Agder",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 46,
+    "kommunenavn": "Vestland",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 50,
+    "kommunenavn": "Tr?ndelag",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 55,
+    "kommunenavn": "Troms",
+    "kommunenavnNorsk": null
+  },
+  {
+    "kommunenummer": 56,
+    "kommunenavn": "Finnmark",
+    "kommunenavnNorsk": null
+  }
+]

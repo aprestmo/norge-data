@@ -1,62 +1,1430 @@
 [
   {
-    "fylkesnummer": 3,
+    "fylkesnummer": 301,
     "fylkesnavn": "Oslo"
   },
   {
-    "fylkesnummer": 11,
-    "fylkesnavn": "Rogaland"
+    "fylkesnummer": 1101,
+    "fylkesnavn": "Eigersund"
   },
   {
-    "fylkesnummer": 15,
-    "fylkesnavn": "M?re og Romsdal"
+    "fylkesnummer": 1103,
+    "fylkesnavn": "Stavanger"
   },
   {
-    "fylkesnummer": 18,
-    "fylkesnavn": "Nordland"
+    "fylkesnummer": 1106,
+    "fylkesnavn": "Haugesund"
   },
   {
-    "fylkesnummer": 31,
-    "fylkesnavn": "?stfold"
+    "fylkesnummer": 1108,
+    "fylkesnavn": "Sandnes"
   },
   {
-    "fylkesnummer": 32,
-    "fylkesnavn": "Akershus"
+    "fylkesnummer": 1111,
+    "fylkesnavn": "Sokndal"
   },
   {
-    "fylkesnummer": 33,
-    "fylkesnavn": "Buskerud"
+    "fylkesnummer": 1112,
+    "fylkesnavn": "Lund"
   },
   {
-    "fylkesnummer": 34,
-    "fylkesnavn": "Innlandet"
+    "fylkesnummer": 1114,
+    "fylkesnavn": "Bjerkreim"
   },
   {
-    "fylkesnummer": 39,
-    "fylkesnavn": "Vestfold"
+    "fylkesnummer": 1119,
+    "fylkesnavn": "H?"
   },
   {
-    "fylkesnummer": 40,
-    "fylkesnavn": "Telemark"
+    "fylkesnummer": 1120,
+    "fylkesnavn": "Klepp"
   },
   {
-    "fylkesnummer": 42,
-    "fylkesnavn": "Agder"
+    "fylkesnummer": 1121,
+    "fylkesnavn": "Time"
   },
   {
-    "fylkesnummer": 46,
-    "fylkesnavn": "Vestland"
+    "fylkesnummer": 1122,
+    "fylkesnavn": "Gjesdal"
   },
   {
-    "fylkesnummer": 50,
-    "fylkesnavn": "Tr?ndelag"
+    "fylkesnummer": 1124,
+    "fylkesnavn": "Sola"
   },
   {
-    "fylkesnummer": 55,
-    "fylkesnavn": "Troms"
+    "fylkesnummer": 1127,
+    "fylkesnavn": "Randaberg"
   },
   {
-    "fylkesnummer": 56,
-    "fylkesnavn": "Finnmark"
+    "fylkesnummer": 1130,
+    "fylkesnavn": "Strand"
+  },
+  {
+    "fylkesnummer": 1133,
+    "fylkesnavn": "Hjelmeland"
+  },
+  {
+    "fylkesnummer": 1134,
+    "fylkesnavn": "Suldal"
+  },
+  {
+    "fylkesnummer": 1135,
+    "fylkesnavn": "Sauda"
+  },
+  {
+    "fylkesnummer": 1144,
+    "fylkesnavn": "Kvits?y"
+  },
+  {
+    "fylkesnummer": 1145,
+    "fylkesnavn": "Bokn"
+  },
+  {
+    "fylkesnummer": 1146,
+    "fylkesnavn": "Tysv?r"
+  },
+  {
+    "fylkesnummer": 1149,
+    "fylkesnavn": "Karm?y"
+  },
+  {
+    "fylkesnummer": 1151,
+    "fylkesnavn": "Utsira"
+  },
+  {
+    "fylkesnummer": 1160,
+    "fylkesnavn": "Vindafjord"
+  },
+  {
+    "fylkesnummer": 1505,
+    "fylkesnavn": "Kristiansund"
+  },
+  {
+    "fylkesnummer": 1506,
+    "fylkesnavn": "Molde"
+  },
+  {
+    "fylkesnummer": 1508,
+    "fylkesnavn": "?lesund"
+  },
+  {
+    "fylkesnummer": 1511,
+    "fylkesnavn": "Vanylven"
+  },
+  {
+    "fylkesnummer": 1514,
+    "fylkesnavn": "Sande"
+  },
+  {
+    "fylkesnummer": 1515,
+    "fylkesnavn": "Her?y"
+  },
+  {
+    "fylkesnummer": 1516,
+    "fylkesnavn": "Ulstein"
+  },
+  {
+    "fylkesnummer": 1517,
+    "fylkesnavn": "Hareid"
+  },
+  {
+    "fylkesnummer": 1520,
+    "fylkesnavn": "?rsta"
+  },
+  {
+    "fylkesnummer": 1525,
+    "fylkesnavn": "Stranda"
+  },
+  {
+    "fylkesnummer": 1528,
+    "fylkesnavn": "Sykkylven"
+  },
+  {
+    "fylkesnummer": 1531,
+    "fylkesnavn": "Sula"
+  },
+  {
+    "fylkesnummer": 1532,
+    "fylkesnavn": "Giske"
+  },
+  {
+    "fylkesnummer": 1535,
+    "fylkesnavn": "Vestnes"
+  },
+  {
+    "fylkesnummer": 1539,
+    "fylkesnavn": "Rauma"
+  },
+  {
+    "fylkesnummer": 1547,
+    "fylkesnavn": "Aukra"
+  },
+  {
+    "fylkesnummer": 1554,
+    "fylkesnavn": "Aver?y"
+  },
+  {
+    "fylkesnummer": 1557,
+    "fylkesnavn": "Gjemnes"
+  },
+  {
+    "fylkesnummer": 1560,
+    "fylkesnavn": "Tingvoll"
+  },
+  {
+    "fylkesnummer": 1563,
+    "fylkesnavn": "Sunndal"
+  },
+  {
+    "fylkesnummer": 1566,
+    "fylkesnavn": "Surnadal"
+  },
+  {
+    "fylkesnummer": 1573,
+    "fylkesnavn": "Sm?la"
+  },
+  {
+    "fylkesnummer": 1576,
+    "fylkesnavn": "Aure"
+  },
+  {
+    "fylkesnummer": 1577,
+    "fylkesnavn": "Volda"
+  },
+  {
+    "fylkesnummer": 1578,
+    "fylkesnavn": "Fjord"
+  },
+  {
+    "fylkesnummer": 1579,
+    "fylkesnavn": "Hustadvika"
+  },
+  {
+    "fylkesnummer": 1580,
+    "fylkesnavn": "Haram"
+  },
+  {
+    "fylkesnummer": 1804,
+    "fylkesnavn": "Bod?"
+  },
+  {
+    "fylkesnummer": 1806,
+    "fylkesnavn": "Narvik"
+  },
+  {
+    "fylkesnummer": 1811,
+    "fylkesnavn": "Bindal"
+  },
+  {
+    "fylkesnummer": 1812,
+    "fylkesnavn": "S?mna"
+  },
+  {
+    "fylkesnummer": 1813,
+    "fylkesnavn": "Br?nn?y"
+  },
+  {
+    "fylkesnummer": 1815,
+    "fylkesnavn": "Vega"
+  },
+  {
+    "fylkesnummer": 1816,
+    "fylkesnavn": "Vevelstad"
+  },
+  {
+    "fylkesnummer": 1818,
+    "fylkesnavn": "Her?y"
+  },
+  {
+    "fylkesnummer": 1820,
+    "fylkesnavn": "Alstahaug"
+  },
+  {
+    "fylkesnummer": 1822,
+    "fylkesnavn": "Leirfjord"
+  },
+  {
+    "fylkesnummer": 1824,
+    "fylkesnavn": "Vefsn"
+  },
+  {
+    "fylkesnummer": 1825,
+    "fylkesnavn": "Grane"
+  },
+  {
+    "fylkesnummer": 1826,
+    "fylkesnavn": "Aarborte"
+  },
+  {
+    "fylkesnummer": 1827,
+    "fylkesnavn": "D?nna"
+  },
+  {
+    "fylkesnummer": 1828,
+    "fylkesnavn": "Nesna"
+  },
+  {
+    "fylkesnummer": 1832,
+    "fylkesnavn": "Hemnes"
+  },
+  {
+    "fylkesnummer": 1833,
+    "fylkesnavn": "Rana"
+  },
+  {
+    "fylkesnummer": 1834,
+    "fylkesnavn": "Lur?y"
+  },
+  {
+    "fylkesnummer": 1835,
+    "fylkesnavn": "Tr?na"
+  },
+  {
+    "fylkesnummer": 1836,
+    "fylkesnavn": "R?d?y"
+  },
+  {
+    "fylkesnummer": 1837,
+    "fylkesnavn": "Mel?y"
+  },
+  {
+    "fylkesnummer": 1838,
+    "fylkesnavn": "Gildesk?l"
+  },
+  {
+    "fylkesnummer": 1839,
+    "fylkesnavn": "Beiarn"
+  },
+  {
+    "fylkesnummer": 1840,
+    "fylkesnavn": "Saltdal"
+  },
+  {
+    "fylkesnummer": 1841,
+    "fylkesnavn": "Fauske"
+  },
+  {
+    "fylkesnummer": 1845,
+    "fylkesnavn": "S?rfold"
+  },
+  {
+    "fylkesnummer": 1848,
+    "fylkesnavn": "Steigen"
+  },
+  {
+    "fylkesnummer": 1851,
+    "fylkesnavn": "L?dingen"
+  },
+  {
+    "fylkesnummer": 1853,
+    "fylkesnavn": "Evenes"
+  },
+  {
+    "fylkesnummer": 1856,
+    "fylkesnavn": "R?st"
+  },
+  {
+    "fylkesnummer": 1857,
+    "fylkesnavn": "V?r?y"
+  },
+  {
+    "fylkesnummer": 1859,
+    "fylkesnavn": "Flakstad"
+  },
+  {
+    "fylkesnummer": 1860,
+    "fylkesnavn": "Vestv?g?y"
+  },
+  {
+    "fylkesnummer": 1865,
+    "fylkesnavn": "V?gan"
+  },
+  {
+    "fylkesnummer": 1866,
+    "fylkesnavn": "Hadsel"
+  },
+  {
+    "fylkesnummer": 1867,
+    "fylkesnavn": "B?"
+  },
+  {
+    "fylkesnummer": 1868,
+    "fylkesnavn": "?ksnes"
+  },
+  {
+    "fylkesnummer": 1870,
+    "fylkesnavn": "Sortland"
+  },
+  {
+    "fylkesnummer": 1871,
+    "fylkesnavn": "And?y"
+  },
+  {
+    "fylkesnummer": 1874,
+    "fylkesnavn": "Moskenes"
+  },
+  {
+    "fylkesnummer": 1875,
+    "fylkesnavn": "H?bmer"
+  },
+  {
+    "fylkesnummer": 3101,
+    "fylkesnavn": "Halden"
+  },
+  {
+    "fylkesnummer": 3103,
+    "fylkesnavn": "Moss"
+  },
+  {
+    "fylkesnummer": 3105,
+    "fylkesnavn": "Sarpsborg"
+  },
+  {
+    "fylkesnummer": 3107,
+    "fylkesnavn": "Fredrikstad"
+  },
+  {
+    "fylkesnummer": 3110,
+    "fylkesnavn": "Hvaler"
+  },
+  {
+    "fylkesnummer": 3112,
+    "fylkesnavn": "R?de"
+  },
+  {
+    "fylkesnummer": 3114,
+    "fylkesnavn": "V?ler"
+  },
+  {
+    "fylkesnummer": 3116,
+    "fylkesnavn": "Skiptvet"
+  },
+  {
+    "fylkesnummer": 3118,
+    "fylkesnavn": "Indre ?stfold"
+  },
+  {
+    "fylkesnummer": 3120,
+    "fylkesnavn": "Rakkestad"
+  },
+  {
+    "fylkesnummer": 3122,
+    "fylkesnavn": "Marker"
+  },
+  {
+    "fylkesnummer": 3124,
+    "fylkesnavn": "Aremark"
+  },
+  {
+    "fylkesnummer": 3201,
+    "fylkesnavn": "B?rum"
+  },
+  {
+    "fylkesnummer": 3203,
+    "fylkesnavn": "Asker"
+  },
+  {
+    "fylkesnummer": 3205,
+    "fylkesnavn": "Lillestr?m"
+  },
+  {
+    "fylkesnummer": 3207,
+    "fylkesnavn": "Nordre Follo"
+  },
+  {
+    "fylkesnummer": 3209,
+    "fylkesnavn": "Ullensaker"
+  },
+  {
+    "fylkesnummer": 3212,
+    "fylkesnavn": "Nesodden"
+  },
+  {
+    "fylkesnummer": 3214,
+    "fylkesnavn": "Frogn"
+  },
+  {
+    "fylkesnummer": 3216,
+    "fylkesnavn": "Vestby"
+  },
+  {
+    "fylkesnummer": 3218,
+    "fylkesnavn": "?s"
+  },
+  {
+    "fylkesnummer": 3220,
+    "fylkesnavn": "Enebakk"
+  },
+  {
+    "fylkesnummer": 3222,
+    "fylkesnavn": "L?renskog"
+  },
+  {
+    "fylkesnummer": 3224,
+    "fylkesnavn": "R?lingen"
+  },
+  {
+    "fylkesnummer": 3226,
+    "fylkesnavn": "Aurskog-H?land"
+  },
+  {
+    "fylkesnummer": 3228,
+    "fylkesnavn": "Nes"
+  },
+  {
+    "fylkesnummer": 3230,
+    "fylkesnavn": "Gjerdrum"
+  },
+  {
+    "fylkesnummer": 3232,
+    "fylkesnavn": "Nittedal"
+  },
+  {
+    "fylkesnummer": 3234,
+    "fylkesnavn": "Lunner"
+  },
+  {
+    "fylkesnummer": 3236,
+    "fylkesnavn": "Jevnaker"
+  },
+  {
+    "fylkesnummer": 3238,
+    "fylkesnavn": "Nannestad"
+  },
+  {
+    "fylkesnummer": 3240,
+    "fylkesnavn": "Eidsvoll"
+  },
+  {
+    "fylkesnummer": 3242,
+    "fylkesnavn": "Hurdal"
+  },
+  {
+    "fylkesnummer": 3301,
+    "fylkesnavn": "Drammen"
+  },
+  {
+    "fylkesnummer": 3303,
+    "fylkesnavn": "Kongsberg"
+  },
+  {
+    "fylkesnummer": 3305,
+    "fylkesnavn": "Ringerike"
+  },
+  {
+    "fylkesnummer": 3310,
+    "fylkesnavn": "Hole"
+  },
+  {
+    "fylkesnummer": 3312,
+    "fylkesnavn": "Lier"
+  },
+  {
+    "fylkesnummer": 3314,
+    "fylkesnavn": "?vre Eiker"
+  },
+  {
+    "fylkesnummer": 3316,
+    "fylkesnavn": "Modum"
+  },
+  {
+    "fylkesnummer": 3318,
+    "fylkesnavn": "Kr?dsherad"
+  },
+  {
+    "fylkesnummer": 3320,
+    "fylkesnavn": "Fl?"
+  },
+  {
+    "fylkesnummer": 3322,
+    "fylkesnavn": "Nesbyen"
+  },
+  {
+    "fylkesnummer": 3324,
+    "fylkesnavn": "Gol"
+  },
+  {
+    "fylkesnummer": 3326,
+    "fylkesnavn": "Hemsedal"
+  },
+  {
+    "fylkesnummer": 3328,
+    "fylkesnavn": "?l"
+  },
+  {
+    "fylkesnummer": 3330,
+    "fylkesnavn": "Hol"
+  },
+  {
+    "fylkesnummer": 3332,
+    "fylkesnavn": "Sigdal"
+  },
+  {
+    "fylkesnummer": 3334,
+    "fylkesnavn": "Flesberg"
+  },
+  {
+    "fylkesnummer": 3336,
+    "fylkesnavn": "Rollag"
+  },
+  {
+    "fylkesnummer": 3338,
+    "fylkesnavn": "Nore og Uvdal"
+  },
+  {
+    "fylkesnummer": 3401,
+    "fylkesnavn": "Kongsvinger"
+  },
+  {
+    "fylkesnummer": 3403,
+    "fylkesnavn": "Hamar"
+  },
+  {
+    "fylkesnummer": 3405,
+    "fylkesnavn": "Lillehammer"
+  },
+  {
+    "fylkesnummer": 3407,
+    "fylkesnavn": "Gj?vik"
+  },
+  {
+    "fylkesnummer": 3411,
+    "fylkesnavn": "Ringsaker"
+  },
+  {
+    "fylkesnummer": 3412,
+    "fylkesnavn": "L?ten"
+  },
+  {
+    "fylkesnummer": 3413,
+    "fylkesnavn": "Stange"
+  },
+  {
+    "fylkesnummer": 3414,
+    "fylkesnavn": "Nord-Odal"
+  },
+  {
+    "fylkesnummer": 3415,
+    "fylkesnavn": "S?r-Odal"
+  },
+  {
+    "fylkesnummer": 3416,
+    "fylkesnavn": "Eidskog"
+  },
+  {
+    "fylkesnummer": 3417,
+    "fylkesnavn": "Grue"
+  },
+  {
+    "fylkesnummer": 3418,
+    "fylkesnavn": "?snes"
+  },
+  {
+    "fylkesnummer": 3419,
+    "fylkesnavn": "V?ler"
+  },
+  {
+    "fylkesnummer": 3420,
+    "fylkesnavn": "Elverum"
+  },
+  {
+    "fylkesnummer": 3421,
+    "fylkesnavn": "Trysil"
+  },
+  {
+    "fylkesnummer": 3422,
+    "fylkesnavn": "?mot"
+  },
+  {
+    "fylkesnummer": 3423,
+    "fylkesnavn": "Stor-Elvdal"
+  },
+  {
+    "fylkesnummer": 3424,
+    "fylkesnavn": "Rendalen"
+  },
+  {
+    "fylkesnummer": 3425,
+    "fylkesnavn": "Engerdal"
+  },
+  {
+    "fylkesnummer": 3426,
+    "fylkesnavn": "Tolga"
+  },
+  {
+    "fylkesnummer": 3427,
+    "fylkesnavn": "Tynset"
+  },
+  {
+    "fylkesnummer": 3428,
+    "fylkesnavn": "Alvdal"
+  },
+  {
+    "fylkesnummer": 3429,
+    "fylkesnavn": "Folldal"
+  },
+  {
+    "fylkesnummer": 3430,
+    "fylkesnavn": "Os"
+  },
+  {
+    "fylkesnummer": 3431,
+    "fylkesnavn": "Dovre"
+  },
+  {
+    "fylkesnummer": 3432,
+    "fylkesnavn": "Lesja"
+  },
+  {
+    "fylkesnummer": 3433,
+    "fylkesnavn": "Skj?k"
+  },
+  {
+    "fylkesnummer": 3434,
+    "fylkesnavn": "Lom"
+  },
+  {
+    "fylkesnummer": 3435,
+    "fylkesnavn": "V?g?"
+  },
+  {
+    "fylkesnummer": 3436,
+    "fylkesnavn": "Nord-Fron"
+  },
+  {
+    "fylkesnummer": 3437,
+    "fylkesnavn": "Sel"
+  },
+  {
+    "fylkesnummer": 3438,
+    "fylkesnavn": "S?r-Fron"
+  },
+  {
+    "fylkesnummer": 3439,
+    "fylkesnavn": "Ringebu"
+  },
+  {
+    "fylkesnummer": 3440,
+    "fylkesnavn": "?yer"
+  },
+  {
+    "fylkesnummer": 3441,
+    "fylkesnavn": "Gausdal"
+  },
+  {
+    "fylkesnummer": 3442,
+    "fylkesnavn": "?stre Toten"
+  },
+  {
+    "fylkesnummer": 3443,
+    "fylkesnavn": "Vestre Toten"
+  },
+  {
+    "fylkesnummer": 3446,
+    "fylkesnavn": "Gran"
+  },
+  {
+    "fylkesnummer": 3447,
+    "fylkesnavn": "S?ndre Land"
+  },
+  {
+    "fylkesnummer": 3448,
+    "fylkesnavn": "Nordre Land"
+  },
+  {
+    "fylkesnummer": 3449,
+    "fylkesnavn": "S?r-Aurdal"
+  },
+  {
+    "fylkesnummer": 3450,
+    "fylkesnavn": "Etnedal"
+  },
+  {
+    "fylkesnummer": 3451,
+    "fylkesnavn": "Nord-Aurdal"
+  },
+  {
+    "fylkesnummer": 3452,
+    "fylkesnavn": "Vestre Slidre"
+  },
+  {
+    "fylkesnummer": 3453,
+    "fylkesnavn": "?ystre Slidre"
+  },
+  {
+    "fylkesnummer": 3454,
+    "fylkesnavn": "Vang"
+  },
+  {
+    "fylkesnummer": 3901,
+    "fylkesnavn": "Horten"
+  },
+  {
+    "fylkesnummer": 3903,
+    "fylkesnavn": "Holmestrand"
+  },
+  {
+    "fylkesnummer": 3905,
+    "fylkesnavn": "T?nsberg"
+  },
+  {
+    "fylkesnummer": 3907,
+    "fylkesnavn": "Sandefjord"
+  },
+  {
+    "fylkesnummer": 3909,
+    "fylkesnavn": "Larvik"
+  },
+  {
+    "fylkesnummer": 3911,
+    "fylkesnavn": "F?rder"
+  },
+  {
+    "fylkesnummer": 4001,
+    "fylkesnavn": "Porsgrunn"
+  },
+  {
+    "fylkesnummer": 4003,
+    "fylkesnavn": "Skien"
+  },
+  {
+    "fylkesnummer": 4005,
+    "fylkesnavn": "Notodden"
+  },
+  {
+    "fylkesnummer": 4010,
+    "fylkesnavn": "Siljan"
+  },
+  {
+    "fylkesnummer": 4012,
+    "fylkesnavn": "Bamble"
+  },
+  {
+    "fylkesnummer": 4014,
+    "fylkesnavn": "Krager?"
+  },
+  {
+    "fylkesnummer": 4016,
+    "fylkesnavn": "Drangedal"
+  },
+  {
+    "fylkesnummer": 4018,
+    "fylkesnavn": "Nome"
+  },
+  {
+    "fylkesnummer": 4020,
+    "fylkesnavn": "Midt-Telemark"
+  },
+  {
+    "fylkesnummer": 4022,
+    "fylkesnavn": "Seljord"
+  },
+  {
+    "fylkesnummer": 4024,
+    "fylkesnavn": "Hjartdal"
+  },
+  {
+    "fylkesnummer": 4026,
+    "fylkesnavn": "Tinn"
+  },
+  {
+    "fylkesnummer": 4028,
+    "fylkesnavn": "Kviteseid"
+  },
+  {
+    "fylkesnummer": 4030,
+    "fylkesnavn": "Nissedal"
+  },
+  {
+    "fylkesnummer": 4032,
+    "fylkesnavn": "Fyresdal"
+  },
+  {
+    "fylkesnummer": 4034,
+    "fylkesnavn": "Tokke"
+  },
+  {
+    "fylkesnummer": 4036,
+    "fylkesnavn": "Vinje"
+  },
+  {
+    "fylkesnummer": 4201,
+    "fylkesnavn": "Ris?r"
+  },
+  {
+    "fylkesnummer": 4202,
+    "fylkesnavn": "Grimstad"
+  },
+  {
+    "fylkesnummer": 4203,
+    "fylkesnavn": "Arendal"
+  },
+  {
+    "fylkesnummer": 4204,
+    "fylkesnavn": "Kristiansand"
+  },
+  {
+    "fylkesnummer": 4205,
+    "fylkesnavn": "Lindesnes"
+  },
+  {
+    "fylkesnummer": 4206,
+    "fylkesnavn": "Farsund"
+  },
+  {
+    "fylkesnummer": 4207,
+    "fylkesnavn": "Flekkefjord"
+  },
+  {
+    "fylkesnummer": 4211,
+    "fylkesnavn": "Gjerstad"
+  },
+  {
+    "fylkesnummer": 4212,
+    "fylkesnavn": "Veg?rshei"
+  },
+  {
+    "fylkesnummer": 4213,
+    "fylkesnavn": "Tvedestrand"
+  },
+  {
+    "fylkesnummer": 4214,
+    "fylkesnavn": "Froland"
+  },
+  {
+    "fylkesnummer": 4215,
+    "fylkesnavn": "Lillesand"
+  },
+  {
+    "fylkesnummer": 4216,
+    "fylkesnavn": "Birkenes"
+  },
+  {
+    "fylkesnummer": 4217,
+    "fylkesnavn": "?mli"
+  },
+  {
+    "fylkesnummer": 4218,
+    "fylkesnavn": "Iveland"
+  },
+  {
+    "fylkesnummer": 4219,
+    "fylkesnavn": "Evje og Hornnes"
+  },
+  {
+    "fylkesnummer": 4220,
+    "fylkesnavn": "Bygland"
+  },
+  {
+    "fylkesnummer": 4221,
+    "fylkesnavn": "Valle"
+  },
+  {
+    "fylkesnummer": 4222,
+    "fylkesnavn": "Bykle"
+  },
+  {
+    "fylkesnummer": 4223,
+    "fylkesnavn": "Vennesla"
+  },
+  {
+    "fylkesnummer": 4224,
+    "fylkesnavn": "?seral"
+  },
+  {
+    "fylkesnummer": 4225,
+    "fylkesnavn": "Lyngdal"
+  },
+  {
+    "fylkesnummer": 4226,
+    "fylkesnavn": "H?gebostad"
+  },
+  {
+    "fylkesnummer": 4227,
+    "fylkesnavn": "Kvinesdal"
+  },
+  {
+    "fylkesnummer": 4228,
+    "fylkesnavn": "Sirdal"
+  },
+  {
+    "fylkesnummer": 4601,
+    "fylkesnavn": "Bergen"
+  },
+  {
+    "fylkesnummer": 4602,
+    "fylkesnavn": "Kinn"
+  },
+  {
+    "fylkesnummer": 4611,
+    "fylkesnavn": "Etne"
+  },
+  {
+    "fylkesnummer": 4612,
+    "fylkesnavn": "Sveio"
+  },
+  {
+    "fylkesnummer": 4613,
+    "fylkesnavn": "B?mlo"
+  },
+  {
+    "fylkesnummer": 4614,
+    "fylkesnavn": "Stord"
+  },
+  {
+    "fylkesnummer": 4615,
+    "fylkesnavn": "Fitjar"
+  },
+  {
+    "fylkesnummer": 4616,
+    "fylkesnavn": "Tysnes"
+  },
+  {
+    "fylkesnummer": 4617,
+    "fylkesnavn": "Kvinnherad"
+  },
+  {
+    "fylkesnummer": 4618,
+    "fylkesnavn": "Ullensvang"
+  },
+  {
+    "fylkesnummer": 4619,
+    "fylkesnavn": "Eidfjord"
+  },
+  {
+    "fylkesnummer": 4620,
+    "fylkesnavn": "Ulvik"
+  },
+  {
+    "fylkesnummer": 4621,
+    "fylkesnavn": "Voss"
+  },
+  {
+    "fylkesnummer": 4622,
+    "fylkesnavn": "Kvam"
+  },
+  {
+    "fylkesnummer": 4623,
+    "fylkesnavn": "Samnanger"
+  },
+  {
+    "fylkesnummer": 4624,
+    "fylkesnavn": "Bj?rnafjorden"
+  },
+  {
+    "fylkesnummer": 4625,
+    "fylkesnavn": "Austevoll"
+  },
+  {
+    "fylkesnummer": 4626,
+    "fylkesnavn": "?ygarden"
+  },
+  {
+    "fylkesnummer": 4627,
+    "fylkesnavn": "Ask?y"
+  },
+  {
+    "fylkesnummer": 4628,
+    "fylkesnavn": "Vaksdal"
+  },
+  {
+    "fylkesnummer": 4629,
+    "fylkesnavn": "Modalen"
+  },
+  {
+    "fylkesnummer": 4630,
+    "fylkesnavn": "Oster?y"
+  },
+  {
+    "fylkesnummer": 4631,
+    "fylkesnavn": "Alver"
+  },
+  {
+    "fylkesnummer": 4632,
+    "fylkesnavn": "Austrheim"
+  },
+  {
+    "fylkesnummer": 4633,
+    "fylkesnavn": "Fedje"
+  },
+  {
+    "fylkesnummer": 4634,
+    "fylkesnavn": "Masfjorden"
+  },
+  {
+    "fylkesnummer": 4635,
+    "fylkesnavn": "Gulen"
+  },
+  {
+    "fylkesnummer": 4636,
+    "fylkesnavn": "Solund"
+  },
+  {
+    "fylkesnummer": 4637,
+    "fylkesnavn": "Hyllestad"
+  },
+  {
+    "fylkesnummer": 4638,
+    "fylkesnavn": "H?yanger"
+  },
+  {
+    "fylkesnummer": 4639,
+    "fylkesnavn": "Vik"
+  },
+  {
+    "fylkesnummer": 4640,
+    "fylkesnavn": "Sogndal"
+  },
+  {
+    "fylkesnummer": 4641,
+    "fylkesnavn": "Aurland"
+  },
+  {
+    "fylkesnummer": 4642,
+    "fylkesnavn": "L?rdal"
+  },
+  {
+    "fylkesnummer": 4643,
+    "fylkesnavn": "?rdal"
+  },
+  {
+    "fylkesnummer": 4644,
+    "fylkesnavn": "Luster"
+  },
+  {
+    "fylkesnummer": 4645,
+    "fylkesnavn": "Askvoll"
+  },
+  {
+    "fylkesnummer": 4646,
+    "fylkesnavn": "Fjaler"
+  },
+  {
+    "fylkesnummer": 4647,
+    "fylkesnavn": "Sunnfjord"
+  },
+  {
+    "fylkesnummer": 4648,
+    "fylkesnavn": "Bremanger"
+  },
+  {
+    "fylkesnummer": 4649,
+    "fylkesnavn": "Stad"
+  },
+  {
+    "fylkesnummer": 4650,
+    "fylkesnavn": "Gloppen"
+  },
+  {
+    "fylkesnummer": 4651,
+    "fylkesnavn": "Stryn"
+  },
+  {
+    "fylkesnummer": 5001,
+    "fylkesnavn": "Trondheim"
+  },
+  {
+    "fylkesnummer": 5006,
+    "fylkesnavn": "Steinkjer"
+  },
+  {
+    "fylkesnummer": 5007,
+    "fylkesnavn": "Namsos"
+  },
+  {
+    "fylkesnummer": 5014,
+    "fylkesnavn": "Fr?ya"
+  },
+  {
+    "fylkesnummer": 5020,
+    "fylkesnavn": "Osen"
+  },
+  {
+    "fylkesnummer": 5021,
+    "fylkesnavn": "Oppdal"
+  },
+  {
+    "fylkesnummer": 5022,
+    "fylkesnavn": "Rennebu"
+  },
+  {
+    "fylkesnummer": 5025,
+    "fylkesnavn": "Rosse"
+  },
+  {
+    "fylkesnummer": 5026,
+    "fylkesnavn": "Holt?len"
+  },
+  {
+    "fylkesnummer": 5027,
+    "fylkesnavn": "Midtre Gauldal"
+  },
+  {
+    "fylkesnummer": 5028,
+    "fylkesnavn": "Melhus"
+  },
+  {
+    "fylkesnummer": 5029,
+    "fylkesnavn": "Skaun"
+  },
+  {
+    "fylkesnummer": 5031,
+    "fylkesnavn": "Malvik"
+  },
+  {
+    "fylkesnummer": 5032,
+    "fylkesnavn": "Selbu"
+  },
+  {
+    "fylkesnummer": 5033,
+    "fylkesnavn": "Tydal"
+  },
+  {
+    "fylkesnummer": 5034,
+    "fylkesnavn": "Mer?ker"
+  },
+  {
+    "fylkesnummer": 5035,
+    "fylkesnavn": "Stj?rdal"
+  },
+  {
+    "fylkesnummer": 5036,
+    "fylkesnavn": "Frosta"
+  },
+  {
+    "fylkesnummer": 5037,
+    "fylkesnavn": "Levanger"
+  },
+  {
+    "fylkesnummer": 5038,
+    "fylkesnavn": "Verdal"
+  },
+  {
+    "fylkesnummer": 5041,
+    "fylkesnavn": "Sn?ase"
+  },
+  {
+    "fylkesnummer": 5042,
+    "fylkesnavn": "Lierne"
+  },
+  {
+    "fylkesnummer": 5043,
+    "fylkesnavn": "Raarvihke"
+  },
+  {
+    "fylkesnummer": 5044,
+    "fylkesnavn": "Namsskogan"
+  },
+  {
+    "fylkesnummer": 5045,
+    "fylkesnavn": "Grong"
+  },
+  {
+    "fylkesnummer": 5046,
+    "fylkesnavn": "H?ylandet"
+  },
+  {
+    "fylkesnummer": 5047,
+    "fylkesnavn": "Overhalla"
+  },
+  {
+    "fylkesnummer": 5049,
+    "fylkesnavn": "Flatanger"
+  },
+  {
+    "fylkesnummer": 5052,
+    "fylkesnavn": "Leka"
+  },
+  {
+    "fylkesnummer": 5053,
+    "fylkesnavn": "Inder?y"
+  },
+  {
+    "fylkesnummer": 5054,
+    "fylkesnavn": "Indre Fosen"
+  },
+  {
+    "fylkesnummer": 5055,
+    "fylkesnavn": "Heim"
+  },
+  {
+    "fylkesnummer": 5056,
+    "fylkesnavn": "Hitra"
+  },
+  {
+    "fylkesnummer": 5057,
+    "fylkesnavn": "?rland"
+  },
+  {
+    "fylkesnummer": 5058,
+    "fylkesnavn": "?fjord"
+  },
+  {
+    "fylkesnummer": 5059,
+    "fylkesnavn": "Orkland"
+  },
+  {
+    "fylkesnummer": 5060,
+    "fylkesnavn": "N?r?ysund"
+  },
+  {
+    "fylkesnummer": 5061,
+    "fylkesnavn": "Rindal"
+  },
+  {
+    "fylkesnummer": 5501,
+    "fylkesnavn": "Troms?"
+  },
+  {
+    "fylkesnummer": 5503,
+    "fylkesnavn": "Harstad"
+  },
+  {
+    "fylkesnummer": 5510,
+    "fylkesnavn": "Kv?fjord"
+  },
+  {
+    "fylkesnummer": 5512,
+    "fylkesnavn": "Dielddanuorri"
+  },
+  {
+    "fylkesnummer": 5514,
+    "fylkesnavn": "Ibestad"
+  },
+  {
+    "fylkesnummer": 5516,
+    "fylkesnavn": "Gratangen"
+  },
+  {
+    "fylkesnummer": 5518,
+    "fylkesnavn": "Loab?k"
+  },
+  {
+    "fylkesnummer": 5520,
+    "fylkesnavn": "Bardu"
+  },
+  {
+    "fylkesnummer": 5522,
+    "fylkesnavn": "Salangen"
+  },
+  {
+    "fylkesnummer": 5524,
+    "fylkesnavn": "M?lselv"
+  },
+  {
+    "fylkesnummer": 5526,
+    "fylkesnavn": "S?rreisa"
+  },
+  {
+    "fylkesnummer": 5528,
+    "fylkesnavn": "Dyr?y"
+  },
+  {
+    "fylkesnummer": 5530,
+    "fylkesnavn": "Senja"
+  },
+  {
+    "fylkesnummer": 5532,
+    "fylkesnavn": "Balsfjord"
+  },
+  {
+    "fylkesnummer": 5534,
+    "fylkesnavn": "Karls?y"
+  },
+  {
+    "fylkesnummer": 5536,
+    "fylkesnavn": "Lyngen"
+  },
+  {
+    "fylkesnummer": 5538,
+    "fylkesnavn": "Storfjord"
+  },
+  {
+    "fylkesnummer": 5540,
+    "fylkesnavn": "G?ivuotna"
+  },
+  {
+    "fylkesnummer": 5542,
+    "fylkesnavn": "Skjerv?y"
+  },
+  {
+    "fylkesnummer": 5544,
+    "fylkesnavn": "Nordreisa"
+  },
+  {
+    "fylkesnummer": 5546,
+    "fylkesnavn": "Kv?nangen"
+  },
+  {
+    "fylkesnummer": 5601,
+    "fylkesnavn": "Alta"
+  },
+  {
+    "fylkesnummer": 5603,
+    "fylkesnavn": "Hammerfest"
+  },
+  {
+    "fylkesnummer": 5605,
+    "fylkesnavn": "S?r-Varanger"
+  },
+  {
+    "fylkesnummer": 5607,
+    "fylkesnavn": "Vads?"
+  },
+  {
+    "fylkesnummer": 5610,
+    "fylkesnavn": "K?r??johka"
+  },
+  {
+    "fylkesnummer": 5612,
+    "fylkesnavn": "Guovdageaidnu"
+  },
+  {
+    "fylkesnummer": 5614,
+    "fylkesnavn": "Loppa"
+  },
+  {
+    "fylkesnummer": 5616,
+    "fylkesnavn": "Hasvik"
+  },
+  {
+    "fylkesnummer": 5618,
+    "fylkesnavn": "M?s?y"
+  },
+  {
+    "fylkesnummer": 5620,
+    "fylkesnavn": "Nordkapp"
+  },
+  {
+    "fylkesnummer": 5622,
+    "fylkesnavn": "Porsanger"
+  },
+  {
+    "fylkesnummer": 5624,
+    "fylkesnavn": "Lebesby"
+  },
+  {
+    "fylkesnummer": 5626,
+    "fylkesnavn": "Gamvik"
+  },
+  {
+    "fylkesnummer": 5628,
+    "fylkesnavn": "Deatnu"
+  },
+  {
+    "fylkesnummer": 5630,
+    "fylkesnavn": "Berlev?g"
+  },
+  {
+    "fylkesnummer": 5632,
+    "fylkesnavn": "B?tsfjord"
+  },
+  {
+    "fylkesnummer": 5634,
+    "fylkesnavn": "Vard?"
+  },
+  {
+    "fylkesnummer": 5636,
+    "fylkesnavn": "Unj?rga"
   }
 ]

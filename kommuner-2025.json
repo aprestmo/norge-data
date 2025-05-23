@@ -1,0 +1,3572 @@
+[
+  {
+    "k_id": "0301",
+    "k_name": "Oslo",
+    "k_name_no": "Oslo",
+    "k_adm_center": "Oslo",
+    "k_population": 717710,
+    "k_area": 454.12,
+    "k_language": "Nøytral",
+    "k_url": "www.oslo.kommune.no"
+  },
+  {
+    "k_id": "1101",
+    "k_name": "Eigersund",
+    "k_name_no": "Eigersund",
+    "k_adm_center": "Egersund",
+    "k_population": 15221,
+    "k_area": 432.49,
+    "k_language": "Bokmål",
+    "k_url": "www.eigersund.kommune.no"
+  },
+  {
+    "k_id": "1103",
+    "k_name": "Stavanger",
+    "k_name_no": "Stavanger",
+    "k_adm_center": "Stavanger",
+    "k_population": 149048,
+    "k_area": 262.3,
+    "k_language": "Nøytral",
+    "k_url": "www.stavanger.kommune.no"
+  },
+  {
+    "k_id": "1106",
+    "k_name": "Haugesund",
+    "k_name_no": "Haugesund",
+    "k_adm_center": "Haugesund",
+    "k_population": 38292,
+    "k_area": 72.68,
+    "k_language": "Bokmål",
+    "k_url": "www.haugesund.kommune.no"
+  },
+  {
+    "k_id": "1108",
+    "k_name": "Sandnes",
+    "k_name_no": "Sandnes",
+    "k_adm_center": "Sandnes",
+    "k_population": 83702,
+    "k_area": 1040.6,
+    "k_language": "Nøytral",
+    "k_url": "www.sandnes.kommune.no"
+  },
+  {
+    "k_id": "1111",
+    "k_name": "Sokndal",
+    "k_name_no": "Sokndal",
+    "k_adm_center": "Hauge",
+    "k_population": 3347,
+    "k_area": 294.98,
+    "k_language": "Nøytral",
+    "k_url": "www.sokndal.kommune.no"
+  },
+  {
+    "k_id": "1112",
+    "k_name": "Lund",
+    "k_name_no": "Lund",
+    "k_adm_center": "Moi",
+    "k_population": 3226,
+    "k_area": 408.39,
+    "k_language": "Nøytral",
+    "k_url": "www.lund.kommune.no"
+  },
+  {
+    "k_id": "1114",
+    "k_name": "Bjerkreim",
+    "k_name_no": "Bjerkreim",
+    "k_adm_center": "Vikeså",
+    "k_population": 2892,
+    "k_area": 650.55,
+    "k_language": "Nynorsk",
+    "k_url": "www.bjerkreim.kommune.no"
+  },
+  {
+    "k_id": "1119",
+    "k_name": "Hå",
+    "k_name_no": "Hå",
+    "k_adm_center": "Varhaug",
+    "k_population": 19827,
+    "k_area": 258,
+    "k_language": "Nøytral",
+    "k_url": "www.ha.kommune.no"
+  },
+  {
+    "k_id": "1120",
+    "k_name": "Klepp",
+    "k_name_no": "Klepp",
+    "k_adm_center": "Kleppe",
+    "k_population": 20900,
+    "k_area": 113.48,
+    "k_language": "Nynorsk",
+    "k_url": "www.klepp.kommune.no"
+  },
+  {
+    "k_id": "1121",
+    "k_name": "Time",
+    "k_name_no": "Time",
+    "k_adm_center": "Bryne",
+    "k_population": 19910,
+    "k_area": 183.18,
+    "k_language": "Nynorsk",
+    "k_url": "www.time.kommune.no"
+  },
+  {
+    "k_id": "1122",
+    "k_name": "Gjesdal",
+    "k_name_no": "Gjesdal",
+    "k_adm_center": "Ålgård",
+    "k_population": 12362,
+    "k_area": 617.98,
+    "k_language": "Nøytral",
+    "k_url": "www.gjesdal.kommune.no"
+  },
+  {
+    "k_id": "1124",
+    "k_name": "Sola",
+    "k_name_no": "Sola",
+    "k_adm_center": "Solakrossen",
+    "k_population": 28685,
+    "k_area": 69.04,
+    "k_language": "Nøytral",
+    "k_url": "www.sola.kommune.no"
+  },
+  {
+    "k_id": "1127",
+    "k_name": "Randaberg",
+    "k_name_no": "Randaberg",
+    "k_adm_center": "Randaberg",
+    "k_population": 11742,
+    "k_area": 24.72,
+    "k_language": "Nøytral",
+    "k_url": "www.randaberg.kommune.no"
+  },
+  {
+    "k_id": "1130",
+    "k_name": "Strand",
+    "k_name_no": "Strand",
+    "k_adm_center": "Jørpeland",
+    "k_population": 13703,
+    "k_area": 261.79,
+    "k_language": "Nøytral",
+    "k_url": "www.strand.kommune.no"
+  },
+  {
+    "k_id": "1133",
+    "k_name": "Hjelmeland",
+    "k_name_no": "Hjelmeland",
+    "k_adm_center": "Hjelmelandsvågen",
+    "k_population": 2643,
+    "k_area": 1068.08,
+    "k_language": "Nynorsk",
+    "k_url": "www.hjelmeland.kommune.no"
+  },
+  {
+    "k_id": "1134",
+    "k_name": "Suldal",
+    "k_name_no": "Suldal",
+    "k_adm_center": "Sand",
+    "k_population": 3889,
+    "k_area": 1736.27,
+    "k_language": "Nynorsk",
+    "k_url": "www.suldal.kommune.no"
+  },
+  {
+    "k_id": "1135",
+    "k_name": "Sauda",
+    "k_name_no": "Sauda",
+    "k_adm_center": "Sauda",
+    "k_population": 4572,
+    "k_area": 546.56,
+    "k_language": "Nynorsk",
+    "k_url": "www.sauda.kommune.no"
+  },
+  {
+    "k_id": "1144",
+    "k_name": "Kvitsøy",
+    "k_name_no": "Kvitsøy",
+    "k_adm_center": "Ydstebøhavn",
+    "k_population": 544,
+    "k_area": 6.28,
+    "k_language": "Nøytral",
+    "k_url": "www.kvitsoy.kommune.no"
+  },
+  {
+    "k_id": "1145",
+    "k_name": "Bokn",
+    "k_name_no": "Bokn",
+    "k_adm_center": "Føresvik",
+    "k_population": 883,
+    "k_area": 47.15,
+    "k_language": "Nynorsk",
+    "k_url": "www.bokn.kommune.no"
+  },
+  {
+    "k_id": "1146",
+    "k_name": "Tysvær",
+    "k_name_no": "Tysvær",
+    "k_adm_center": "Aksdal",
+    "k_population": 11570,
+    "k_area": 425.48,
+    "k_language": "Nøytral",
+    "k_url": "www.tysver.kommune.no"
+  },
+  {
+    "k_id": "1149",
+    "k_name": "Karmøy",
+    "k_name_no": "Karmøy",
+    "k_adm_center": "Kopervik",
+    "k_population": 43306,
+    "k_area": 230.01,
+    "k_language": "Nøytral",
+    "k_url": "www.karmoy.kommune.no"
+  },
+  {
+    "k_id": "1151",
+    "k_name": "Utsira",
+    "k_name_no": "Utsira",
+    "k_adm_center": "Utsira",
+    "k_population": 215,
+    "k_area": 6.29,
+    "k_language": "Nøytral",
+    "k_url": "www.utsira.kommune.no"
+  },
+  {
+    "k_id": "1160",
+    "k_name": "Vindafjord",
+    "k_name_no": "Vindafjord",
+    "k_adm_center": "Ølensjøen",
+    "k_population": 8938,
+    "k_area": 620.59,
+    "k_language": "Nynorsk",
+    "k_url": "www.vindafjord.kommune.no"
+  },
+  {
+    "k_id": "1505",
+    "k_name": "Kristiansund",
+    "k_name_no": "Kristiansund",
+    "k_adm_center": "Kristiansund",
+    "k_population": 24404,
+    "k_area": 87.44,
+    "k_language": "Nøytral",
+    "k_url": "www.kristiansund.kommune.no"
+  },
+  {
+    "k_id": "1506",
+    "k_name": "Molde",
+    "k_name_no": "Molde",
+    "k_adm_center": "Molde",
+    "k_population": 32816,
+    "k_area": 1503.37,
+    "k_language": "Nøytral",
+    "k_url": "www.molde.kommune.no"
+  },
+  {
+    "k_id": "1508",
+    "k_name": "Ålesund",
+    "k_name_no": "Ålesund",
+    "k_adm_center": "Ålesund",
+    "k_population": 58509,
+    "k_area": 371.34,
+    "k_language": "Nøytral",
+    "k_url": "www.alesund.kommune.no"
+  },
+  {
+    "k_id": "1511",
+    "k_name": "Vanylven",
+    "k_name_no": "Vanylven",
+    "k_adm_center": "Fiskåbygd",
+    "k_population": 3026,
+    "k_area": 385.11,
+    "k_language": "Nynorsk",
+    "k_url": "www.vanylven.kommune.no"
+  },
+  {
+    "k_id": "1514",
+    "k_name": "Sande",
+    "k_name_no": "Sande",
+    "k_adm_center": "Larsnes",
+    "k_population": 2438,
+    "k_area": 93.24,
+    "k_language": "Nynorsk",
+    "k_url": "www.sande-mr.kommune.no"
+  },
+  {
+    "k_id": "1515",
+    "k_name": "Herøy",
+    "k_name_no": "Herøy",
+    "k_adm_center": "Fosnavåg",
+    "k_population": 8968,
+    "k_area": 119.53,
+    "k_language": "Nynorsk",
+    "k_url": "www.heroy.kommune.no"
+  },
+  {
+    "k_id": "1516",
+    "k_name": "Ulstein",
+    "k_name_no": "Ulstein",
+    "k_adm_center": "Ulsteinvik",
+    "k_population": 8861,
+    "k_area": 97.2,
+    "k_language": "Nynorsk",
+    "k_url": "www.ulstein.kommune.no"
+  },
+  {
+    "k_id": "1517",
+    "k_name": "Hareid",
+    "k_name_no": "Hareid",
+    "k_adm_center": "Hareid",
+    "k_population": 5322,
+    "k_area": 82.27,
+    "k_language": "Nynorsk",
+    "k_url": "www.hareid.kommune.no"
+  },
+  {
+    "k_id": "1520",
+    "k_name": "Ørsta",
+    "k_name_no": "Ørsta",
+    "k_adm_center": "Ørsta",
+    "k_population": 10958,
+    "k_area": 661.58,
+    "k_language": "Nynorsk",
+    "k_url": "www.orsta.kommune.no"
+  },
+  {
+    "k_id": "1525",
+    "k_name": "Stranda",
+    "k_name_no": "Stranda",
+    "k_adm_center": "Stranda",
+    "k_population": 4348,
+    "k_area": 865.86,
+    "k_language": "Nynorsk",
+    "k_url": "www.stranda.kommune.no"
+  },
+  {
+    "k_id": "1528",
+    "k_name": "Sykkylven",
+    "k_name_no": "Sykkylven",
+    "k_adm_center": "Aure",
+    "k_population": 7617,
+    "k_area": 337.8,
+    "k_language": "Nynorsk",
+    "k_url": "www.sykkylven.kommune.no"
+  },
+  {
+    "k_id": "1531",
+    "k_name": "Sula",
+    "k_name_no": "Sula",
+    "k_adm_center": "Langevåg",
+    "k_population": 9720,
+    "k_area": 58.51,
+    "k_language": "Nynorsk",
+    "k_url": "www.sula.kommune.no"
+  },
+  {
+    "k_id": "1532",
+    "k_name": "Giske",
+    "k_name_no": "Giske",
+    "k_adm_center": "Valderøya",
+    "k_population": 8691,
+    "k_area": 40.58,
+    "k_language": "Nynorsk",
+    "k_url": "www.giske.kommune.no"
+  },
+  {
+    "k_id": "1535",
+    "k_name": "Vestnes",
+    "k_name_no": "Vestnes",
+    "k_adm_center": "Vestnes",
+    "k_population": 7147,
+    "k_area": 404.59,
+    "k_language": "Nynorsk",
+    "k_url": "www.vestnes.kommune.no"
+  },
+  {
+    "k_id": "1539",
+    "k_name": "Rauma",
+    "k_name_no": "Rauma",
+    "k_adm_center": "Åndalsnes",
+    "k_population": 7299,
+    "k_area": 1449.26,
+    "k_language": "Nøytral",
+    "k_url": "www.rauma.kommune.no"
+  },
+  {
+    "k_id": "1547",
+    "k_name": "Aukra",
+    "k_name_no": "Aukra",
+    "k_adm_center": "Falkhytta",
+    "k_population": 3678,
+    "k_area": 60.66,
+    "k_language": "Nynorsk",
+    "k_url": "www.aukra.kommune.no"
+  },
+  {
+    "k_id": "1554",
+    "k_name": "Averøy",
+    "k_name_no": "Averøy",
+    "k_adm_center": "Bruhagen",
+    "k_population": 5955,
+    "k_area": 175.7,
+    "k_language": "Nøytral",
+    "k_url": "www.averoy.kommune.no"
+  },
+  {
+    "k_id": "1557",
+    "k_name": "Gjemnes",
+    "k_name_no": "Gjemnes",
+    "k_adm_center": "Batnfjordsøra",
+    "k_population": 2700,
+    "k_area": 381.63,
+    "k_language": "Nøytral",
+    "k_url": "www.gjemnes.kommune.no"
+  },
+  {
+    "k_id": "1560",
+    "k_name": "Tingvoll",
+    "k_name_no": "Tingvoll",
+    "k_adm_center": "Tingvoll",
+    "k_population": 3041,
+    "k_area": 336.81,
+    "k_language": "Nøytral",
+    "k_url": "www.tingvoll.kommune.no"
+  },
+  {
+    "k_id": "1563",
+    "k_name": "Sunndal",
+    "k_name_no": "Sunndal",
+    "k_adm_center": "Sunndalsøra",
+    "k_population": 7227,
+    "k_area": 1713.37,
+    "k_language": "Nøytral",
+    "k_url": "www.sunndal.kommune.no"
+  },
+  {
+    "k_id": "1566",
+    "k_name": "Surnadal",
+    "k_name_no": "Surnadal",
+    "k_adm_center": "Skei",
+    "k_population": 5953,
+    "k_area": 1366.03,
+    "k_language": "Nynorsk",
+    "k_url": "www.surnadal.kommune.no"
+  },
+  {
+    "k_id": "1573",
+    "k_name": "Smøla",
+    "k_name_no": "Smøla",
+    "k_adm_center": "Hopen",
+    "k_population": 2159,
+    "k_area": 271.91,
+    "k_language": "Nøytral",
+    "k_url": "www.smola.kommune.no"
+  },
+  {
+    "k_id": "1576",
+    "k_name": "Aure",
+    "k_name_no": "Aure",
+    "k_adm_center": "Aure",
+    "k_population": 3408,
+    "k_area": 641.28,
+    "k_language": "Nøytral",
+    "k_url": "www.aure.kommune.no"
+  },
+  {
+    "k_id": "1577",
+    "k_name": "Volda",
+    "k_name_no": "Volda",
+    "k_adm_center": "Volda",
+    "k_population": 11093,
+    "k_area": 876.87,
+    "k_language": "Nynorsk",
+    "k_url": "www.volda.kommune.no"
+  },
+  {
+    "k_id": "1578",
+    "k_name": "Fjord",
+    "k_name_no": "Fjord",
+    "k_adm_center": "Sylte",
+    "k_population": 2492,
+    "k_area": 1190.58,
+    "k_language": "Nynorsk",
+    "k_url": "www.fjord.kommune.no"
+  },
+  {
+    "k_id": "1579",
+    "k_name": "Hustadvika",
+    "k_name_no": "Hustadvika",
+    "k_adm_center": "Elnesvågen",
+    "k_population": 13437,
+    "k_area": 521.93,
+    "k_language": "Nøytral",
+    "k_url": "www.hustadvika.kommune.no"
+  },
+  {
+    "k_id": "1580",
+    "k_name": "Haram",
+    "k_name_no": "Haram",
+    "k_adm_center": "Brattvåg",
+    "k_population": 9357,
+    "k_area": 261.19,
+    "k_language": "Nøytral",
+    "k_url": "www.haram.kommune.no"
+  },
+  {
+    "k_id": "1804",
+    "k_name": "Bodø",
+    "k_name_no": "Bodø",
+    "k_adm_center": "Bodø",
+    "k_population": 53712,
+    "k_area": 1395.3,
+    "k_language": "Nøytral",
+    "k_url": "www.bodo.kommune.no"
+  },
+  {
+    "k_id": "1806",
+    "k_name": "Narvik",
+    "k_name_no": "Narvik",
+    "k_adm_center": "Narvik",
+    "k_population": 21580,
+    "k_area": 3432.2,
+    "k_language": "Nøytral",
+    "k_url": "www.narvik.kommune.no"
+  },
+  {
+    "k_id": "1811",
+    "k_name": "Bindal",
+    "k_name_no": "Bindal",
+    "k_adm_center": "Terråk",
+    "k_population": 1399,
+    "k_area": 1266.07,
+    "k_language": "Bokmål",
+    "k_url": "www.bindal.kommune.no"
+  },
+  {
+    "k_id": "1812",
+    "k_name": "Sømna",
+    "k_name_no": "Sømna",
+    "k_adm_center": "Vik",
+    "k_population": 1976,
+    "k_area": 195.19,
+    "k_language": "Bokmål",
+    "k_url": "www.somna.kommune.no"
+  },
+  {
+    "k_id": "1813",
+    "k_name": "Brønnøy",
+    "k_name_no": "Brønnøy",
+    "k_adm_center": "Brønnøysund",
+    "k_population": 7826,
+    "k_area": 1046.03,
+    "k_language": "Nøytral",
+    "k_url": "www.bronnoy.kommune.no"
+  },
+  {
+    "k_id": "1815",
+    "k_name": "Vega",
+    "k_name_no": "Vega",
+    "k_adm_center": "Gladstad",
+    "k_population": 1208,
+    "k_area": 164.79,
+    "k_language": "Bokmål",
+    "k_url": "www.vega.kommune.no"
+  },
+  {
+    "k_id": "1816",
+    "k_name": "Vevelstad",
+    "k_name_no": "Vevelstad",
+    "k_adm_center": "Vevelstad",
+    "k_population": 480,
+    "k_area": 539.04,
+    "k_language": "Bokmål",
+    "k_url": "www.vevelstad.kommune.no"
+  },
+  {
+    "k_id": "1818",
+    "k_name": "Herøy",
+    "k_name_no": "Herøy",
+    "k_adm_center": "Silvalen",
+    "k_population": 1842,
+    "k_area": 64.46,
+    "k_language": "Bokmål",
+    "k_url": "www.heroy-no.kommune.no"
+  },
+  {
+    "k_id": "1820",
+    "k_name": "Alstahaug",
+    "k_name_no": "Alstahaug",
+    "k_adm_center": "Sandnessjøen",
+    "k_population": 7421,
+    "k_area": 188.16,
+    "k_language": "Nøytral",
+    "k_url": "www.alstahaug.kommune.no"
+  },
+  {
+    "k_id": "1822",
+    "k_name": "Leirfjord",
+    "k_name_no": "Leirfjord",
+    "k_adm_center": "Leland",
+    "k_population": 2352,
+    "k_area": 465.26,
+    "k_language": "Nøytral",
+    "k_url": "www.leirfjord.kommune.no"
+  },
+  {
+    "k_id": "1824",
+    "k_name": "Vefsn",
+    "k_name_no": "Vefsn",
+    "k_adm_center": "Mosjøen",
+    "k_population": 13469,
+    "k_area": 1929.4,
+    "k_language": "Nøytral",
+    "k_url": "www.vefsn.kommune.no"
+  },
+  {
+    "k_id": "1825",
+    "k_name": "Grane",
+    "k_name_no": "Grane",
+    "k_adm_center": "Trofors",
+    "k_population": 1447,
+    "k_area": 2004.11,
+    "k_language": "Nøytral",
+    "k_url": "www.grane.kommune.no"
+  },
+  {
+    "k_id": "1826",
+    "k_name": "Aarborte",
+    "k_name_no": "Hattfjelldal",
+    "k_adm_center": "Hattfjelldal",
+    "k_population": 1284,
+    "k_area": 2684.35,
+    "k_language": "Nøytral",
+    "k_url": "www.hattfjelldal.kommune.no"
+  },
+  {
+    "k_id": "1827",
+    "k_name": "Dønna",
+    "k_name_no": "Dønna",
+    "k_adm_center": "Solfjellsjøen",
+    "k_population": 1427,
+    "k_area": 192.57,
+    "k_language": "Bokmål",
+    "k_url": "www.donna.kommune.no"
+  },
+  {
+    "k_id": "1828",
+    "k_name": "Nesna",
+    "k_name_no": "Nesna",
+    "k_adm_center": "Nesna",
+    "k_population": 1808,
+    "k_area": 183.19,
+    "k_language": "Bokmål",
+    "k_url": "www.nesna.kommune.no"
+  },
+  {
+    "k_id": "1832",
+    "k_name": "Hemnes",
+    "k_name_no": "Hemnes",
+    "k_adm_center": "Korgen",
+    "k_population": 4485,
+    "k_area": 1589.5,
+    "k_language": "Nøytral",
+    "k_url": "www.hemnes.kommune.no"
+  },
+  {
+    "k_id": "1833",
+    "k_name": "Rana",
+    "k_name_no": "Rana",
+    "k_adm_center": "Mo i Rana",
+    "k_population": 25994,
+    "k_area": 4460.19,
+    "k_language": "Nøytral",
+    "k_url": "www.rana.kommune.no"
+  },
+  {
+    "k_id": "1834",
+    "k_name": "Lurøy",
+    "k_name_no": "Lurøy",
+    "k_adm_center": "Lurøy",
+    "k_population": 1886,
+    "k_area": 265.16,
+    "k_language": "Bokmål",
+    "k_url": "www.luroy.kommune.no"
+  },
+  {
+    "k_id": "1835",
+    "k_name": "Træna",
+    "k_name_no": "Træna",
+    "k_adm_center": "Husøya",
+    "k_population": 442,
+    "k_area": 16.54,
+    "k_language": "Bokmål",
+    "k_url": "www.trana.kommune.no"
+  },
+  {
+    "k_id": "1836",
+    "k_name": "Rødøy",
+    "k_name_no": "Rødøy",
+    "k_adm_center": "Vågaholmen",
+    "k_population": 1139,
+    "k_area": 711.29,
+    "k_language": "Nøytral",
+    "k_url": "www.rodoy.kommune.no"
+  },
+  {
+    "k_id": "1837",
+    "k_name": "Meløy",
+    "k_name_no": "Meløy",
+    "k_adm_center": "Ørnes",
+    "k_population": 6180,
+    "k_area": 873.83,
+    "k_language": "Bokmål",
+    "k_url": "www.meloy.kommune.no"
+  },
+  {
+    "k_id": "1838",
+    "k_name": "Gildeskål",
+    "k_name_no": "Gildeskål",
+    "k_adm_center": "Inndyr",
+    "k_population": 1958,
+    "k_area": 664.7,
+    "k_language": "Nøytral",
+    "k_url": "www.gildeskal.kommune.no"
+  },
+  {
+    "k_id": "1839",
+    "k_name": "Beiarn",
+    "k_name_no": "Beiarn",
+    "k_adm_center": "Moldjord",
+    "k_population": 1062,
+    "k_area": 1222.31,
+    "k_language": "Bokmål",
+    "k_url": "www.beiarn.kommune.no"
+  },
+  {
+    "k_id": "1840",
+    "k_name": "Saltdal",
+    "k_name_no": "Saltdal",
+    "k_adm_center": "Rognan",
+    "k_population": 4880,
+    "k_area": 2216.19,
+    "k_language": "Bokmål",
+    "k_url": "www.saltdal.kommune.no"
+  },
+  {
+    "k_id": "1841",
+    "k_name": "Fauske",
+    "k_name_no": "Fauske",
+    "k_adm_center": "Fauske",
+    "k_population": 9827,
+    "k_area": 1196.98,
+    "k_language": "Bokmål",
+    "k_url": "www.fauske.kommune.no"
+  },
+  {
+    "k_id": "1845",
+    "k_name": "Sørfold",
+    "k_name_no": "Sørfold",
+    "k_adm_center": "Straumen",
+    "k_population": 1858,
+    "k_area": 1637.41,
+    "k_language": "Bokmål",
+    "k_url": "www.sorfold.kommune.no"
+  },
+  {
+    "k_id": "1848",
+    "k_name": "Steigen",
+    "k_name_no": "Steigen",
+    "k_adm_center": "Leinesfjord",
+    "k_population": 2672,
+    "k_area": 1009.26,
+    "k_language": "Bokmål",
+    "k_url": "www.steigen.kommune.no"
+  },
+  {
+    "k_id": "1851",
+    "k_name": "Lødingen",
+    "k_name_no": "Lødingen",
+    "k_adm_center": "Lødingen",
+    "k_population": 2060,
+    "k_area": 527.41,
+    "k_language": "Bokmål",
+    "k_url": "www.lodingen.kommune.no"
+  },
+  {
+    "k_id": "1853",
+    "k_name": "Evenes",
+    "k_name_no": "Evenes",
+    "k_adm_center": "Bogen",
+    "k_population": 1330,
+    "k_area": 252.79,
+    "k_language": "Bokmål",
+    "k_url": "www.evenes.kommune.no"
+  },
+  {
+    "k_id": "1856",
+    "k_name": "Røst",
+    "k_name_no": "Røst",
+    "k_adm_center": "Røstlandet",
+    "k_population": 460,
+    "k_area": 10.11,
+    "k_language": "Bokmål",
+    "k_url": "www.rost.kommune.no"
+  },
+  {
+    "k_id": "1857",
+    "k_name": "Værøy",
+    "k_name_no": "Værøy",
+    "k_adm_center": "Sørland",
+    "k_population": 683,
+    "k_area": 18.64,
+    "k_language": "Bokmål",
+    "k_url": "www.varoy.kommune.no"
+  },
+  {
+    "k_id": "1859",
+    "k_name": "Flakstad",
+    "k_name_no": "Flakstad",
+    "k_adm_center": "Ramberg",
+    "k_population": 1229,
+    "k_area": 178.54,
+    "k_language": "Nøytral",
+    "k_url": "www.flakstad.kommune.no"
+  },
+  {
+    "k_id": "1860",
+    "k_name": "Vestvågøy",
+    "k_name_no": "Vestvågøy",
+    "k_adm_center": "Leknes",
+    "k_population": 11619,
+    "k_area": 424.29,
+    "k_language": "Nøytral",
+    "k_url": "www.vestvagoy.kommune.no"
+  },
+  {
+    "k_id": "1865",
+    "k_name": "Vågan",
+    "k_name_no": "Vågan",
+    "k_adm_center": "Svolvær",
+    "k_population": 9793,
+    "k_area": 479.18,
+    "k_language": "Nøytral",
+    "k_url": "www.vagan.kommune.no"
+  },
+  {
+    "k_id": "1866",
+    "k_name": "Hadsel",
+    "k_name_no": "Hadsel",
+    "k_adm_center": "Stokmarknes",
+    "k_population": 8236,
+    "k_area": 566.61,
+    "k_language": "Bokmål",
+    "k_url": "www.hadsel.kommune.no"
+  },
+  {
+    "k_id": "1867",
+    "k_name": "Bø",
+    "k_name_no": "Bø",
+    "k_adm_center": "Straume",
+    "k_population": 2634,
+    "k_area": 246.72,
+    "k_language": "Nøytral",
+    "k_url": "www.boe.kommune.no"
+  },
+  {
+    "k_id": "1868",
+    "k_name": "Øksnes",
+    "k_name_no": "Øksnes",
+    "k_adm_center": "Myre",
+    "k_population": 4569,
+    "k_area": 319.6,
+    "k_language": "Nøytral",
+    "k_url": "www.oksnes.kommune.no"
+  },
+  {
+    "k_id": "1870",
+    "k_name": "Sortland",
+    "k_name_no": "Sortland",
+    "k_adm_center": "Sortland",
+    "k_population": 10618,
+    "k_area": 721.94,
+    "k_language": "Nøytral",
+    "k_url": "www.sortland.kommune.no"
+  },
+  {
+    "k_id": "1871",
+    "k_name": "Andøy",
+    "k_name_no": "Andøy",
+    "k_adm_center": "Andenes",
+    "k_population": 4553,
+    "k_area": 656.18,
+    "k_language": "Nøytral",
+    "k_url": "www.andoy.kommune.no"
+  },
+  {
+    "k_id": "1874",
+    "k_name": "Moskenes",
+    "k_name_no": "Moskenes",
+    "k_adm_center": "Reine",
+    "k_population": 954,
+    "k_area": 118.78,
+    "k_language": "Nøytral",
+    "k_url": "www.moskenes.kommune.no"
+  },
+  {
+    "k_id": "1875",
+    "k_name": "Hábmer",
+    "k_name_no": "Hamarøy",
+    "k_adm_center": "Oppeid",
+    "k_population": 2729,
+    "k_area": 2020.44,
+    "k_language": "Nøytral",
+    "k_url": "www.hamaroy.kommune.no"
+  },
+  {
+    "k_id": "3101",
+    "k_name": "Halden",
+    "k_name_no": "Halden",
+    "k_adm_center": "Halden",
+    "k_population": 31935,
+    "k_area": 642.48,
+    "k_language": "Bokmål",
+    "k_url": "www.halden.kommune.no"
+  },
+  {
+    "k_id": "3103",
+    "k_name": "Moss",
+    "k_name_no": "Moss",
+    "k_adm_center": "Moss",
+    "k_population": 52051,
+    "k_area": 137.77,
+    "k_language": "Nøytral",
+    "k_url": "www.moss.kommune.no"
+  },
+  {
+    "k_id": "3105",
+    "k_name": "Sarpsborg",
+    "k_name_no": "Sarpsborg",
+    "k_adm_center": "Sarpsborg",
+    "k_population": 59771,
+    "k_area": 405.6,
+    "k_language": "Bokmål",
+    "k_url": "www.sarpsborg.kommune.no"
+  },
+  {
+    "k_id": "3107",
+    "k_name": "Fredrikstad",
+    "k_name_no": "Fredrikstad",
+    "k_adm_center": "Fredrikstad",
+    "k_population": 85230,
+    "k_area": 292.55,
+    "k_language": "Bokmål",
+    "k_url": "www.fredrikstad.kommune.no"
+  },
+  {
+    "k_id": "3110",
+    "k_name": "Hvaler",
+    "k_name_no": "Hvaler",
+    "k_adm_center": "Skjærhalden",
+    "k_population": 4787,
+    "k_area": 90.11,
+    "k_language": "Bokmål",
+    "k_url": "www.hvaler.kommune.no"
+  },
+  {
+    "k_id": "3112",
+    "k_name": "Råde",
+    "k_name_no": "Råde",
+    "k_adm_center": "Karlshus",
+    "k_population": 7883,
+    "k_area": 118.76,
+    "k_language": "Bokmål",
+    "k_url": "www.rade.kommune.no"
+  },
+  {
+    "k_id": "3114",
+    "k_name": "Våler",
+    "k_name_no": "Våler",
+    "k_adm_center": "Kirkebygden",
+    "k_population": 6145,
+    "k_area": 256.95,
+    "k_language": "Bokmål",
+    "k_url": "www.valer-of.kommune.no"
+  },
+  {
+    "k_id": "3116",
+    "k_name": "Skiptvet",
+    "k_name_no": "Skiptvet",
+    "k_adm_center": "Meieribyen",
+    "k_population": 3919,
+    "k_area": 101.2,
+    "k_language": "Bokmål",
+    "k_url": "www.skiptvet.kommune.no"
+  },
+  {
+    "k_id": "3118",
+    "k_name": "Indre Østfold",
+    "k_name_no": "Indre Østfold",
+    "k_adm_center": "Askim",
+    "k_population": 47006,
+    "k_area": 791.76,
+    "k_language": "Bokmål",
+    "k_url": "www.io.kommune.no"
+  },
+  {
+    "k_id": "3120",
+    "k_name": "Rakkestad",
+    "k_name_no": "Rakkestad",
+    "k_adm_center": "Rakkestad",
+    "k_population": 8420,
+    "k_area": 434.87,
+    "k_language": "Bokmål",
+    "k_url": "www.rakkestad.kommune.no"
+  },
+  {
+    "k_id": "3122",
+    "k_name": "Marker",
+    "k_name_no": "Marker",
+    "k_adm_center": "Ørje",
+    "k_population": 3658,
+    "k_area": 412.9,
+    "k_language": "Bokmål",
+    "k_url": "www.marker.kommune.no"
+  },
+  {
+    "k_id": "3124",
+    "k_name": "Aremark",
+    "k_name_no": "Aremark",
+    "k_adm_center": "Fossby",
+    "k_population": 1347,
+    "k_area": 319.26,
+    "k_language": "Bokmål",
+    "k_url": "www.aremark.kommune.no"
+  },
+  {
+    "k_id": "3201",
+    "k_name": "Bærum",
+    "k_name_no": "Bærum",
+    "k_adm_center": "Sandvika",
+    "k_population": 130921,
+    "k_area": 192.28,
+    "k_language": "Bokmål",
+    "k_url": "www.baerum.kommune.no"
+  },
+  {
+    "k_id": "3203",
+    "k_name": "Asker",
+    "k_name_no": "Asker",
+    "k_adm_center": "Asker",
+    "k_population": 98815,
+    "k_area": 376.61,
+    "k_language": "Nøytral",
+    "k_url": "www.asker.kommune.no"
+  },
+  {
+    "k_id": "3205",
+    "k_name": "Lillestrøm",
+    "k_name_no": "Lillestrøm",
+    "k_adm_center": "Lillestrøm",
+    "k_population": 94201,
+    "k_area": 456.6,
+    "k_language": "Nøytral",
+    "k_url": "www.lillestrom.kommune.no"
+  },
+  {
+    "k_id": "3207",
+    "k_name": "Nordre Follo",
+    "k_name_no": "Nordre Follo",
+    "k_adm_center": "Ski",
+    "k_population": 63560,
+    "k_area": 202.99,
+    "k_language": "Nøytral",
+    "k_url": "nordre-follo.kommune.no"
+  },
+  {
+    "k_id": "3209",
+    "k_name": "Ullensaker",
+    "k_name_no": "Ullensaker",
+    "k_adm_center": "Jessheim",
+    "k_population": 43814,
+    "k_area": 252.44,
+    "k_language": "Bokmål",
+    "k_url": "www.ullensaker.kommune.no"
+  },
+  {
+    "k_id": "3212",
+    "k_name": "Nesodden",
+    "k_name_no": "Nesodden",
+    "k_adm_center": "Nesoddtangen",
+    "k_population": 20521,
+    "k_area": 61.46,
+    "k_language": "Bokmål",
+    "k_url": "www.nesodden.kommune.no"
+  },
+  {
+    "k_id": "3214",
+    "k_name": "Frogn",
+    "k_name_no": "Frogn",
+    "k_adm_center": "Drøbak",
+    "k_population": 16244,
+    "k_area": 85.69,
+    "k_language": "Bokmål",
+    "k_url": "www.frogn.kommune.no"
+  },
+  {
+    "k_id": "3216",
+    "k_name": "Vestby",
+    "k_name_no": "Vestby",
+    "k_adm_center": "Vestby",
+    "k_population": 19493,
+    "k_area": 133.97,
+    "k_language": "Bokmål",
+    "k_url": "www.vestby.kommune.no"
+  },
+  {
+    "k_id": "3218",
+    "k_name": "Ås",
+    "k_name_no": "Ås",
+    "k_adm_center": "Ås",
+    "k_population": 22005,
+    "k_area": 102.68,
+    "k_language": "Nøytral",
+    "k_url": "www.as.kommune.no"
+  },
+  {
+    "k_id": "3220",
+    "k_name": "Enebakk",
+    "k_name_no": "Enebakk",
+    "k_adm_center": "Kirkebygda",
+    "k_population": 11482,
+    "k_area": 232.58,
+    "k_language": "Bokmål",
+    "k_url": "www.enebakk.kommune.no"
+  },
+  {
+    "k_id": "3222",
+    "k_name": "Lørenskog",
+    "k_name_no": "Lørenskog",
+    "k_adm_center": "Solheim",
+    "k_population": 48188,
+    "k_area": 70.54,
+    "k_language": "Nøytral",
+    "k_url": "www.lorenskog.kommune.no"
+  },
+  {
+    "k_id": "3224",
+    "k_name": "Rælingen",
+    "k_name_no": "Rælingen",
+    "k_adm_center": "Fjerdingby",
+    "k_population": 20099,
+    "k_area": 71.68,
+    "k_language": "Nøytral",
+    "k_url": "www.ralingen.kommune.no"
+  },
+  {
+    "k_id": "3226",
+    "k_name": "Aurskog-Høland",
+    "k_name_no": "Aurskog-Høland",
+    "k_adm_center": "Bjørkelangen",
+    "k_population": 18058,
+    "k_area": 1144.8,
+    "k_language": "Nøytral",
+    "k_url": "www.aurskog-holand.kommune.no"
+  },
+  {
+    "k_id": "3228",
+    "k_name": "Nes",
+    "k_name_no": "Nes",
+    "k_adm_center": "Årnes",
+    "k_population": 24645,
+    "k_area": 640.76,
+    "k_language": "Bokmål",
+    "k_url": "www.nes.kommune.no"
+  },
+  {
+    "k_id": "3230",
+    "k_name": "Gjerdrum",
+    "k_name_no": "Gjerdrum",
+    "k_adm_center": "Ask",
+    "k_population": 7398,
+    "k_area": 83.19,
+    "k_language": "Bokmål",
+    "k_url": "www.gjerdrum.kommune.no"
+  },
+  {
+    "k_id": "3232",
+    "k_name": "Nittedal",
+    "k_name_no": "Nittedal",
+    "k_adm_center": "Rotnes",
+    "k_population": 25882,
+    "k_area": 186.22,
+    "k_language": "Bokmål",
+    "k_url": "www.nittedal.kommune.no"
+  },
+  {
+    "k_id": "3234",
+    "k_name": "Lunner",
+    "k_name_no": "Lunner",
+    "k_adm_center": "Roa",
+    "k_population": 9357,
+    "k_area": 291.83,
+    "k_language": "Bokmål",
+    "k_url": "www.lunner.kommune.no"
+  },
+  {
+    "k_id": "3236",
+    "k_name": "Jevnaker",
+    "k_name_no": "Jevnaker",
+    "k_adm_center": "Jevnaker",
+    "k_population": 7037,
+    "k_area": 225.71,
+    "k_language": "Bokmål",
+    "k_url": "www.jevnaker.kommune.no"
+  },
+  {
+    "k_id": "3238",
+    "k_name": "Nannestad",
+    "k_name_no": "Nannestad",
+    "k_adm_center": "Teigebyen",
+    "k_population": 16126,
+    "k_area": 340.98,
+    "k_language": "Bokmål",
+    "k_url": "www.nannestad.kommune.no"
+  },
+  {
+    "k_id": "3240",
+    "k_name": "Eidsvoll",
+    "k_name_no": "Eidsvoll",
+    "k_adm_center": "Eidsvoll",
+    "k_population": 27916,
+    "k_area": 456.49,
+    "k_language": "Bokmål",
+    "k_url": "www.eidsvoll.kommune.no"
+  },
+  {
+    "k_id": "3242",
+    "k_name": "Hurdal",
+    "k_name_no": "Hurdal",
+    "k_adm_center": "Hurdal",
+    "k_population": 3041,
+    "k_area": 284.95,
+    "k_language": "Bokmål",
+    "k_url": "www.hurdal.kommune.no"
+  },
+  {
+    "k_id": "3301",
+    "k_name": "Drammen",
+    "k_name_no": "Drammen",
+    "k_adm_center": "Drammen",
+    "k_population": 104487,
+    "k_area": 317.61,
+    "k_language": "Nøytral",
+    "k_url": "www.drammen.kommune.no"
+  },
+  {
+    "k_id": "3303",
+    "k_name": "Kongsberg",
+    "k_name_no": "Kongsberg",
+    "k_adm_center": "Kongsberg",
+    "k_population": 28848,
+    "k_area": 793.09,
+    "k_language": "Bokmål",
+    "k_url": "www.kongsberg.kommune.no"
+  },
+  {
+    "k_id": "3305",
+    "k_name": "Ringerike",
+    "k_name_no": "Ringerike",
+    "k_adm_center": "Hønefoss",
+    "k_population": 31581,
+    "k_area": 1555.1,
+    "k_language": "Bokmål",
+    "k_url": "www.ringerike.kommune.no"
+  },
+  {
+    "k_id": "3310",
+    "k_name": "Hole",
+    "k_name_no": "Hole",
+    "k_adm_center": "Vik",
+    "k_population": 6989,
+    "k_area": 192.68,
+    "k_language": "Bokmål",
+    "k_url": "www.hole.kommune.no"
+  },
+  {
+    "k_id": "3312",
+    "k_name": "Lier",
+    "k_name_no": "Lier",
+    "k_adm_center": "Lierbyen",
+    "k_population": 28470,
+    "k_area": 301.83,
+    "k_language": "Bokmål",
+    "k_url": "www.lier.kommune.no"
+  },
+  {
+    "k_id": "3314",
+    "k_name": "Øvre Eiker",
+    "k_name_no": "Øvre Eiker",
+    "k_adm_center": "Hokksund",
+    "k_population": 20779,
+    "k_area": 456.76,
+    "k_language": "Bokmål",
+    "k_url": "www.ovre-eiker.kommune.no"
+  },
+  {
+    "k_id": "3316",
+    "k_name": "Modum",
+    "k_name_no": "Modum",
+    "k_adm_center": "Vikersund",
+    "k_population": 14665,
+    "k_area": 517.24,
+    "k_language": "Bokmål",
+    "k_url": "www.modum.kommune.no"
+  },
+  {
+    "k_id": "3318",
+    "k_name": "Krødsherad",
+    "k_name_no": "Krødsherad",
+    "k_adm_center": "Noresund",
+    "k_population": 2241,
+    "k_area": 374.48,
+    "k_language": "Nøytral",
+    "k_url": "www.krodsherad.kommune.no"
+  },
+  {
+    "k_id": "3320",
+    "k_name": "Flå",
+    "k_name_no": "Flå",
+    "k_adm_center": "Flå",
+    "k_population": 1115,
+    "k_area": 704.27,
+    "k_language": "Bokmål",
+    "k_url": "www.flaa.kommune.no"
+  },
+  {
+    "k_id": "3322",
+    "k_name": "Nesbyen",
+    "k_name_no": "Nesbyen",
+    "k_adm_center": "Nesbyen",
+    "k_population": 3301,
+    "k_area": 809.63,
+    "k_language": "Bokmål",
+    "k_url": "www.nesbyen.kommune.no"
+  },
+  {
+    "k_id": "3324",
+    "k_name": "Gol",
+    "k_name_no": "Gol",
+    "k_adm_center": "Gol",
+    "k_population": 4986,
+    "k_area": 532.5,
+    "k_language": "Nynorsk",
+    "k_url": "www.gol.kommune.no"
+  },
+  {
+    "k_id": "3326",
+    "k_name": "Hemsedal",
+    "k_name_no": "Hemsedal",
+    "k_adm_center": "Trøim",
+    "k_population": 2666,
+    "k_area": 753.51,
+    "k_language": "Nynorsk",
+    "k_url": "www.hemsedal.kommune.no"
+  },
+  {
+    "k_id": "3328",
+    "k_name": "Ål",
+    "k_name_no": "Ål",
+    "k_adm_center": "Ål",
+    "k_population": 5007,
+    "k_area": 1174.98,
+    "k_language": "Nynorsk",
+    "k_url": "www.aal.kommune.no"
+  },
+  {
+    "k_id": "3330",
+    "k_name": "Hol",
+    "k_name_no": "Hol",
+    "k_adm_center": "Hol",
+    "k_population": 4496,
+    "k_area": 1854.54,
+    "k_language": "Nøytral",
+    "k_url": "www.hol.kommune.no"
+  },
+  {
+    "k_id": "3332",
+    "k_name": "Sigdal",
+    "k_name_no": "Sigdal",
+    "k_adm_center": "Prestfoss",
+    "k_population": 3526,
+    "k_area": 842.48,
+    "k_language": "Bokmål",
+    "k_url": "www.sigdal.kommune.no"
+  },
+  {
+    "k_id": "3334",
+    "k_name": "Flesberg",
+    "k_name_no": "Flesberg",
+    "k_adm_center": "Lampeland",
+    "k_population": 2781,
+    "k_area": 561.91,
+    "k_language": "Bokmål",
+    "k_url": "www.flesberg.kommune.no"
+  },
+  {
+    "k_id": "3336",
+    "k_name": "Rollag",
+    "k_name_no": "Rollag",
+    "k_adm_center": "Rollag",
+    "k_population": 1395,
+    "k_area": 449.28,
+    "k_language": "Nøytral",
+    "k_url": "www.rollag.kommune.no"
+  },
+  {
+    "k_id": "3338",
+    "k_name": "Nore og Uvdal",
+    "k_name_no": "Nore og Uvdal",
+    "k_adm_center": "Rødberg",
+    "k_population": 2486,
+    "k_area": 2502.16,
+    "k_language": "Nøytral",
+    "k_url": "www.nore-og-uvdal.kommune.no"
+  },
+  {
+    "k_id": "3401",
+    "k_name": "Kongsvinger",
+    "k_name_no": "Kongsvinger",
+    "k_adm_center": "Kongsvinger",
+    "k_population": 18058,
+    "k_area": 1036.45,
+    "k_language": "Bokmål",
+    "k_url": "www.kongsvinger.kommune.no"
+  },
+  {
+    "k_id": "3403",
+    "k_name": "Hamar",
+    "k_name_no": "Hamar",
+    "k_adm_center": "Hamar",
+    "k_population": 32879,
+    "k_area": 350.93,
+    "k_language": "Nøytral",
+    "k_url": "www.hamar.kommune.no"
+  },
+  {
+    "k_id": "3405",
+    "k_name": "Lillehammer",
+    "k_name_no": "Lillehammer",
+    "k_adm_center": "Lillehammer",
+    "k_population": 28768,
+    "k_area": 477.94,
+    "k_language": "Bokmål",
+    "k_url": "www.lillehammer.kommune.no"
+  },
+  {
+    "k_id": "3407",
+    "k_name": "Gjøvik",
+    "k_name_no": "Gjøvik",
+    "k_adm_center": "Gjøvik",
+    "k_population": 30903,
+    "k_area": 671.1,
+    "k_language": "Bokmål",
+    "k_url": "www.gjovik.kommune.no"
+  },
+  {
+    "k_id": "3411",
+    "k_name": "Ringsaker",
+    "k_name_no": "Ringsaker",
+    "k_adm_center": "Brumunddal",
+    "k_population": 35612,
+    "k_area": 1280.09,
+    "k_language": "Bokmål",
+    "k_url": "www.ringsaker.kommune.no"
+  },
+  {
+    "k_id": "3412",
+    "k_name": "Løten",
+    "k_name_no": "Løten",
+    "k_adm_center": "Løten",
+    "k_population": 7929,
+    "k_area": 369.44,
+    "k_language": "Bokmål",
+    "k_url": "www.loten.kommune.no"
+  },
+  {
+    "k_id": "3413",
+    "k_name": "Stange",
+    "k_name_no": "Stange",
+    "k_adm_center": "Stange",
+    "k_population": 21605,
+    "k_area": 724.27,
+    "k_language": "Bokmål",
+    "k_url": "www.stange.kommune.no"
+  },
+  {
+    "k_id": "3414",
+    "k_name": "Nord-Odal",
+    "k_name_no": "Nord-Odal",
+    "k_adm_center": "Sand",
+    "k_population": 4992,
+    "k_area": 508.14,
+    "k_language": "Bokmål",
+    "k_url": "www.nord-odal.kommune.no"
+  },
+  {
+    "k_id": "3415",
+    "k_name": "Sør-Odal",
+    "k_name_no": "Sør-Odal",
+    "k_adm_center": "Skarnes",
+    "k_population": 8112,
+    "k_area": 516.74,
+    "k_language": "Bokmål",
+    "k_url": "www.sor-odal.kommune.no"
+  },
+  {
+    "k_id": "3416",
+    "k_name": "Eidskog",
+    "k_name_no": "Eidskog",
+    "k_adm_center": "Skotterud",
+    "k_population": 6040,
+    "k_area": 640.39,
+    "k_language": "Bokmål",
+    "k_url": "www.eidskog.kommune.no"
+  },
+  {
+    "k_id": "3417",
+    "k_name": "Grue",
+    "k_name_no": "Grue",
+    "k_adm_center": "Kirkenær",
+    "k_population": 4532,
+    "k_area": 837.17,
+    "k_language": "Bokmål",
+    "k_url": "www.grue.kommune.no"
+  },
+  {
+    "k_id": "3418",
+    "k_name": "Åsnes",
+    "k_name_no": "Åsnes",
+    "k_adm_center": "Flisa",
+    "k_population": 7339,
+    "k_area": 1040.93,
+    "k_language": "Bokmål",
+    "k_url": "www.asnes.kommune.no"
+  },
+  {
+    "k_id": "3419",
+    "k_name": "Våler",
+    "k_name_no": "Våler",
+    "k_adm_center": "Våler",
+    "k_population": 3615,
+    "k_area": 705.28,
+    "k_language": "Bokmål",
+    "k_url": "www.vaaler-he.kommune.no"
+  },
+  {
+    "k_id": "3420",
+    "k_name": "Elverum",
+    "k_name_no": "Elverum",
+    "k_adm_center": "Elverum",
+    "k_population": 21761,
+    "k_area": 1229.27,
+    "k_language": "Nøytral",
+    "k_url": "www.elverum.kommune.no"
+  },
+  {
+    "k_id": "3421",
+    "k_name": "Trysil",
+    "k_name_no": "Trysil",
+    "k_adm_center": "Innbygda",
+    "k_population": 6566,
+    "k_area": 3014.4,
+    "k_language": "Bokmål",
+    "k_url": "www.trysil.kommune.no"
+  },
+  {
+    "k_id": "3422",
+    "k_name": "Åmot",
+    "k_name_no": "Åmot",
+    "k_adm_center": "Rena",
+    "k_population": 4289,
+    "k_area": 1339.91,
+    "k_language": "Bokmål",
+    "k_url": "www.amot.kommune.no"
+  },
+  {
+    "k_id": "3423",
+    "k_name": "Stor-Elvdal",
+    "k_name_no": "Stor-Elvdal",
+    "k_adm_center": "Koppang",
+    "k_population": 2276,
+    "k_area": 2165.77,
+    "k_language": "Bokmål",
+    "k_url": "www.stor-elvdal.kommune.no"
+  },
+  {
+    "k_id": "3424",
+    "k_name": "Rendalen",
+    "k_name_no": "Rendalen",
+    "k_adm_center": "Bergset",
+    "k_population": 1837,
+    "k_area": 3179.51,
+    "k_language": "Bokmål",
+    "k_url": "www.rendalen.kommune.no"
+  },
+  {
+    "k_id": "3425",
+    "k_name": "Engerdal",
+    "k_name_no": "Engerdal",
+    "k_adm_center": "Engerdal",
+    "k_population": 1361,
+    "k_area": 2196.54,
+    "k_language": "Bokmål",
+    "k_url": "www.engerdal.kommune.no"
+  },
+  {
+    "k_id": "3426",
+    "k_name": "Tolga",
+    "k_name_no": "Tolga",
+    "k_adm_center": "Tolga",
+    "k_population": 1604,
+    "k_area": 1122.56,
+    "k_language": "Nøytral",
+    "k_url": "www.tolga.kommune.no"
+  },
+  {
+    "k_id": "3427",
+    "k_name": "Tynset",
+    "k_name_no": "Tynset",
+    "k_adm_center": "Tynset",
+    "k_population": 5692,
+    "k_area": 1880.26,
+    "k_language": "Nøytral",
+    "k_url": "www.tynset.kommune.no"
+  },
+  {
+    "k_id": "3428",
+    "k_name": "Alvdal",
+    "k_name_no": "Alvdal",
+    "k_adm_center": "Alvdal",
+    "k_population": 2526,
+    "k_area": 942.15,
+    "k_language": "Nøytral",
+    "k_url": "www.alvdal.kommune.no"
+  },
+  {
+    "k_id": "3429",
+    "k_name": "Folldal",
+    "k_name_no": "Folldal",
+    "k_adm_center": "Folldal",
+    "k_population": 1532,
+    "k_area": 1277.07,
+    "k_language": "Nøytral",
+    "k_url": "www.folldal.kommune.no"
+  },
+  {
+    "k_id": "3430",
+    "k_name": "Os",
+    "k_name_no": "Os",
+    "k_adm_center": "Os",
+    "k_population": 1891,
+    "k_area": 1040.4,
+    "k_language": "Nøytral",
+    "k_url": "www.os.kommune.no"
+  },
+  {
+    "k_id": "3431",
+    "k_name": "Dovre",
+    "k_name_no": "Dovre",
+    "k_adm_center": "Dovre",
+    "k_population": 2503,
+    "k_area": 1364.38,
+    "k_language": "Nøytral",
+    "k_url": "www.dovre.kommune.no"
+  },
+  {
+    "k_id": "3432",
+    "k_name": "Lesja",
+    "k_name_no": "Lesja",
+    "k_adm_center": "Lesja",
+    "k_population": 1983,
+    "k_area": 2259.49,
+    "k_language": "Nøytral",
+    "k_url": "www.lesja.kommune.no"
+  },
+  {
+    "k_id": "3433",
+    "k_name": "Skjåk",
+    "k_name_no": "Skjåk",
+    "k_adm_center": "Bismo",
+    "k_population": 2141,
+    "k_area": 2075.51,
+    "k_language": "Nynorsk",
+    "k_url": "www.skjaak.kommune.no"
+  },
+  {
+    "k_id": "3434",
+    "k_name": "Lom",
+    "k_name_no": "Lom",
+    "k_adm_center": "Fossbergom",
+    "k_population": 2212,
+    "k_area": 1968.55,
+    "k_language": "Nynorsk",
+    "k_url": "www.lom.kommune.no"
+  },
+  {
+    "k_id": "3435",
+    "k_name": "Vågå",
+    "k_name_no": "Vågå",
+    "k_adm_center": "Vågåmo",
+    "k_population": 3531,
+    "k_area": 1329.99,
+    "k_language": "Nynorsk",
+    "k_url": "www.vaga.kommune.no"
+  },
+  {
+    "k_id": "3436",
+    "k_name": "Nord-Fron",
+    "k_name_no": "Nord-Fron",
+    "k_adm_center": "Vinstra",
+    "k_population": 5586,
+    "k_area": 1141.32,
+    "k_language": "Nynorsk",
+    "k_url": "www.nord-fron.kommune.no"
+  },
+  {
+    "k_id": "3437",
+    "k_name": "Sel",
+    "k_name_no": "Sel",
+    "k_adm_center": "Otta",
+    "k_population": 5756,
+    "k_area": 905.04,
+    "k_language": "Nøytral",
+    "k_url": "www.sel.kommune.no"
+  },
+  {
+    "k_id": "3438",
+    "k_name": "Sør-Fron",
+    "k_name_no": "Sør-Fron",
+    "k_adm_center": "Hundorp",
+    "k_population": 3119,
+    "k_area": 742.2,
+    "k_language": "Nøytral",
+    "k_url": "www.sor-fron.kommune.no"
+  },
+  {
+    "k_id": "3439",
+    "k_name": "Ringebu",
+    "k_name_no": "Ringebu",
+    "k_adm_center": "Vålebrua",
+    "k_population": 4413,
+    "k_area": 1247.57,
+    "k_language": "Nøytral",
+    "k_url": "www.ringebu.kommune.no"
+  },
+  {
+    "k_id": "3440",
+    "k_name": "Øyer",
+    "k_name_no": "Øyer",
+    "k_adm_center": "Tingberg",
+    "k_population": 5124,
+    "k_area": 640.13,
+    "k_language": "Nøytral",
+    "k_url": "www.oyer.kommune.no"
+  },
+  {
+    "k_id": "3441",
+    "k_name": "Gausdal",
+    "k_name_no": "Gausdal",
+    "k_adm_center": "Segalstad bru",
+    "k_population": 6177,
+    "k_area": 1191.15,
+    "k_language": "Nøytral",
+    "k_url": "www.gausdal.kommune.no"
+  },
+  {
+    "k_id": "3442",
+    "k_name": "Østre Toten",
+    "k_name_no": "Østre Toten",
+    "k_adm_center": "Lena",
+    "k_population": 14840,
+    "k_area": 562.57,
+    "k_language": "Bokmål",
+    "k_url": "www.ostre-toten.kommune.no"
+  },
+  {
+    "k_id": "3443",
+    "k_name": "Vestre Toten",
+    "k_name_no": "Vestre Toten",
+    "k_adm_center": "Raufoss",
+    "k_population": 13691,
+    "k_area": 250.65,
+    "k_language": "Bokmål",
+    "k_url": "www.vestre-toten.kommune.no"
+  },
+  {
+    "k_id": "3446",
+    "k_name": "Gran",
+    "k_name_no": "Gran",
+    "k_adm_center": "Jaren",
+    "k_population": 13593,
+    "k_area": 756.65,
+    "k_language": "Bokmål",
+    "k_url": "www.gran.kommune.no"
+  },
+  {
+    "k_id": "3447",
+    "k_name": "Søndre Land",
+    "k_name_no": "Søndre Land",
+    "k_adm_center": "Hov",
+    "k_population": 5587,
+    "k_area": 728.35,
+    "k_language": "Bokmål",
+    "k_url": "www.sondre-land.kommune.no"
+  },
+  {
+    "k_id": "3448",
+    "k_name": "Nordre Land",
+    "k_name_no": "Nordre Land",
+    "k_adm_center": "Dokka",
+    "k_population": 6510,
+    "k_area": 955.32,
+    "k_language": "Bokmål",
+    "k_url": "www.nordre-land.kommune.no"
+  },
+  {
+    "k_id": "3449",
+    "k_name": "Sør-Aurdal",
+    "k_name_no": "Sør-Aurdal",
+    "k_adm_center": "Bagn",
+    "k_population": 2836,
+    "k_area": 1109.05,
+    "k_language": "Nøytral",
+    "k_url": "www.sor-aurdal.kommune.no"
+  },
+  {
+    "k_id": "3450",
+    "k_name": "Etnedal",
+    "k_name_no": "Etnedal",
+    "k_adm_center": "Bruflat",
+    "k_population": 1366,
+    "k_area": 459.14,
+    "k_language": "Nøytral",
+    "k_url": "www.etnedal.kommune.no"
+  },
+  {
+    "k_id": "3451",
+    "k_name": "Nord-Aurdal",
+    "k_name_no": "Nord-Aurdal",
+    "k_adm_center": "Fagernes",
+    "k_population": 6562,
+    "k_area": 906.47,
+    "k_language": "Nøytral",
+    "k_url": "www.nord-aurdal.kommune.no"
+  },
+  {
+    "k_id": "3452",
+    "k_name": "Vestre Slidre",
+    "k_name_no": "Vestre Slidre",
+    "k_adm_center": "Slidre",
+    "k_population": 2112,
+    "k_area": 457.11,
+    "k_language": "Nynorsk",
+    "k_url": "www.vestre-slidre.kommune.no"
+  },
+  {
+    "k_id": "3453",
+    "k_name": "Øystre Slidre",
+    "k_name_no": "Øystre Slidre",
+    "k_adm_center": "Heggenes",
+    "k_population": 3298,
+    "k_area": 969.24,
+    "k_language": "Nynorsk",
+    "k_url": "www.oystre-slidre.kommune.no"
+  },
+  {
+    "k_id": "3454",
+    "k_name": "Vang",
+    "k_name_no": "Vang",
+    "k_adm_center": "Vang",
+    "k_population": 1645,
+    "k_area": 1505.49,
+    "k_language": "Nynorsk",
+    "k_url": "www.vang.kommune.no"
+  },
+  {
+    "k_id": "3901",
+    "k_name": "Horten",
+    "k_name_no": "Horten",
+    "k_adm_center": "Horten",
+    "k_population": 27939,
+    "k_area": 70.95,
+    "k_language": "Bokmål",
+    "k_url": "www.horten.kommune.no"
+  },
+  {
+    "k_id": "3903",
+    "k_name": "Holmestrand",
+    "k_name_no": "Holmestrand",
+    "k_adm_center": "Holmestrand",
+    "k_population": 26872,
+    "k_area": 432.35,
+    "k_language": "Bokmål",
+    "k_url": "www.holmestrand.kommune.no"
+  },
+  {
+    "k_id": "3905",
+    "k_name": "Tønsberg",
+    "k_name_no": "Tønsberg",
+    "k_adm_center": "Tønsberg",
+    "k_population": 59174,
+    "k_area": 329.26,
+    "k_language": "Nøytral",
+    "k_url": "www.tonsberg.kommune.no"
+  },
+  {
+    "k_id": "3907",
+    "k_name": "Sandefjord",
+    "k_name_no": "Sandefjord",
+    "k_adm_center": "Sandefjord",
+    "k_population": 66231,
+    "k_area": 422.26,
+    "k_language": "Bokmål",
+    "k_url": "www.sandefjord.kommune.no"
+  },
+  {
+    "k_id": "3909",
+    "k_name": "Larvik",
+    "k_name_no": "Larvik",
+    "k_adm_center": "Larvik",
+    "k_population": 48715,
+    "k_area": 812.88,
+    "k_language": "Nøytral",
+    "k_url": "www.larvik.kommune.no"
+  },
+  {
+    "k_id": "3911",
+    "k_name": "Færder",
+    "k_name_no": "Færder",
+    "k_adm_center": "Borgheim",
+    "k_population": 27501,
+    "k_area": 99.95,
+    "k_language": "Nøytral",
+    "k_url": "www.farder.kommune.no"
+  },
+  {
+    "k_id": "4001",
+    "k_name": "Porsgrunn",
+    "k_name_no": "Porsgrunn",
+    "k_adm_center": "Porsgrunn",
+    "k_population": 37193,
+    "k_area": 164.44,
+    "k_language": "Bokmål",
+    "k_url": "www.porsgrunn.kommune.no"
+  },
+  {
+    "k_id": "4003",
+    "k_name": "Skien",
+    "k_name_no": "Skien",
+    "k_adm_center": "Skien",
+    "k_population": 56619,
+    "k_area": 779.2,
+    "k_language": "Nøytral",
+    "k_url": "www.skien.kommune.no"
+  },
+  {
+    "k_id": "4005",
+    "k_name": "Notodden",
+    "k_name_no": "Notodden",
+    "k_adm_center": "Notodden",
+    "k_population": 13266,
+    "k_area": 983.89,
+    "k_language": "Nøytral",
+    "k_url": "www.notodden.kommune.no"
+  },
+  {
+    "k_id": "4010",
+    "k_name": "Siljan",
+    "k_name_no": "Siljan",
+    "k_adm_center": "Siljan",
+    "k_population": 2382,
+    "k_area": 213.95,
+    "k_language": "Bokmål",
+    "k_url": "www.siljan.kommune.no"
+  },
+  {
+    "k_id": "4012",
+    "k_name": "Bamble",
+    "k_name_no": "Bamble",
+    "k_adm_center": "Langesund",
+    "k_population": 14269,
+    "k_area": 304.38,
+    "k_language": "Nøytral",
+    "k_url": "www.bamble.kommune.no"
+  },
+  {
+    "k_id": "4014",
+    "k_name": "Kragerø",
+    "k_name_no": "Kragerø",
+    "k_adm_center": "Kragerø",
+    "k_population": 10445,
+    "k_area": 305.47,
+    "k_language": "Nøytral",
+    "k_url": "www.kragero.kommune.no"
+  },
+  {
+    "k_id": "4016",
+    "k_name": "Drangedal",
+    "k_name_no": "Drangedal",
+    "k_adm_center": "Prestestranda",
+    "k_population": 4086,
+    "k_area": 1062.77,
+    "k_language": "Nøytral",
+    "k_url": "www.drangedal.kommune.no"
+  },
+  {
+    "k_id": "4018",
+    "k_name": "Nome",
+    "k_name_no": "Nome",
+    "k_adm_center": "Ulefoss",
+    "k_population": 6539,
+    "k_area": 429.67,
+    "k_language": "Nøytral",
+    "k_url": "www.nome.kommune.no"
+  },
+  {
+    "k_id": "4020",
+    "k_name": "Midt-Telemark",
+    "k_name_no": "Midt-Telemark",
+    "k_adm_center": "Bø",
+    "k_population": 10904,
+    "k_area": 518.51,
+    "k_language": "Nynorsk",
+    "k_url": "www.midt-telemark.kommune.no"
+  },
+  {
+    "k_id": "4022",
+    "k_name": "Seljord",
+    "k_name_no": "Seljord",
+    "k_adm_center": "Seljord",
+    "k_population": 2979,
+    "k_area": 715.08,
+    "k_language": "Nynorsk",
+    "k_url": "www.seljord.kommune.no"
+  },
+  {
+    "k_id": "4024",
+    "k_name": "Hjartdal",
+    "k_name_no": "Hjartdal",
+    "k_adm_center": "Sauland",
+    "k_population": 1630,
+    "k_area": 791.61,
+    "k_language": "Nynorsk",
+    "k_url": "www.hjartdal.kommune.no"
+  },
+  {
+    "k_id": "4026",
+    "k_name": "Tinn",
+    "k_name_no": "Tinn",
+    "k_adm_center": "Rjukan",
+    "k_population": 5533,
+    "k_area": 2045.13,
+    "k_language": "Nøytral",
+    "k_url": "www.tinn.kommune.no"
+  },
+  {
+    "k_id": "4028",
+    "k_name": "Kviteseid",
+    "k_name_no": "Kviteseid",
+    "k_adm_center": "Kviteseid",
+    "k_population": 2458,
+    "k_area": 708.47,
+    "k_language": "Nynorsk",
+    "k_url": "www.kviteseid.kommune.no"
+  },
+  {
+    "k_id": "4030",
+    "k_name": "Nissedal",
+    "k_name_no": "Nissedal",
+    "k_adm_center": "Treungen",
+    "k_population": 1471,
+    "k_area": 905.17,
+    "k_language": "Nynorsk",
+    "k_url": "www.nissedal.kommune.no"
+  },
+  {
+    "k_id": "4032",
+    "k_name": "Fyresdal",
+    "k_name_no": "Fyresdal",
+    "k_adm_center": "Folkestadbyen",
+    "k_population": 1256,
+    "k_area": 1280.02,
+    "k_language": "Nynorsk",
+    "k_url": "www.fyresdal.kommune.no"
+  },
+  {
+    "k_id": "4034",
+    "k_name": "Tokke",
+    "k_name_no": "Tokke",
+    "k_adm_center": "Dalen",
+    "k_population": 2212,
+    "k_area": 984.58,
+    "k_language": "Nynorsk",
+    "k_url": "www.tokke.kommune.no"
+  },
+  {
+    "k_id": "4036",
+    "k_name": "Vinje",
+    "k_name_no": "Vinje",
+    "k_adm_center": "Åmot",
+    "k_population": 3851,
+    "k_area": 3105.84,
+    "k_language": "Nynorsk",
+    "k_url": "www.vinje.kommune.no"
+  },
+  {
+    "k_id": "4201",
+    "k_name": "Risør",
+    "k_name_no": "Risør",
+    "k_adm_center": "Risør",
+    "k_population": 6825,
+    "k_area": 192.97,
+    "k_language": "Nøytral",
+    "k_url": "www.risor.kommune.no"
+  },
+  {
+    "k_id": "4202",
+    "k_name": "Grimstad",
+    "k_name_no": "Grimstad",
+    "k_adm_center": "Grimstad",
+    "k_population": 24969,
+    "k_area": 303.58,
+    "k_language": "Bokmål",
+    "k_url": "www.grimstad.kommune.no"
+  },
+  {
+    "k_id": "4203",
+    "k_name": "Arendal",
+    "k_name_no": "Arendal",
+    "k_adm_center": "Arendal",
+    "k_population": 46355,
+    "k_area": 270.2,
+    "k_language": "Bokmål",
+    "k_url": "www.arendal.kommune.no"
+  },
+  {
+    "k_id": "4204",
+    "k_name": "Kristiansand",
+    "k_name_no": "Kristiansand",
+    "k_adm_center": "Kristiansand",
+    "k_population": 116986,
+    "k_area": 644.62,
+    "k_language": "Nøytral",
+    "k_url": "www.kristiansand.kommune.no"
+  },
+  {
+    "k_id": "4205",
+    "k_name": "Lindesnes",
+    "k_name_no": "Lindesnes",
+    "k_adm_center": "Mandal",
+    "k_population": 23690,
+    "k_area": 933.56,
+    "k_language": "Bokmål",
+    "k_url": "www.lindesnes.kommune.no"
+  },
+  {
+    "k_id": "4206",
+    "k_name": "Farsund",
+    "k_name_no": "Farsund",
+    "k_adm_center": "Farsund",
+    "k_population": 9876,
+    "k_area": 262.56,
+    "k_language": "Bokmål",
+    "k_url": "www.farsund.kommune.no"
+  },
+  {
+    "k_id": "4207",
+    "k_name": "Flekkefjord",
+    "k_name_no": "Flekkefjord",
+    "k_adm_center": "Flekkefjord",
+    "k_population": 9279,
+    "k_area": 544.09,
+    "k_language": "Bokmål",
+    "k_url": "www.flekkefjord.kommune.no"
+  },
+  {
+    "k_id": "4211",
+    "k_name": "Gjerstad",
+    "k_name_no": "Gjerstad",
+    "k_adm_center": "Gjerstad",
+    "k_population": 2444,
+    "k_area": 322.13,
+    "k_language": "Nøytral",
+    "k_url": "www.gjerstad.kommune.no"
+  },
+  {
+    "k_id": "4212",
+    "k_name": "Vegårshei",
+    "k_name_no": "Vegårshei",
+    "k_adm_center": "Myra",
+    "k_population": 2268,
+    "k_area": 355.65,
+    "k_language": "Nøytral",
+    "k_url": "www.vegarshei.kommune.no"
+  },
+  {
+    "k_id": "4213",
+    "k_name": "Tvedestrand",
+    "k_name_no": "Tvedestrand",
+    "k_adm_center": "Tvedestrand",
+    "k_population": 6323,
+    "k_area": 215.04,
+    "k_language": "Bokmål",
+    "k_url": "www.tvedestrand.kommune.no"
+  },
+  {
+    "k_id": "4214",
+    "k_name": "Froland",
+    "k_name_no": "Froland",
+    "k_adm_center": "Blakstad",
+    "k_population": 6236,
+    "k_area": 644.54,
+    "k_language": "Nøytral",
+    "k_url": "www.froland.kommune.no"
+  },
+  {
+    "k_id": "4215",
+    "k_name": "Lillesand",
+    "k_name_no": "Lillesand",
+    "k_adm_center": "Lillesand",
+    "k_population": 11523,
+    "k_area": 190.31,
+    "k_language": "Bokmål",
+    "k_url": "www.lillesand.kommune.no"
+  },
+  {
+    "k_id": "4216",
+    "k_name": "Birkenes",
+    "k_name_no": "Birkenes",
+    "k_adm_center": "Birkeland",
+    "k_population": 5480,
+    "k_area": 637.36,
+    "k_language": "Nøytral",
+    "k_url": "www.birkenes.kommune.no"
+  },
+  {
+    "k_id": "4217",
+    "k_name": "Åmli",
+    "k_name_no": "Åmli",
+    "k_adm_center": "Åmli",
+    "k_population": 1802,
+    "k_area": 1130.61,
+    "k_language": "Nynorsk",
+    "k_url": "www.amli.kommune.no"
+  },
+  {
+    "k_id": "4218",
+    "k_name": "Iveland",
+    "k_name_no": "Iveland",
+    "k_adm_center": "Birketveit",
+    "k_population": 1380,
+    "k_area": 261.63,
+    "k_language": "Nøytral",
+    "k_url": "www.iveland.kommune.no"
+  },
+  {
+    "k_id": "4219",
+    "k_name": "Evje og Hornnes",
+    "k_name_no": "Evje og Hornnes",
+    "k_adm_center": "Evje",
+    "k_population": 3967,
+    "k_area": 587.07,
+    "k_language": "Nøytral",
+    "k_url": "www.e-h.kommune.no"
+  },
+  {
+    "k_id": "4220",
+    "k_name": "Bygland",
+    "k_name_no": "Bygland",
+    "k_adm_center": "Bygland",
+    "k_population": 1180,
+    "k_area": 1311.74,
+    "k_language": "Nynorsk",
+    "k_url": "www.bygland.kommune.no"
+  },
+  {
+    "k_id": "4221",
+    "k_name": "Valle",
+    "k_name_no": "Valle",
+    "k_adm_center": "Valle",
+    "k_population": 1205,
+    "k_area": 1265.26,
+    "k_language": "Nynorsk",
+    "k_url": "www.valle.kommune.no"
+  },
+  {
+    "k_id": "4222",
+    "k_name": "Bykle",
+    "k_name_no": "Bykle",
+    "k_adm_center": "Bykle",
+    "k_population": 1011,
+    "k_area": 1467.1,
+    "k_language": "Nynorsk",
+    "k_url": "www.bykle.kommune.no"
+  },
+  {
+    "k_id": "4223",
+    "k_name": "Vennesla",
+    "k_name_no": "Vennesla",
+    "k_adm_center": "Vennesla",
+    "k_population": 15452,
+    "k_area": 384.47,
+    "k_language": "Nøytral",
+    "k_url": "www.vennesla.kommune.no"
+  },
+  {
+    "k_id": "4224",
+    "k_name": "Åseral",
+    "k_name_no": "Åseral",
+    "k_adm_center": "Kyrkjebygda",
+    "k_population": 923,
+    "k_area": 887.51,
+    "k_language": "Nynorsk",
+    "k_url": "www.aseral.kommune.no"
+  },
+  {
+    "k_id": "4225",
+    "k_name": "Lyngdal",
+    "k_name_no": "Lyngdal",
+    "k_adm_center": "Alleen",
+    "k_population": 10835,
+    "k_area": 642.79,
+    "k_language": "Nøytral",
+    "k_url": "www.lyngdal.kommune.no"
+  },
+  {
+    "k_id": "4226",
+    "k_name": "Hægebostad",
+    "k_name_no": "Hægebostad",
+    "k_adm_center": "Tingvatn",
+    "k_population": 1776,
+    "k_area": 461.32,
+    "k_language": "Nynorsk",
+    "k_url": "www.haegebostad.kommune.no"
+  },
+  {
+    "k_id": "4227",
+    "k_name": "Kvinesdal",
+    "k_name_no": "Kvinesdal",
+    "k_adm_center": "Liknes",
+    "k_population": 6192,
+    "k_area": 963.21,
+    "k_language": "Nøytral",
+    "k_url": "www.kvinesdal.kommune.no"
+  },
+  {
+    "k_id": "4228",
+    "k_name": "Sirdal",
+    "k_name_no": "Sirdal",
+    "k_adm_center": "Tonstad",
+    "k_population": 1873,
+    "k_area": 1554.28,
+    "k_language": "Nøytral",
+    "k_url": "www.sirdal.kommune.no"
+  },
+  {
+    "k_id": "4601",
+    "k_name": "Bergen",
+    "k_name_no": "Bergen",
+    "k_adm_center": "Bergen",
+    "k_population": 291940,
+    "k_area": 464.77,
+    "k_language": "Nøytral",
+    "k_url": "www.bergen.kommune.no"
+  },
+  {
+    "k_id": "4602",
+    "k_name": "Kinn",
+    "k_name_no": "Kinn",
+    "k_adm_center": "Florø",
+    "k_population": 17349,
+    "k_area": 811.86,
+    "k_language": "Nynorsk",
+    "k_url": "www.kinn.kommune.no"
+  },
+  {
+    "k_id": "4611",
+    "k_name": "Etne",
+    "k_name_no": "Etne",
+    "k_adm_center": "Etnesjøen",
+    "k_population": 4072,
+    "k_area": 735.28,
+    "k_language": "Nynorsk",
+    "k_url": "www.etne.kommune.no"
+  },
+  {
+    "k_id": "4612",
+    "k_name": "Sveio",
+    "k_name_no": "Sveio",
+    "k_adm_center": "Sveio",
+    "k_population": 5742,
+    "k_area": 246.15,
+    "k_language": "Nynorsk",
+    "k_url": "www.sveio.kommune.no"
+  },
+  {
+    "k_id": "4613",
+    "k_name": "Bømlo",
+    "k_name_no": "Bømlo",
+    "k_adm_center": "Svortland",
+    "k_population": 12268,
+    "k_area": 246.57,
+    "k_language": "Nynorsk",
+    "k_url": "www.bomlo.kommune.no"
+  },
+  {
+    "k_id": "4614",
+    "k_name": "Stord",
+    "k_name_no": "Stord",
+    "k_adm_center": "Leirvik",
+    "k_population": 19287,
+    "k_area": 143.72,
+    "k_language": "Nynorsk",
+    "k_url": "www.stord.kommune.no"
+  },
+  {
+    "k_id": "4615",
+    "k_name": "Fitjar",
+    "k_name_no": "Fitjar",
+    "k_adm_center": "Fitjar",
+    "k_population": 3203,
+    "k_area": 142.47,
+    "k_language": "Nynorsk",
+    "k_url": "www.fitjar.kommune.no"
+  },
+  {
+    "k_id": "4616",
+    "k_name": "Tysnes",
+    "k_name_no": "Tysnes",
+    "k_adm_center": "Uggdal",
+    "k_population": 2922,
+    "k_area": 255.12,
+    "k_language": "Nynorsk",
+    "k_url": "www.tysnes.kommune.no"
+  },
+  {
+    "k_id": "4617",
+    "k_name": "Kvinnherad",
+    "k_name_no": "Kvinnherad",
+    "k_adm_center": "Rosendal",
+    "k_population": 13089,
+    "k_area": 1090.74,
+    "k_language": "Nynorsk",
+    "k_url": "www.kvinnherad.kommune.no"
+  },
+  {
+    "k_id": "4618",
+    "k_name": "Ullensvang",
+    "k_name_no": "Ullensvang",
+    "k_adm_center": "Kinsarvik",
+    "k_population": 11017,
+    "k_area": 3229.89,
+    "k_language": "Nynorsk",
+    "k_url": "www.ullensvang.kommune.no"
+  },
+  {
+    "k_id": "4619",
+    "k_name": "Eidfjord",
+    "k_name_no": "Eidfjord",
+    "k_adm_center": "Eidfjord",
+    "k_population": 968,
+    "k_area": 1498.24,
+    "k_language": "Nynorsk",
+    "k_url": "www.eidfjord.kommune.no"
+  },
+  {
+    "k_id": "4620",
+    "k_name": "Ulvik",
+    "k_name_no": "Ulvik",
+    "k_adm_center": "Ulvik",
+    "k_population": 1089,
+    "k_area": 722,
+    "k_language": "Nynorsk",
+    "k_url": "www.ulvik.kommune.no"
+  },
+  {
+    "k_id": "4621",
+    "k_name": "Voss",
+    "k_name_no": "Voss",
+    "k_adm_center": "Vossevangen",
+    "k_population": 16471,
+    "k_area": 2041.96,
+    "k_language": "Nynorsk",
+    "k_url": "www.voss.kommune.no"
+  },
+  {
+    "k_id": "4622",
+    "k_name": "Kvam",
+    "k_name_no": "Kvam",
+    "k_adm_center": "Norheimsund",
+    "k_population": 8496,
+    "k_area": 616.95,
+    "k_language": "Nynorsk",
+    "k_url": "www.kvam.kommune.no"
+  },
+  {
+    "k_id": "4623",
+    "k_name": "Samnanger",
+    "k_name_no": "Samnanger",
+    "k_adm_center": "Tysse",
+    "k_population": 2502,
+    "k_area": 269.06,
+    "k_language": "Nynorsk",
+    "k_url": "www.samnanger.kommune.no"
+  },
+  {
+    "k_id": "4624",
+    "k_name": "Bjørnafjorden",
+    "k_name_no": "Bjørnafjorden",
+    "k_adm_center": "Osøyro",
+    "k_population": 26080,
+    "k_area": 517.4,
+    "k_language": "Nynorsk",
+    "k_url": "www.bjornafjorden.kommune.no"
+  },
+  {
+    "k_id": "4625",
+    "k_name": "Austevoll",
+    "k_name_no": "Austevoll",
+    "k_adm_center": "Storebø",
+    "k_population": 5300,
+    "k_area": 117.22,
+    "k_language": "Nynorsk",
+    "k_url": "www.austevoll.kommune.no"
+  },
+  {
+    "k_id": "4626",
+    "k_name": "Øygarden",
+    "k_name_no": "Øygarden",
+    "k_adm_center": "Straume",
+    "k_population": 39768,
+    "k_area": 314.52,
+    "k_language": "Nynorsk",
+    "k_url": "www.oygarden.kommune.no"
+  },
+  {
+    "k_id": "4627",
+    "k_name": "Askøy",
+    "k_name_no": "Askøy",
+    "k_adm_center": "Kleppestø",
+    "k_population": 30145,
+    "k_area": 101.1,
+    "k_language": "Nøytral",
+    "k_url": "www.askoy.kommune.no"
+  },
+  {
+    "k_id": "4628",
+    "k_name": "Vaksdal",
+    "k_name_no": "Vaksdal",
+    "k_adm_center": "Dale",
+    "k_population": 3852,
+    "k_area": 715.37,
+    "k_language": "Nynorsk",
+    "k_url": "www.vaksdal.kommune.no"
+  },
+  {
+    "k_id": "4629",
+    "k_name": "Modalen",
+    "k_name_no": "Modalen",
+    "k_adm_center": "Mo",
+    "k_population": 384,
+    "k_area": 411.98,
+    "k_language": "Nynorsk",
+    "k_url": "www.modalen.kommune.no"
+  },
+  {
+    "k_id": "4630",
+    "k_name": "Osterøy",
+    "k_name_no": "Osterøy",
+    "k_adm_center": "Lonevåg",
+    "k_population": 8200,
+    "k_area": 255.11,
+    "k_language": "Nynorsk",
+    "k_url": "www.osteroy.kommune.no"
+  },
+  {
+    "k_id": "4631",
+    "k_name": "Alver",
+    "k_name_no": "Alver",
+    "k_adm_center": "Knarvik",
+    "k_population": 29986,
+    "k_area": 679.15,
+    "k_language": "Nynorsk",
+    "k_url": "www.alver.kommune.no"
+  },
+  {
+    "k_id": "4632",
+    "k_name": "Austrheim",
+    "k_name_no": "Austrheim",
+    "k_adm_center": "Årås",
+    "k_population": 2881,
+    "k_area": 57.54,
+    "k_language": "Nynorsk",
+    "k_url": "www.austrheim.kommune.no"
+  },
+  {
+    "k_id": "4633",
+    "k_name": "Fedje",
+    "k_name_no": "Fedje",
+    "k_adm_center": "Fedje",
+    "k_population": 519,
+    "k_area": 9.27,
+    "k_language": "Nynorsk",
+    "k_url": "www.fedje.kommune.no"
+  },
+  {
+    "k_id": "4634",
+    "k_name": "Masfjorden",
+    "k_name_no": "Masfjorden",
+    "k_adm_center": "Masfjordnes",
+    "k_population": 1694,
+    "k_area": 556.08,
+    "k_language": "Nynorsk",
+    "k_url": "www.masfjorden.kommune.no"
+  },
+  {
+    "k_id": "4635",
+    "k_name": "Gulen",
+    "k_name_no": "Gulen",
+    "k_adm_center": "Eivindvik",
+    "k_population": 2234,
+    "k_area": 599.41,
+    "k_language": "Nynorsk",
+    "k_url": "www.gulen.kommune.no"
+  },
+  {
+    "k_id": "4636",
+    "k_name": "Solund",
+    "k_name_no": "Solund",
+    "k_adm_center": "Hardbakke",
+    "k_population": 750,
+    "k_area": 228.21,
+    "k_language": "Nynorsk",
+    "k_url": "www.solund.kommune.no"
+  },
+  {
+    "k_id": "4637",
+    "k_name": "Hyllestad",
+    "k_name_no": "Hyllestad",
+    "k_adm_center": "Hyllestad",
+    "k_population": 1268,
+    "k_area": 258.9,
+    "k_language": "Nynorsk",
+    "k_url": "www.hyllestad.kommune.no"
+  },
+  {
+    "k_id": "4638",
+    "k_name": "Høyanger",
+    "k_name_no": "Høyanger",
+    "k_adm_center": "Høyanger",
+    "k_population": 3879,
+    "k_area": 1000.92,
+    "k_language": "Nynorsk",
+    "k_url": "www.hoyanger.kommune.no"
+  },
+  {
+    "k_id": "4639",
+    "k_name": "Vik",
+    "k_name_no": "Vik",
+    "k_adm_center": "Vikøyri",
+    "k_population": 2551,
+    "k_area": 833.21,
+    "k_language": "Nynorsk",
+    "k_url": "www.vik.kommune.no"
+  },
+  {
+    "k_id": "4640",
+    "k_name": "Sogndal",
+    "k_name_no": "Sogndal",
+    "k_adm_center": "Sogndalsfjøra",
+    "k_population": 12319,
+    "k_area": 1257.84,
+    "k_language": "Nynorsk",
+    "k_url": "www.sogndal.kommune.no"
+  },
+  {
+    "k_id": "4641",
+    "k_name": "Aurland",
+    "k_name_no": "Aurland",
+    "k_adm_center": "Aurlandsvangen",
+    "k_population": 1800,
+    "k_area": 1467.69,
+    "k_language": "Nynorsk",
+    "k_url": "www.aurland.kommune.no"
+  },
+  {
+    "k_id": "4642",
+    "k_name": "Lærdal",
+    "k_name_no": "Lærdal",
+    "k_adm_center": "Lærdalsøyri",
+    "k_population": 2160,
+    "k_area": 1342.52,
+    "k_language": "Nynorsk",
+    "k_url": "www.laerdal.kommune.no"
+  },
+  {
+    "k_id": "4643",
+    "k_name": "Årdal",
+    "k_name_no": "Årdal",
+    "k_adm_center": "Årdalstangen",
+    "k_population": 5239,
+    "k_area": 976.58,
+    "k_language": "Nynorsk",
+    "k_url": "www.ardal.kommune.no"
+  },
+  {
+    "k_id": "4644",
+    "k_name": "Luster",
+    "k_name_no": "Luster",
+    "k_adm_center": "Gaupne",
+    "k_population": 5371,
+    "k_area": 2706.35,
+    "k_language": "Nynorsk",
+    "k_url": "www.luster.kommune.no"
+  },
+  {
+    "k_id": "4645",
+    "k_name": "Askvoll",
+    "k_name_no": "Askvoll",
+    "k_adm_center": "Askvoll",
+    "k_population": 2986,
+    "k_area": 326.24,
+    "k_language": "Nynorsk",
+    "k_url": "www.askvoll.kommune.no"
+  },
+  {
+    "k_id": "4646",
+    "k_name": "Fjaler",
+    "k_name_no": "Fjaler",
+    "k_adm_center": "Dale",
+    "k_population": 2869,
+    "k_area": 416.59,
+    "k_language": "Nynorsk",
+    "k_url": "www.fjaler.kommune.no"
+  },
+  {
+    "k_id": "4647",
+    "k_name": "Sunnfjord",
+    "k_name_no": "Sunnfjord",
+    "k_adm_center": "Førde",
+    "k_population": 22450,
+    "k_area": 2208.13,
+    "k_language": "Nynorsk",
+    "k_url": "www.sunnfjord.kommune.no"
+  },
+  {
+    "k_id": "4648",
+    "k_name": "Bremanger",
+    "k_name_no": "Bremanger",
+    "k_adm_center": "Svelgen",
+    "k_population": 3392,
+    "k_area": 833.12,
+    "k_language": "Nynorsk",
+    "k_url": "www.bremanger.kommune.no"
+  },
+  {
+    "k_id": "4649",
+    "k_name": "Stad",
+    "k_name_no": "Stad",
+    "k_adm_center": "Nordfjordeid",
+    "k_population": 9610,
+    "k_area": 752.78,
+    "k_language": "Nynorsk",
+    "k_url": "www.stad.kommune.no"
+  },
+  {
+    "k_id": "4650",
+    "k_name": "Gloppen",
+    "k_name_no": "Gloppen",
+    "k_adm_center": "Sandane",
+    "k_population": 5926,
+    "k_area": 1030.53,
+    "k_language": "Nynorsk",
+    "k_url": "www.gloppen.kommune.no"
+  },
+  {
+    "k_id": "4651",
+    "k_name": "Stryn",
+    "k_name_no": "Stryn",
+    "k_adm_center": "Stryn",
+    "k_population": 7271,
+    "k_area": 1382.02,
+    "k_language": "Nynorsk",
+    "k_url": "www.stryn.kommune.no"
+  },
+  {
+    "k_id": "5001",
+    "k_name": "Trondheim",
+    "k_name_no": "Trondheim",
+    "k_adm_center": "Trondheim",
+    "k_population": 214565,
+    "k_area": 528.6,
+    "k_language": "Nøytral",
+    "k_url": "www.trondheim.kommune.no"
+  },
+  {
+    "k_id": "5006",
+    "k_name": "Steinkjer",
+    "k_name_no": "Steinkjer",
+    "k_adm_center": "Steinkjer",
+    "k_population": 24032,
+    "k_area": 2122.06,
+    "k_language": "Nøytral",
+    "k_url": "www.steinkjer.kommune.no"
+  },
+  {
+    "k_id": "5007",
+    "k_name": "Namsos",
+    "k_name_no": "Namsos",
+    "k_adm_center": "Namsos",
+    "k_population": 15083,
+    "k_area": 2132.36,
+    "k_language": "Nøytral",
+    "k_url": "www.namsos.kommune.no"
+  },
+  {
+    "k_id": "5014",
+    "k_name": "Frøya",
+    "k_name_no": "Frøya",
+    "k_adm_center": "Sistranda",
+    "k_population": 5453,
+    "k_area": 241.32,
+    "k_language": "Bokmål",
+    "k_url": "www.froya.kommune.no"
+  },
+  {
+    "k_id": "5020",
+    "k_name": "Osen",
+    "k_name_no": "Osen",
+    "k_adm_center": "Steinsdalen",
+    "k_population": 898,
+    "k_area": 387.1,
+    "k_language": "Bokmål",
+    "k_url": "www.osen.kommune.no"
+  },
+  {
+    "k_id": "5021",
+    "k_name": "Oppdal",
+    "k_name_no": "Oppdal",
+    "k_adm_center": "Oppdal",
+    "k_population": 7389,
+    "k_area": 2274.11,
+    "k_language": "Nøytral",
+    "k_url": "www.oppdal.kommune.no"
+  },
+  {
+    "k_id": "5022",
+    "k_name": "Rennebu",
+    "k_name_no": "Rennebu",
+    "k_adm_center": "Berkåk",
+    "k_population": 2484,
+    "k_area": 947.95,
+    "k_language": "Nøytral",
+    "k_url": "www.rennebu.kommune.no"
+  },
+  {
+    "k_id": "5025",
+    "k_name": "Rosse",
+    "k_name_no": "Røros",
+    "k_adm_center": "Røros",
+    "k_population": 5685,
+    "k_area": 1956.53,
+    "k_language": "Nøytral",
+    "k_url": "www.roros.kommune.no"
+  },
+  {
+    "k_id": "5026",
+    "k_name": "Holtålen",
+    "k_name_no": "Holtålen",
+    "k_adm_center": "Ålen",
+    "k_population": 2035,
+    "k_area": 1209.58,
+    "k_language": "Nøytral",
+    "k_url": "www.holtalen.kommune.no"
+  },
+  {
+    "k_id": "5027",
+    "k_name": "Midtre Gauldal",
+    "k_name_no": "Midtre Gauldal",
+    "k_adm_center": "Støren",
+    "k_population": 6140,
+    "k_area": 1860.43,
+    "k_language": "Bokmål",
+    "k_url": "www.midtre-gauldal.kommune.no"
+  },
+  {
+    "k_id": "5028",
+    "k_name": "Melhus",
+    "k_name_no": "Melhus",
+    "k_adm_center": "Melhus",
+    "k_population": 17560,
+    "k_area": 694.41,
+    "k_language": "Nøytral",
+    "k_url": "www.melhus.kommune.no"
+  },
+  {
+    "k_id": "5029",
+    "k_name": "Skaun",
+    "k_name_no": "Skaun",
+    "k_adm_center": "Børsa",
+    "k_population": 8484,
+    "k_area": 224.2,
+    "k_language": "Nøytral",
+    "k_url": "www.skaun.kommune.no"
+  },
+  {
+    "k_id": "5031",
+    "k_name": "Malvik",
+    "k_name_no": "Malvik",
+    "k_adm_center": "Hommelvik",
+    "k_population": 14783,
+    "k_area": 168.43,
+    "k_language": "Bokmål",
+    "k_url": "www.malvik.kommune.no"
+  },
+  {
+    "k_id": "5032",
+    "k_name": "Selbu",
+    "k_name_no": "Selbu",
+    "k_adm_center": "Mebond",
+    "k_population": 4216,
+    "k_area": 1234.84,
+    "k_language": "Nøytral",
+    "k_url": "www.selbu.kommune.no"
+  },
+  {
+    "k_id": "5033",
+    "k_name": "Tydal",
+    "k_name_no": "Tydal",
+    "k_adm_center": "Ås",
+    "k_population": 773,
+    "k_area": 1328.64,
+    "k_language": "Bokmål",
+    "k_url": "www.tydal.kommune.no"
+  },
+  {
+    "k_id": "5034",
+    "k_name": "Meråker",
+    "k_name_no": "Meråker",
+    "k_adm_center": "Midtbygda",
+    "k_population": 2454,
+    "k_area": 1273.94,
+    "k_language": "Bokmål",
+    "k_url": "www.meraker.kommune.no"
+  },
+  {
+    "k_id": "5035",
+    "k_name": "Stjørdal",
+    "k_name_no": "Stjørdal",
+    "k_adm_center": "Stjørdalshalsen",
+    "k_population": 24717,
+    "k_area": 938.27,
+    "k_language": "Nøytral",
+    "k_url": "www.stjordal.kommune.no"
+  },
+  {
+    "k_id": "5036",
+    "k_name": "Frosta",
+    "k_name_no": "Frosta",
+    "k_adm_center": "Frosta",
+    "k_population": 2645,
+    "k_area": 76.32,
+    "k_language": "Nøytral",
+    "k_url": "www.frosta.kommune.no"
+  },
+  {
+    "k_id": "5037",
+    "k_name": "Levanger",
+    "k_name_no": "Levanger",
+    "k_adm_center": "Levanger",
+    "k_population": 20574,
+    "k_area": 645.8,
+    "k_language": "Nøytral",
+    "k_url": "www.levanger.kommune.no"
+  },
+  {
+    "k_id": "5038",
+    "k_name": "Verdal",
+    "k_name_no": "Verdal",
+    "k_adm_center": "Verdalsøra",
+    "k_population": 15193,
+    "k_area": 1547.81,
+    "k_language": "Nøytral",
+    "k_url": "www.verdal.kommune.no"
+  },
+  {
+    "k_id": "5041",
+    "k_name": "Snåase",
+    "k_name_no": "Snåsa",
+    "k_adm_center": "Snåsa",
+    "k_population": 2114,
+    "k_area": 2342.66,
+    "k_language": "Nøytral",
+    "k_url": "www.snasa.kommune.no"
+  },
+  {
+    "k_id": "5042",
+    "k_name": "Lierne",
+    "k_name_no": "Lierne",
+    "k_adm_center": "Lierne",
+    "k_population": 1301,
+    "k_area": 2961.7,
+    "k_language": "Nøytral",
+    "k_url": "www.lierne.kommune.no"
+  },
+  {
+    "k_id": "5043",
+    "k_name": "Raarvihke",
+    "k_name_no": "Røyrvik",
+    "k_adm_center": "Røyrvik",
+    "k_population": 423,
+    "k_area": 1584.74,
+    "k_language": "Nøytral",
+    "k_url": "www.royrvik.kommune.no"
+  },
+  {
+    "k_id": "5044",
+    "k_name": "Namsskogan",
+    "k_name_no": "Namsskogan",
+    "k_adm_center": "Namsskogan",
+    "k_population": 810,
+    "k_area": 1417.15,
+    "k_language": "Nøytral",
+    "k_url": "www.namsskogan.kommune.no"
+  },
+  {
+    "k_id": "5045",
+    "k_name": "Grong",
+    "k_name_no": "Grong",
+    "k_adm_center": "Grong",
+    "k_population": 2322,
+    "k_area": 1136.16,
+    "k_language": "Nøytral",
+    "k_url": "www.grong.kommune.no"
+  },
+  {
+    "k_id": "5046",
+    "k_name": "Høylandet",
+    "k_name_no": "Høylandet",
+    "k_adm_center": "Høylandet",
+    "k_population": 1222,
+    "k_area": 754.68,
+    "k_language": "Nøytral",
+    "k_url": "www.hoylandet.kommune.no"
+  },
+  {
+    "k_id": "5047",
+    "k_name": "Overhalla",
+    "k_name_no": "Overhalla",
+    "k_adm_center": "Ranemsletta",
+    "k_population": 3924,
+    "k_area": 730.05,
+    "k_language": "Nøytral",
+    "k_url": "www.overhalla.kommune.no"
+  },
+  {
+    "k_id": "5049",
+    "k_name": "Flatanger",
+    "k_name_no": "Flatanger",
+    "k_adm_center": "Lauvsnes",
+    "k_population": 1116,
+    "k_area": 458.71,
+    "k_language": "Nøytral",
+    "k_url": "www.flatanger.kommune.no"
+  },
+  {
+    "k_id": "5052",
+    "k_name": "Leka",
+    "k_name_no": "Leka",
+    "k_adm_center": "Leknes",
+    "k_population": 604,
+    "k_area": 110.12,
+    "k_language": "Nøytral",
+    "k_url": "www.leka.kommune.no"
+  },
+  {
+    "k_id": "5053",
+    "k_name": "Inderøy",
+    "k_name_no": "Inderøy",
+    "k_adm_center": "Straumen",
+    "k_population": 6938,
+    "k_area": 365.67,
+    "k_language": "Nøytral",
+    "k_url": "www.inderoy.kommune.no"
+  },
+  {
+    "k_id": "5054",
+    "k_name": "Indre Fosen",
+    "k_name_no": "Indre Fosen",
+    "k_adm_center": "Årnset",
+    "k_population": 10023,
+    "k_area": 1095.97,
+    "k_language": "Nøytral",
+    "k_url": "www.indrefosen.kommune.no"
+  },
+  {
+    "k_id": "5055",
+    "k_name": "Heim",
+    "k_name_no": "Heim",
+    "k_adm_center": "Kyrksæterøra",
+    "k_population": 6093,
+    "k_area": 1024.55,
+    "k_language": "Nøytral",
+    "k_url": "www.heim.kommune.no"
+  },
+  {
+    "k_id": "5056",
+    "k_name": "Hitra",
+    "k_name_no": "Hitra",
+    "k_adm_center": "Fillan",
+    "k_population": 5323,
+    "k_area": 755.89,
+    "k_language": "Nøytral",
+    "k_url": "www.hitra.kommune.no"
+  },
+  {
+    "k_id": "5057",
+    "k_name": "Ørland",
+    "k_name_no": "Ørland",
+    "k_adm_center": "Brekstad",
+    "k_population": 10522,
+    "k_area": 457.15,
+    "k_language": "Bokmål",
+    "k_url": "www.orland.kommune.no"
+  },
+  {
+    "k_id": "5058",
+    "k_name": "Åfjord",
+    "k_name_no": "Åfjord",
+    "k_adm_center": "Årnes",
+    "k_population": 4339,
+    "k_area": 1329.43,
+    "k_language": "Nøytral",
+    "k_url": "www.afjord.kommune.no"
+  },
+  {
+    "k_id": "5059",
+    "k_name": "Orkland",
+    "k_name_no": "Orkland",
+    "k_adm_center": "Orkanger",
+    "k_population": 18793,
+    "k_area": 1906.28,
+    "k_language": "Nøytral",
+    "k_url": "www.orkland.kommune.no"
+  },
+  {
+    "k_id": "5060",
+    "k_name": "Nærøysund",
+    "k_name_no": "Nærøysund",
+    "k_adm_center": "Rørvik",
+    "k_population": 9968,
+    "k_area": 1346.2,
+    "k_language": "Nøytral",
+    "k_url": "www.naroysund.kommune.no"
+  },
+  {
+    "k_id": "5061",
+    "k_name": "Rindal",
+    "k_name_no": "Rindal",
+    "k_adm_center": "Rindal",
+    "k_population": 1958,
+    "k_area": 631.94,
+    "k_language": "Nøytral",
+    "k_url": "www.rindal.kommune.no"
+  },
+  {
+    "k_id": "5501",
+    "k_name": "Tromsø",
+    "k_name_no": "Tromsø",
+    "k_adm_center": "Tromsø",
+    "k_population": 78745,
+    "k_area": 2520.8,
+    "k_language": "Nøytral",
+    "k_url": "www.tromso.kommune.no"
+  },
+  {
+    "k_id": "5503",
+    "k_name": "Harstad",
+    "k_name_no": "Harstad",
+    "k_adm_center": "Harstad",
+    "k_population": 25056,
+    "k_area": 445.27,
+    "k_language": "Nøytral",
+    "k_url": "www.harstad.kommune.no"
+  },
+  {
+    "k_id": "5510",
+    "k_name": "Kvæfjord",
+    "k_name_no": "Kvæfjord",
+    "k_adm_center": "Borkenes",
+    "k_population": 2845,
+    "k_area": 512.62,
+    "k_language": "Nøytral",
+    "k_url": "www.kvafjord.kommune.no"
+  },
+  {
+    "k_id": "5512",
+    "k_name": "Dielddanuorri",
+    "k_name_no": "Tjeldsund",
+    "k_adm_center": "Evenskjer",
+    "k_population": 4281,
+    "k_area": 814.41,
+    "k_language": "Bokmål",
+    "k_url": "www.tjeldsund.kommune.no"
+  },
+  {
+    "k_id": "5514",
+    "k_name": "Ibestad",
+    "k_name_no": "Ibestad",
+    "k_adm_center": "Hamnvik",
+    "k_population": 1311,
+    "k_area": 241.15,
+    "k_language": "Bokmål",
+    "k_url": "www.ibestad.kommune.no"
+  },
+  {
+    "k_id": "5516",
+    "k_name": "Gratangen",
+    "k_name_no": "Gratangen",
+    "k_adm_center": "Årstein",
+    "k_population": 1070,
+    "k_area": 312.76,
+    "k_language": "Nøytral",
+    "k_url": "www.gratangen.kommune.no"
+  },
+  {
+    "k_id": "5518",
+    "k_name": "Loabák",
+    "k_name_no": "Lavangen",
+    "k_adm_center": "Tennevoll",
+    "k_population": 986,
+    "k_area": 301.62,
+    "k_language": "Nøytral",
+    "k_url": "www.lavangen.kommune.no"
+  },
+  {
+    "k_id": "5520",
+    "k_name": "Bardu",
+    "k_name_no": "Bardu",
+    "k_adm_center": "Setermoen",
+    "k_population": 3986,
+    "k_area": 2703.89,
+    "k_language": "Nøytral",
+    "k_url": "www.bardu.kommune.no"
+  },
+  {
+    "k_id": "5522",
+    "k_name": "Salangen",
+    "k_name_no": "Salangen",
+    "k_adm_center": "Sjøvegan",
+    "k_population": 2069,
+    "k_area": 458.07,
+    "k_language": "Nøytral",
+    "k_url": "www.salangen.kommune.no"
+  },
+  {
+    "k_id": "5524",
+    "k_name": "Målselv",
+    "k_name_no": "Målselv",
+    "k_adm_center": "Moen",
+    "k_population": 6714,
+    "k_area": 3324.45,
+    "k_language": "Nøytral",
+    "k_url": "www.malselv.kommune.no"
+  },
+  {
+    "k_id": "5526",
+    "k_name": "Sørreisa",
+    "k_name_no": "Sørreisa",
+    "k_adm_center": "Sørreisa",
+    "k_population": 3485,
+    "k_area": 362.97,
+    "k_language": "Nøytral",
+    "k_url": "www.sorreisa.kommune.no"
+  },
+  {
+    "k_id": "5528",
+    "k_name": "Dyrøy",
+    "k_name_no": "Dyrøy",
+    "k_adm_center": "Brøstadbotn",
+    "k_population": 1073,
+    "k_area": 288.64,
+    "k_language": "Bokmål",
+    "k_url": "www.dyroy.kommune.no"
+  },
+  {
+    "k_id": "5530",
+    "k_name": "Senja",
+    "k_name_no": "Senja",
+    "k_adm_center": "Finnsnes",
+    "k_population": 14894,
+    "k_area": 1946.09,
+    "k_language": "Nøytral",
+    "k_url": "www.senja.kommune.no"
+  },
+  {
+    "k_id": "5532",
+    "k_name": "Balsfjord",
+    "k_name_no": "Balsfjord",
+    "k_adm_center": "Storsteinnes",
+    "k_population": 5571,
+    "k_area": 1496.99,
+    "k_language": "Bokmål",
+    "k_url": "www.balsfjord.kommune.no"
+  },
+  {
+    "k_id": "5534",
+    "k_name": "Karlsøy",
+    "k_name_no": "Karlsøy",
+    "k_adm_center": "Hansnes",
+    "k_population": 2237,
+    "k_area": 1091.6,
+    "k_language": "Nøytral",
+    "k_url": "www.karlsoy.kommune.no"
+  },
+  {
+    "k_id": "5536",
+    "k_name": "Lyngen",
+    "k_name_no": "Lyngen",
+    "k_adm_center": "Lyngseidet",
+    "k_population": 2743,
+    "k_area": 812.7,
+    "k_language": "Nøytral",
+    "k_url": "www.lyngen.kommune.no"
+  },
+  {
+    "k_id": "5538",
+    "k_name": "Storfjord",
+    "k_name_no": "Storfjord",
+    "k_adm_center": "Hatteng",
+    "k_population": 1825,
+    "k_area": 1542.73,
+    "k_language": "Nøytral",
+    "k_url": "www.storfjord.kommune.no"
+  },
+  {
+    "k_id": "5540",
+    "k_name": "Gáivuotna",
+    "k_name_no": "Kåfjord",
+    "k_adm_center": "Olderdalen",
+    "k_population": 1974,
+    "k_area": 991.15,
+    "k_language": "Bokmål",
+    "k_url": "www.kafjord.kommune.no"
+  },
+  {
+    "k_id": "5542",
+    "k_name": "Skjervøy",
+    "k_name_no": "Skjervøy",
+    "k_adm_center": "Skjervøy",
+    "k_population": 2794,
+    "k_area": 474,
+    "k_language": "Bokmål",
+    "k_url": "www.skjervoy.kommune.no"
+  },
+  {
+    "k_id": "5544",
+    "k_name": "Nordreisa",
+    "k_name_no": "Nordreisa",
+    "k_adm_center": "Storslett",
+    "k_population": 4794,
+    "k_area": 3437.77,
+    "k_language": "Bokmål",
+    "k_url": "www.nordreisa.kommune.no"
+  },
+  {
+    "k_id": "5546",
+    "k_name": "Kvænangen",
+    "k_name_no": "Kvænangen",
+    "k_adm_center": "Burfjord",
+    "k_population": 1157,
+    "k_area": 2109.68,
+    "k_language": "Nøytral",
+    "k_url": "www.kvanangen.kommune.no"
+  },
+  {
+    "k_id": "5601",
+    "k_name": "Alta",
+    "k_name_no": "Alta",
+    "k_adm_center": "Alta",
+    "k_population": 21708,
+    "k_area": 3848.82,
+    "k_language": "Bokmål",
+    "k_url": "www.alta.kommune.no"
+  },
+  {
+    "k_id": "5603",
+    "k_name": "Hammerfest",
+    "k_name_no": "Hammerfest",
+    "k_adm_center": "Hammerfest",
+    "k_population": 11338,
+    "k_area": 2692.81,
+    "k_language": "Nøytral",
+    "k_url": "www.hammerfest.kommune.no"
+  },
+  {
+    "k_id": "5605",
+    "k_name": "Sør-Varanger",
+    "k_name_no": "Sør-Varanger",
+    "k_adm_center": "Kirkenes",
+    "k_population": 10063,
+    "k_area": 3971.42,
+    "k_language": "Bokmål",
+    "k_url": "www.sor-varanger.kommune.no"
+  },
+  {
+    "k_id": "5607",
+    "k_name": "Vadsø",
+    "k_name_no": "Vadsø",
+    "k_adm_center": "Vadsø",
+    "k_population": 5807,
+    "k_area": 1258.06,
+    "k_language": "Bokmål",
+    "k_url": "www.vadso.kommune.no"
+  },
+  {
+    "k_id": "5610",
+    "k_name": "Kárášjohka",
+    "k_name_no": "Karasjok",
+    "k_adm_center": "Karasjok",
+    "k_population": 2565,
+    "k_area": 5452.94,
+    "k_language": "Bokmål",
+    "k_url": "www.karasjok.kommune.no"
+  },
+  {
+    "k_id": "5612",
+    "k_name": "Guovdageaidnu",
+    "k_name_no": "Kautokeino",
+    "k_adm_center": "Kautokeino",
+    "k_population": 2848,
+    "k_area": 9707.35,
+    "k_language": "Bokmål",
+    "k_url": "www.kautokeino.kommune.no"
+  },
+  {
+    "k_id": "5614",
+    "k_name": "Loppa",
+    "k_name_no": "Loppa",
+    "k_adm_center": "Øksfjord",
+    "k_population": 864,
+    "k_area": 689.27,
+    "k_language": "Bokmål",
+    "k_url": "www.loppa.kommune.no"
+  },
+  {
+    "k_id": "5616",
+    "k_name": "Hasvik",
+    "k_name_no": "Hasvik",
+    "k_adm_center": "Breivikbotn",
+    "k_population": 979,
+    "k_area": 555.43,
+    "k_language": "Bokmål",
+    "k_url": "www.hasvik.kommune.no"
+  },
+  {
+    "k_id": "5618",
+    "k_name": "Måsøy",
+    "k_name_no": "Måsøy",
+    "k_adm_center": "Havøysund",
+    "k_population": 1113,
+    "k_area": 1137.19,
+    "k_language": "Bokmål",
+    "k_url": "www.masoy.kommune.no"
+  },
+  {
+    "k_id": "5620",
+    "k_name": "Nordkapp",
+    "k_name_no": "Nordkapp",
+    "k_adm_center": "Honningsvåg",
+    "k_population": 2951,
+    "k_area": 926.59,
+    "k_language": "Nøytral",
+    "k_url": "www.nordkapp.kommune.no"
+  },
+  {
+    "k_id": "5622",
+    "k_name": "Porsanger",
+    "k_name_no": "Porsanger",
+    "k_adm_center": "Lakselv",
+    "k_population": 3889,
+    "k_area": 4874.29,
+    "k_language": "Bokmål",
+    "k_url": "www.porsanger.kommune.no"
+  },
+  {
+    "k_id": "5624",
+    "k_name": "Lebesby",
+    "k_name_no": "Lebesby",
+    "k_adm_center": "Kjøllefjord",
+    "k_population": 1215,
+    "k_area": 3460.5,
+    "k_language": "Bokmål",
+    "k_url": "www.lebesby.kommune.no"
+  },
+  {
+    "k_id": "5626",
+    "k_name": "Gamvik",
+    "k_name_no": "Gamvik",
+    "k_adm_center": "Mehamn",
+    "k_population": 1070,
+    "k_area": 1416.55,
+    "k_language": "Nøytral",
+    "k_url": "www.gamvik.kommune.no"
+  },
+  {
+    "k_id": "5628",
+    "k_name": "Deatnu",
+    "k_name_no": "Tana",
+    "k_adm_center": "Tana bru",
+    "k_population": 2807,
+    "k_area": 4051.28,
+    "k_language": "Bokmål",
+    "k_url": "www.tana.kommune.no"
+  },
+  {
+    "k_id": "5630",
+    "k_name": "Berlevåg",
+    "k_name_no": "Berlevåg",
+    "k_adm_center": "Berlevåg",
+    "k_population": 892,
+    "k_area": 1121.77,
+    "k_language": "Bokmål",
+    "k_url": "www.berlevag.kommune.no"
+  },
+  {
+    "k_id": "5632",
+    "k_name": "Båtsfjord",
+    "k_name_no": "Båtsfjord",
+    "k_adm_center": "Båtsfjord",
+    "k_population": 2113,
+    "k_area": 1435.12,
+    "k_language": "Nøytral",
+    "k_url": "www.batsfjord.kommune.no"
+  },
+  {
+    "k_id": "5634",
+    "k_name": "Vardø",
+    "k_name_no": "Vardø",
+    "k_adm_center": "Vardø",
+    "k_population": 1972,
+    "k_area": 600.85,
+    "k_language": "Bokmål",
+    "k_url": "www.vardo.kommune.no"
+  },
+  {
+    "k_id": "5636",
+    "k_name": "Unjárga",
+    "k_name_no": "Nesseby",
+    "k_adm_center": "Varangerbotn",
+    "k_population": 859,
+    "k_area": 1437.07,
+    "k_language": "Bokmål",
+    "k_url": "www.nesseby.kommune.no"
+  }
+]

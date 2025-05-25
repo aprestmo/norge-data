@@ -1,0 +1,44 @@
+{
+  "name": "norge-data",
+  "version": "1.0.0",
+  "description": "Norwegian geographic data package providing access to counties (fylker) and municipalities (kommuner) with searchable API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprestmo/norge-data.git"
+  },
+  "keywords": [
+    "norway",
+    "norge",
+    "fylker",
+    "kommuner",
+    "geography",
+    "geolocation",
+    "municipalities",
+    "counties",
+    "norwegian"
+  ],
+  "author": {
+    "name": "Alexander Prestmo",
+    "url": "https://github.com/aprestmo"
+  },
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aprestmo/norge-data/issues"
+  },
+  "homepage": "https://github.com/aprestmo/norge-data#readme",
+  "files": [
+    "index.js",
+    "data/*.json",
+    "src/**/*.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.16"
+  }
+}

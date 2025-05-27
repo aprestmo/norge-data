@@ -100,6 +100,46 @@ export function getKommuneByName(name) {
 }
 
 /**
+ * Get a municipality by its short ID (1-4 digits)
+ * @param {(string|number)} shortId - The municipality ID, can be 1-4 digits
+ * @returns {Kommune|undefined} The municipality object or undefined if not found
+ */
+export function getKommuneByShortId(shortId) {
+  // Convert input to string and remove any leading zeros
+  const searchId = String(shortId).replace(/^0+/, '');
+  
+  // First try exact match with padding
+  const paddedId = searchId.padStart(4, '0');
+  const exactMatch = kommunerData.find(kommune => kommune.k_id === paddedId);
+  if (exactMatch) return exactMatch;
+
+  // If no exact match, look for kommune where ID without leading zeros matches
+  const noZerosMatch = kommunerData.find(kommune => {
+    const kommuneIdWithoutLeadingZeros = kommune.k_id.replace(/^0+/, '');
+    return kommuneIdWithoutLeadingZeros === searchId;
+  });
+  if (noZerosMatch) return noZerosMatch;
+
+  // If still no match, check if searchId is a subsequence of any kommune ID
+  return kommunerData.find(kommune => {
+    const kommuneId = kommune.k_id;
+    let searchIndex = 0;
+    let kommuneIndex = 0;
+
+    // Check if searchId digits appear in order in kommuneId
+    while (searchIndex < searchId.length && kommuneIndex < kommuneId.length) {
+      if (searchId[searchIndex] === kommuneId[kommuneIndex]) {
+        searchIndex++;
+      }
+      kommuneIndex++;
+    }
+
+    // Return true if we found all digits in sequence
+    return searchIndex === searchId.length;
+  });
+}
+
+/**
  * Filter municipalities by language form
  * @param {string} language - The language form (Bokmål, Nynorsk, or Nøytral)
  * @returns {Kommune[]} An array of municipalities with the specified language form
@@ -190,6 +230,7 @@ export default {
   getKommunerByPopulation,
   getKommunerByArea,
   searchKommunerByName,
-  searchFylkerByName
+  searchFylkerByName,
+  getKommuneByShortId
 };
 

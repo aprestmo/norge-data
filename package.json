@@ -1,6 +1,6 @@
 {
   "name": "@aprestmo/norway-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Norwegian geographic data package providing access to counties (fylker) and municipalities (kommuner) with searchable API",
   "main": "index.js",
   "scripts": {
